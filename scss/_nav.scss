@@ -1,0 +1,42 @@
+@media (min-width: 600px ) {
+	.top-nav-desktop {
+		padding: 1.5rem 2rem 3rem 2rem;
+		max-width: 1400px;
+		ul {
+			display: flex;
+			margin-top: 0rem;
+			float: right;
+			li {
+				flex: 1;
+				display: inline-block;
+				margin: 0 .5rem;
+				a {
+					font-size: 1rem;
+					padding: 0;
+					color: #3300FF;
+					text-decoration: none;
+					text-transform: uppercase;
+					&:hover {
+						text-decoration: underline;
+					}
+				}
+			}
+		}
+	}
+	.site-logo {
+		float: none;
+		color: #3300FF;
+		border: solid 1px #3300FF;
+		&:hover {
+			background: #3300FF;
+			border-color: #3300FF;
+			color: #fff;
+		}
+	}
+	.site-logo-inside {
+		margin-top: 0;
+	}
+	.header {
+		display: block;
+	}
+}

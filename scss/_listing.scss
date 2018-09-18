@@ -1,0 +1,62 @@
+// features section
+.page-header {
+	margin-bottom: 3rem;
+	h1 {
+		font-size: 1.5rem;
+	}
+}
+.listings {
+	article {
+		margin-bottom: 2rem;
+		figure {
+			height: 250px;
+			padding: 0;
+			margin: 0;
+			border: solid 1px #ccc;
+			&:last-of-type {
+				border: none;
+			}
+			img {
+				object-fit: cover;
+				height: 250px;
+				width: 100%;
+			}
+		}
+	}
+	h3 {
+		font-size: 1.875rem;
+	}
+	a {
+		text-decoration: none;
+		color: #000;
+		&:hover {
+			color: #3300FF;
+			text-decoration: underline;
+			img {
+				opacity: .8;
+			}
+		}
+	}
+	img {
+		margin-bottom: .5rem;
+	}
+	.meta {
+		font-size: 1rem;
+	}
+}
+@media screen and (min-width: 40em) {
+	.listings {
+		article {
+			margin-bottom: 2.5rem;
+		}
+		p, li {
+			font-size: 1.25rem;
+		}
+		img {
+			max-width: 100%;
+		}
+		h2 {
+			margin-top: 0;
+		}
+	}
+}
