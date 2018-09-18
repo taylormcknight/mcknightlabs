@@ -24,7 +24,8 @@ url: "https://mcknightlabs.com" # the base hostname & protocol for your site, e.
 twitter_username: jekyllrb
 github_username:  jekyll
 collections:
-  projects:
+    activities:
+    projects:
     output: true
 
 # Build settings

@@ -3,47 +3,15 @@ h1 {
 	font-size: 3.125rem;
 }
 .grid {
-	max-width: 1200px;
     padding: 3rem 0;
     margin: 0 auto;
 	display: grid;
-	grid-gap: 3rem;
 	grid-template-columns: repeat(12, 1fr);
+	padding: 1rem;
 	article {
 		grid-column: span 12;
 	}
-	p {
-		font-size: 1.875rem;
-	}
 }
-.cards {
-	a {
-		
-		&:hover {
-			text-decoration:underline;
-		}
-	}
-	article {
-		background: #fff;
-		-webkit-box-shadow: 3px 3px 30px -2px rgba(153,153,153,.5);
-	    -moz-box-shadow: 3px 3px 30px -2px rgba(153,153,153,.5);
-	    box-shadow: 3px 3px 30px -2px rgba(153,153,153,.5);
-	    -webkit-transform: translateY(-2px);
-	    transform: translateY(-2px);
-	}
-	figure {
-		height: 200px;
-		padding: 0;
-		margin: 0;
-		border-bottom: solid 1px #f5f7f8;
-		
-	}
-	figcaption {
-		margin: 0;
-		padding: 1.25rem 0;
-	}
-}
-
 .stripe-section {
 	background: #f5f7f8;
 }
@@ -52,10 +20,8 @@ h1 {
 }
 // gallery
 .gallery {
-	max-width: 1200px;
-	padding: 3rem 0;
+	padding: 1rem;
 	display: grid;
-	grid-gap: 4rem;
 	grid-template-columns: repeat(12, 1fr);
 	margin: 2.5rem auto 0 auto;
 	a {
@@ -75,11 +41,13 @@ h1 {
 		margin: 0 0 1rem 0;
 		line-height: 1.3;
 	}
+	figure {
+		margin-top: 1rem;
+	}
 	article {
 		list-style-type: none;
-		margin: 0;
+		margin: 0 0 2rem 0;
 		grid-column-start: span 12;
-		margin-bottom: 0rem;
 		transition: all .2s ease;
 		width: 100%;
 		border-bottom: solid 1px #c3cace;
@@ -95,9 +63,18 @@ h1 {
 
 // medium screen size up
 @media (min-width: 600px ) {
+	.grid {
+		max-width: 1200px;
+		grid-gap: 3rem;
+		p {
+			font-size: 1.875rem;
+		}
+	}
 	.gallery {
 		grid-gap: 4rem;
+		max-width: 1200px;
 		article {
+			margin: 0;
 			padding: 2rem 0;
 			display: grid;
 			grid-column: span 12;
@@ -107,6 +84,7 @@ h1 {
 				grid-column: span 7;
 			}
 			figure {
+				margin: 0;
 				grid-column: span 5;
 			}
 			/*figure {
@@ -118,18 +96,6 @@ h1 {
 					width: 100%;
 				}
 			}*/
-		}
-	}
-	.cards {
-		article {
-			box-shadow: none;
-			&:hover {
-			    -webkit-box-shadow: 3px 3px 30px -2px rgba(153,153,153,.5);
-			    -moz-box-shadow: 3px 3px 30px -2px rgba(153,153,153,.5);
-			    box-shadow: 3px 3px 30px -2px rgba(153,153,153,.5);
-			    -webkit-transform: translateY(-2px);
-			    transform: translateY(-2px);
-			}
 		}
 	}
 }

@@ -28,7 +28,7 @@ og_type: website
 </section>
 <section class="stripe-section">
 	<section class="gallery">
-		{% for activity in site.activity %}
+		{% for page in site.activities %}
 		<article>
 			<figcaption>
 				{% if page.external_url %}
