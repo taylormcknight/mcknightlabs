@@ -11,19 +11,16 @@ og_type: website
 <article>
 <h1>{{ page.title }}</h1>
 
-<p>I founded and lead the multidisciplinary and <a href="https://www.industrydive.com/news/post/honoring-industry-dives-award-winning-design-leader/">award-winning</a> <a href="https://design.industrydive.com/">design team</a> at <a href="https://www.industrydive.com/">Industry Dive</a>, a rapidly growing business news company in Washington, DC. We were selected a "Best Place to Work" by the Washington Post in 2017 and 2018.</p>
+<p>I founded and lead the multi-disciplinary and <a href="https://www.industrydive.com/news/post/honoring-industry-dives-award-winning-design-leader/">award-winning</a> <a href="https://design.industrydive.com/">design team</a> at <a href="https://www.industrydive.com/">Industry Dive</a>, a rapidly growing business news company in Washington, DC. We were selected a "Best Place to Work" by the Washington Post in 2017 and 2018.</p>
 
 <p>In 2017, I was recognized as an "<a href="http://www.siia.net/bims/SPECIAL-PROGRAMS/Emerging-Leader-Awards">Emerging Leader</a>" in the B2B media industry for my work at Industry Dive.</p>
 
-<p>I joined the Industry Dive team during year one and became <a href="{{ site.url }}/tech/2018/02/05/startupjob">FTE #5</a>. Within five years, we scaled the company to over 100 FTEs and $15M+ in annual revenue.</p>
-
 <p>Read about my startup and management experiences <a href="{{ site.url }}/tech-design">here</a>.</p>
 
-<p><strong>Get in touch.</strong></p>
-<p>Direct message me on <a href="https://www.twitter.com/mcknightlabs">Twitter</a>, <a href="https://www.instagram.com/mountainlogbook
-">Instagram</a> or <a href="https://www.linkedin.com/in/ryantmcknight/">LinkedIn</a>.</p>
+<!--<p>To get in touch, direct message me on <a href="https://www.twitter.com/mcknightlabs">Twitter</a>, <a href="https://www.instagram.com/mountainlogbook
+">Instagram</a> or <a href="https://www.linkedin.com/in/ryantmcknight/">LinkedIn</a>.</p>-->
 
-<p><strong>Self-mastery is what drives me.</strong> Check out my personal projects below.</p>
+<p>Self-mastery is what drives me. Check out some of my personal projects below.</p>
 </article>
 </section>
 <section class="stripe-section">

@@ -743,7 +743,16 @@ h1 {
     grid-column: span 7; }
   .gallery article figure {
     margin: 0;
-    grid-column: span 5; } }
+    grid-column: span 5;
+    transition-timing-function: ease-in; }
+  .gallery article figure img {
+    transition: .25s; }
+  .gallery article figure img:hover {
+    -webkit-box-shadow: 3px 3px 30px -2px rgba(153, 153, 153, 0.5);
+    -moz-box-shadow: 3px 3px 30px -2px rgba(153, 153, 153, 0.5);
+    box-shadow: 3px 3px 30px -2px rgba(153, 153, 153, 0.5);
+    -webkit-transform: translateY(-2px);
+    transform: translateY(-2px); } }
 footer {
   margin: 0 0.9375rem;
   max-width: 1200px;
