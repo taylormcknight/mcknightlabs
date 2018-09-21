@@ -4,12 +4,32 @@ body {
 	-moz-osx-font-smoothing: grayscale;
 	overflow-y: scroll;
 }
+.logo {
+	display: inline-block;
+	font-size: 1.25rem;
+	font-weight: 700;
+	font-family: 'Yantramanav', sans-serif;
+	img {
+		display: inline-block;
+		height: 25px;
+		margin-right: .5rem;
+		width: auto;
+		vertical-align: bottom;
+	}
+	&:hover {
+		text-decoration: none;
+	}
+}
 .main-inner-wrapper {
 	max-width: 720px;
 	margin: 0 auto;
 }
 
-
+.external-link-icon {
+	height: 12px;
+	width: 12px;
+	display: inline-block;
+}
 
 .home h1 {
 	margin-bottom: 3rem;
@@ -185,21 +205,19 @@ blockquote {
 }
 // medium screen size up
 @media (min-width: 600px ) {
+	.logo {
+		padding: 0;
+		font-size: 1.5rem;
+		img {
+			height: 30px;
+		}
+	}
 	h2 {
 		font-size: 1.5rem;
 		margin: 3rem 0 1.25rem 0;
 	}
 	h3 {
 		font-size: 1.5rem;
-	}
-	.store {
-		grid-gap: 2rem;
-		.product {
-			grid-column: span 4;
-		}
-	}
-	.shopify-collection {
-		margin: 2rem;
 	}
 	p, li {
 		font-size: 1.25rem;

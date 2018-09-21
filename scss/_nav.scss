@@ -1,7 +1,11 @@
+.top-nav-desktop {
+	padding: 1rem;
+}
 @media (min-width: 600px ) {
 	.top-nav-desktop {
-		padding: 1.5rem 2rem 3rem 2rem;
-		max-width: 1400px;
+		padding: 2rem 1rem 3rem 1rem;
+		margin: 0 auto;
+		max-width: 1200px;
 		ul {
 			display: flex;
 			margin-top: 0rem;
@@ -27,6 +31,8 @@
 		float: none;
 		color: #3300FF;
 		border: solid 1px #3300FF;
+		padding: 1.125rem;
+		border-radius: 50%;
 		&:hover {
 			background: #3300FF;
 			border-color: #3300FF;

@@ -8,7 +8,7 @@ h1 {
 	display: grid;
 	grid-template-columns: repeat(12, 1fr);
 	padding: 1rem;
-	article {
+	article, .project-section {
 		grid-column: span 12;
 	}
 }
@@ -19,7 +19,7 @@ h1 {
 	color: #3300FF;
 }
 // gallery
-.gallery {
+.grid-wrapper {
 	padding: 1rem;
 	display: grid;
 	grid-template-columns: repeat(12, 1fr);
@@ -44,7 +44,7 @@ h1 {
 	figure {
 		margin-top: 1rem;
 	}
-	article {
+	article, .project-section {
 		list-style-type: none;
 		margin: 0 0 2rem 0;
 		grid-column-start: span 12;
@@ -70,12 +70,11 @@ h1 {
 			font-size: 1.875rem;
 		}
 	}
-	.gallery {
-		grid-gap: 4rem;
+	.grid-wrapper {
 		max-width: 1200px;
-		article {
+		article, .project-section {
 			margin: 0;
-			padding: 2rem 0;
+			padding: 3rem 0;
 			display: grid;
 			grid-column: span 12;
 			grid-gap: 4rem;

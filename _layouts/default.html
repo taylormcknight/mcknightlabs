@@ -7,6 +7,7 @@
         <link rel="stylesheet" href="{{ site.url }}/stylesheets/app.css" />
         <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
         <link href="https://fonts.googleapis.com/css?family=Work+Sans:100,400,700,800" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Yantramanav:700" rel="stylesheet">
         <script src="{{ site.url }}/js/classie.js"></script>
 		<link rel="alternate" type="application/rss+xml" title="Ryan McKnight RSS" href="http://ryantmcknight.com/feed.xml" />
 		<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
@@ -28,11 +29,6 @@
 	</head>
 	
 	<body class="top-nav-push">
-		<div class="menu-wrapper hide-on-desktop">
-			<a href="{{ site.url }}/index.html" class="{% if page.url == '/index.html' %}current{% endif %}"><span class="site-logo site-logo-outside">RM</span></a>
-			{% include nav-mobile.html navclass='nav-top' %}
-			<a id="showTopPush" class="main-menu-btn">Menu <img src="{{ site.url }}/media/img/menu-icon.png" width="25" height="14" class="hamburger-icon"></a>
-		</div>
 		<header class="header">
 			{% include nav-desktop.html navclass='nav-top' %}
 		</header>
@@ -47,22 +43,15 @@
 			</footer>
 		</div>
 		<script>
-			var menuTop = document.getElementById( 'top-nav' ),
-			showTopPush = document.getElementById( 'showTopPush' ),
-			body = document.body;
+		/* Open when someone clicks on the span element */
+		function openNav() {
+		    document.getElementById("myNav").style.width = "100%";
+		}
 
-			showTopPush.onclick = function() {
-				classie.toggle( this, 'active' );
-				classie.toggle( body, 'top-nav-push-down' );
-				classie.toggle( menuTop, 'top-nav-open' );
-				disableOther( 'showTopPush' );
-			};
-
-			function disableOther( button ) {
-				if( button !== 'showTopPush' ) {
-					classie.toggle( showTopPush, 'disabled' );
-				}
-			}
+		/* Close when someone clicks on the "x" symbol inside the overlay */
+		function closeNav() {
+		    document.getElementById("myNav").style.width = "0%";
+		}
 		</script>
 	</body>
 </html>

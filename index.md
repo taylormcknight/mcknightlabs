@@ -1,7 +1,7 @@
 ---
 layout: full-width
-title: Ryan McKnight
-description: I founded and lead the award-winning design team at Industry Dive, a rapidly growing business news company in Washington, DC.
+title: Rethinking our world
+description: Everything around us was made up by people that were no smarter than us, and we can change it.
 og_title: Ryan McKnight, Head of Design
 og_description: I founded and lead the award-winning design team at Industry Dive, a rapidly growing business news company in Washington, DC.
 og_image: /media/img/about/mcknight_headshot.jpg
@@ -9,45 +9,42 @@ og_type: website
 ---
 <section class="grid">
 <article>
-<h1>{{ page.title }}</h1>
-
-<p>I founded and lead the multi-disciplinary and <a href="https://www.industrydive.com/news/post/honoring-industry-dives-award-winning-design-leader/">award-winning</a> <a href="https://design.industrydive.com/">design team</a> at <a href="https://www.industrydive.com/">Industry Dive</a>, a rapidly growing business news company in Washington, DC. We were selected a "Best Place to Work" by the Washington Post in 2017 and 2018.</p>
-
-<p>In 2017, I was recognized as an "<a href="http://www.siia.net/bims/SPECIAL-PROGRAMS/Emerging-Leader-Awards">Emerging Leader</a>" in the B2B media industry for my work at Industry Dive.</p>
-
-<p>Read about my startup and management experiences <a href="{{ site.url }}/tech-design">here</a>.</p>
-
-<!--<p>To get in touch, direct message me on <a href="https://www.twitter.com/mcknightlabs">Twitter</a>, <a href="https://www.instagram.com/mountainlogbook
-">Instagram</a> or <a href="https://www.linkedin.com/in/ryantmcknight/">LinkedIn</a>.</p>-->
-
-<p>Self-mastery is what drives me. Check out some of my personal projects below.</p>
+	<h1>{{ page.title }}</h1>
+	<p>Everything around us was made up by people that were no smarter than us, and we can change it.</p>
 </article>
 </section>
 <section class="stripe-section">
-	<section class="gallery">
-		{% for page in site.activities %}
+	<section class="grid-wrapper">
+		{% for rethinking in site.categories.rethinking %}
 		<article>
 			<figcaption>
-				{% if page.external_url %}
-				<a href="{{ page.external_url }}">
+				{% if rethinking.external_url %}
+				<a href="{{ rethinking.external_url }}">
 				{% else %}
-				<a href="{{ page.url }}">
+				<a href="{{ rethinking.url }}">
 				{% endif %}
 				<h3>
-					{{ page.title }}
+					{{ rethinking.title }}
 				</h3>
 				</a>
-				<p class="description">{{ page.description }}</p>
-				<!--<a href="{{ page.url }}"><p class="meta">Read more</p></a>-->
-			</figcaption>
-			{% if page.image %}
-			<figure>
-				{% if page.external_url %}
-				<a href="{{ page.external_url }}">
+				<p>{{ rethinking.date | date: "%-d %B %Y" }}</p>
+				<p class="description">{{ rethinking.description }}</p>
+				{% if rethinking.external_url %}
+				<a href="{{ rethinking.external_url }}">
 				{% else %}
-				<a href="{{ page.url }}">
+				<a href="{{ rethinking.url }}">
 				{% endif %}
-				<img src="{{ page.image }}" />
+				<p class="meta">Read more</p>
+				</a>
+			</figcaption>
+			{% if rethinking.image %}
+			<figure>
+				{% if rethinking.external_url %}
+				<a href="{{ rethinking.external_url }}">
+				{% else %}
+				<a href="{{ rethinking.url }}">
+				{% endif %}
+				<img src="{{ rethinking.image }}" />
 				</a>
 			</figure>
 			{% endif %}
@@ -55,3 +52,4 @@ og_type: website
 		{% endfor %}
 	</section>
 </section>
+

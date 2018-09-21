@@ -31,3 +31,8 @@ og_type: website
 ">Instagram</a> or <a href="https://www.linkedin.com/in/ryantmcknight/">LinkedIn</a>.</p>
 
 </section>
+
+<!--<p>I founded and lead the multi-disciplinary and <a href="https://www.industrydive.com/news/post/honoring-industry-dives-award-winning-design-leader/">award-winning</a> <a href="https://design.industrydive.com/">design team</a> at <a href="https://www.industrydive.com/">Industry Dive</a>, a rapidly growing business news company in Washington, DC. We were selected a "Best Place to Work" by the Washington Post in 2017 and 2018.</p>
+<p>In 2017, I was recognized as an "<a href="http://www.siia.net/bims/SPECIAL-PROGRAMS/Emerging-Leader-Awards">Emerging Leader</a>" in the B2B media industry for my work at Industry Dive.</p>
+<p>To get in touch, direct message me on <a href="https://www.twitter.com/mcknightlabs">Twitter</a>, <a href="https://www.instagram.com/mountainlogbook
+">Instagram</a> or <a href="https://www.linkedin.com/in/ryantmcknight/">LinkedIn</a>.</p>-->

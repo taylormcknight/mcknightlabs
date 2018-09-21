@@ -14,7 +14,7 @@ og_type: website
 	</article>
 </section>
 <section class="stripe-section">
-	<section class="gallery">
+	<section class="grid-wrapper">
 		{% for experiment in site.categories.experiment %}
 		<article>
 			<figcaption>

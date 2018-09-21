@@ -2,17 +2,16 @@
 layout: article
 title: Go back to school vs learn on the job
 description: I was accepted into the no. 1 HCI program in the country. This is why I decided not to go.
-category: tech
+category: tech-design
+image: /media/img/posts/tech-design/2015-06-06-school-vs-on-job/cmu.jpg
 og_title: Go back to school vs learn on the job
 og_description: I was accepted into the no. 1 HCI program in the country. This is why I decided not to go.
-og_image: /media/img/goals/2015-06-06-school-vs-on-job/cmu.jpg
+og_image: /media/img/posts/tech-design/2015-06-06-school-vs-on-job/cmu.jpg
 og_type: website
-tags: 
-- tech
 ---
 
 <figure>
-	<img src="{{ site.url }}/media/img/goals/2015-06-06-school-vs-on-job/cmu.jpg" class="img-border">
+	<img src="{{ site.url }}/media/img/posts/tech-design/2015-06-06-school-vs-on-job/cmu.jpg" class="img-border">
 	<figcaption>CMU's HCI grad program orientation 2013. I'm second from the right.</figcaption>
 </figure>
 

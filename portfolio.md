@@ -18,7 +18,7 @@ og_type: website
 	</article>
 </section>
 <section class="stripe-section">
-	<section class="gallery">
+	<section class="grid-wrapper">
 		{% for page in site.projects %}
 		<article>
 			<figcaption>
@@ -32,7 +32,13 @@ og_type: website
 				</h3>
 				</a>
 				<p class="description">{{ page.description }}</p>
-				<!--<a href="{{ page.url }}"><p class="meta">Read more</p></a>-->
+				{% if unconventional.external_url %}
+				<a href="{{ unconventional.external_url }}">
+				{% else %}
+				<a href="{{ unconventional.url }}">
+				{% endif %}
+				<p class="meta">Read more</p>
+				</a>
 			</figcaption>
 			{% if page.image %}
 			<figure>
