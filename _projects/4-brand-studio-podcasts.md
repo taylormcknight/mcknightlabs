@@ -11,7 +11,7 @@ og_type: website
 <section class="grid">
 	<article>
 		<h1>{{ page.title }}</h1>
-		<p>Leveraging my undergrad training in film and video production, I helped our Editorial and Brand Studio teams establish in-house podcast production capabilities.</p>
+		<p>Leveraging my undergrad training in film and video production, I helped our editorial and Brand Studio teams establish in-house podcast production capabilities.</p>
 	</article>
 </section>
 <section class="stripe-section">
@@ -42,7 +42,7 @@ og_type: website
 	<div class="container right">
 		<div class="content">
 			<h2>Software</h2>
-			<p>Following the hardware purchase, I set up Adobe accounts for our Editors so they could use Adobe Audition for sound editing on the new iMac.</p>
+			<p>Following the hardware purchase, I set up Adobe accounts for our editors so they could use Adobe Audition for sound editing on the new iMac.</p>
 			<p>I also set up a dedicated multi-media project directory on Dropbox for the editors to easily back up and remotely access project files.</p>
 		</div>
 	</div>
