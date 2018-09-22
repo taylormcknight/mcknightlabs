@@ -10,7 +10,7 @@ og_type: website
 <section class="grid">
 	<article>
 		<h1>{{ page.title }}</h1>
-		<p>Science is based on experiment, on a willingness to challenge old dogma, on an openness to see the universe as it really is. – Carl Sagan</p>
+		<p>&ldquo;There are naive questions, tedious questions, ill-phrased questions, questions put after inadequate self-criticism. But every question is a cry to understand the world. There is no such thing as a dumb question.&rdquo; – Carl Sagan</p>
 	</article>
 </section>
 <section class="stripe-section">

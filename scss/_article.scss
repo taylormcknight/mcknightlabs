@@ -2,19 +2,29 @@
 	padding: 1rem;
 	font-family: 'adobe caslon', georgia, serif;
 	h1 {
-		font-size: 2.375rem;
+		font-size: 1.875rem;
 		font-weight: 100;
 	}
 	.byline {
 		display: block;
 		margin-bottom: 3.5rem;
 	}
-	ol, ul, hr, h1, h2, h3, h4, h5, p, span {
+	h2, h3, h4 {
+		font-weight: 100;
+	}
+	ol, ul, hr, h1, h2, h3, h4, h5, p, span, blockquote, .footnotes {
 		max-width: 720px;
 		margin-right: auto;
 		margin-left: auto;
 	}
 	li {
 		margin-left: 1.5rem;
+	}
+}
+@media (min-width: 600px ) {
+	.article {
+		h1 {
+			font-size: 2.375rem;
+		}
 	}
 }

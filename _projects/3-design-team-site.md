@@ -1,4 +1,5 @@
 ---
+external_url: https://design.industrydive.com/
 layout: full-width
 title: Building a design team recruiting tool
 image: /media/img/projects/design-site/design-site.png

@@ -6,34 +6,38 @@ image: /media/img/posts/rethinking/convo.jpg
 category: rethinking
 ---
 
-<p><span class="drop-cap">W</span>hat is imperfect about the article format?</p>
+What is imperfect about the article format?
 
-<p>Don't think about aesethetics.</p>
+Don't think about aesethetics.
 
-<p>Think about an article as a unit of info. A newspaper is a unit that holds smaller, related units. What are the problems, the limitations of, the article? Think about this from the perspective of the reader. Think about digital articles, especially.</p>
+Think about an article as a unit of info. A newspaper is a unit that holds smaller, related units. What are the problems, the limitations of, the article? Think about this from the perspective of the reader. Think about digital articles, especially.
 
-<p>A couple months ago, I posed this same question to a friend. What is wrong with the article format?</p>
+A couple months ago, I posed this same question to a friend. What is wrong with the article format?
 
-<p>Below is a screenshot of part of our exchange.</p>
+Below is a screenshot of part of our exchange.
 
-<img src="{{ site.url }}/media/img/posts/rethinking/convo.jpg" class="img-border">
+<figure>
+	<img src="{{ site.url }}/media/img/posts/rethinking/convo.jpg" class="img-border">
+</figure>
 
-<p>The article is imperfect, because it usually does not provide you with broad context. One way to address this limitation is to improve the way we link articles together. We can improve the packaging.</p>
+The article is imperfect, because it usually does not provide you with broad context. One way to address this limitation is to improve the way we link articles together. We can improve the packaging.
 
-<p>What might this look like?</p>
+What might this look like?
 
-<p>Imagine if every article was assigned to higher-level units based on recency, topic, etc. Wait, we already do that – we tag articles and they appear in higher-level sections like topic pages.</p>
+Imagine if every article was assigned to higher-level units based on recency, topic, etc. ...Wait, we already do that – we tag articles and they appear in higher-level sections like topic pages.
 
-<p>That's true. But the articles on topic pages are fairly loosely connected. We need to fine-tune the packaging a bit. What if a user wants to follow a particular merger? Or what if a user wants to get up to date on the conflict in Syria? Sure, the user can search the news site for articles related to those topics or, more likely, Google them. Publishers, however, can also group related articles into one-stop-shop "briefing" packages.</p>
+That is true. But the articles on topic pages are fairly loosely connected. We need to fine-tune the packaging a bit. 
 
-<p>In this sense, the article is like the atomic unit and this new grouping is like a molecule – a collection of atoms.</p>
+What if a user reads an article about a particular merger and wants to learn more about what led to it? Or what if a user reads a news story about a new attack in Syria and desires to get up-to-date on the overall conflict? Most publications don't make it easy for the reader to achieve these goals. Instead, the reader must leave the publication website and conduct a global web search to try and find explanatory articles for background.
 
-<p>Any given article can be included in an unlimited number of molecules.</p>
+Publishers could address this reader desire for greater context by grouping related articles into one-stop-shop storylines loaded with context.
 
-<p>Now imagine if news publishers arranged content this way. You could click on today's news molecule and see all of today's top stories.</p>
+Any given article could be included in an unlimited number of storylines.
 
-<p>Editors could package as many or few articles as they wanted and call the molecules whatever they wanted – e.g. The Pepco-Exelon merger, Coverage of Trump's rallies, etc.</p>
+Imagine if news publishers arranged content this way.
 
-<p>The molecules would help guide the reader through higher-level trends, topics, periods of time, etc.</p>
+Editors could package as many or few articles as they wanted and call the storylines whatever they wanted – e.g. The Pepco-Exelon merger, the Syrian conflict, etc.
 
-<p>No more endless feeds of one-off, disconnected stories.</p>
+The storylines would help guide the reader through higher-level trends, topics, periods of time, etc.
+
+No more endless feeds of one-off, disconnected stories.

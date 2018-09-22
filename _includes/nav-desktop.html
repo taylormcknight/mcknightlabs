@@ -1,5 +1,5 @@
 <nav class="top-nav-desktop">
-	<a href="{{ site.url }}" class="{% if page.url == '/index' %}current{% endif %} logo hide-mobile"><img src="{{ site.url }}/media/img/circles.png"> McKnightLabs</a>
+	<a href="{{ site.url }}" class="{% if page.url == '/index' %}current{% endif %} logo"> McKnightLabs</a>
 	<ul class="nav">
 		<li>
 			<a href="{{ site.url }}/goals" class="{% if page.url == '/goals' %}current{% endif %}">Goals</a>
@@ -14,19 +14,20 @@
 			<a href="{{ site.url }}/experiments" class="{% if page.url == '/experiment' %}current{% endif %}">Experiments</a>
 		</li>
 		<li>
-			<a href="http://scarceart.com/" tooltip=http://scarceart.com tooltip here”>Photography</a>
+			<a href="http://scarceart.com/" tooltip=http://scarceart.com tooltip here”>Photos</a>
 		</li>
 	</ul>
 	<div id="myNav" class="overlay">
-	  <!-- Button to close the overlay navigation -->
-	  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-	  <!-- Overlay content -->
-	  <div class="overlay-content">
-	    <a href="#">About</a>
-	    <a href="#">Services</a>
-	    <a href="#">Clients</a>
-	    <a href="#">Contact</a>
-	  </div>
+		<!-- Button to close the overlay navigation -->
+		<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+		<!-- Overlay content -->
+		<div class="overlay-content">
+			<a href="{{ site.url }}/index" class="{% if page.url == '/index' %}current{% endif %}">Rethinking</a>
+			<a href="{{ site.url }}/portfolio" class="{% if page.url == '/portfolio' %}current{% endif %}">Portfolio</a>
+			<a href="{{ site.url }}/tech-design" class="{% if page.url == '/tech-design' %}current{% endif %}">Blog</a>
+			<a href="{{ site.url }}/experiments" class="{% if page.url == '/experiment' %}current{% endif %}">Experiments</a>
+			<a href="http://scarceart.com/">Photos</a>
+		</div>
 	</div>
 	<span onclick="openNav()" class="mobile-menu-btn logo"><img src="{{ site.url }}/media/img/circles.png"> menu</span>
 </nav>

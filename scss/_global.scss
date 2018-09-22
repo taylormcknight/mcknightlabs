@@ -27,27 +27,28 @@ a {
 	}
 }
 h1 {
-	font-size: 3.125rem;
+	font-size: 2rem;
 	font-weight: 600;
 }
 h2, h3, h4 {
-	font-weight: 100;
+	font-weight: 600;
 	font-size: 1.675rem;
 	line-height: 1.5;
 	margin: 3rem 0 1.5rem 0;
 }
 ul, ol {
-	margin: 1.5rem 0 1.5rem 1.5rem;
+	margin: 1.5rem 0 1.5rem 3rem;
 }
 
 // footnotes
 .footnotes {
 	border-top: solid 1px #ccc;
-	padding-top: 1rem;
-	list-style: none;
-	margin: 2.5rem 0 0 0;
-	li {
-		font-size: 1rem;
+	ul {
+		list-style: none;
+		margin: 1rem 0 0 0;
+		li {
+			font-size: 1rem;
+		}
 	}
 }
 
@@ -102,6 +103,7 @@ table {
 
 // striped section
 .stripe-section {
+	padding: 3rem 0;
 	background: #f5f7f8;
 }
 
@@ -215,6 +217,9 @@ blockquote {
 	}
 	p, li {
 		font-size: 1.25rem;
+	}
+	h1 {
+		font-size: 3.125rem;
 	}
 	h2 {
 		font-size: 1.5rem;

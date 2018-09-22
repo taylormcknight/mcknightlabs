@@ -27,7 +27,7 @@ Adhering to approaches like these demands a significant amount of mental effort 
 
 Below are a few questions I use to routinely self-assess and reflect on ways I can improve.
 
-### Am I letting personal problems influence how I treat my work and team?
+### Q. Am I letting personal problems influence how I treat my work and team?
 This is number one on my list, because I find it the most difficult.
 
 <div class="medium-format">
@@ -38,19 +38,19 @@ This is number one on my list, because I find it the most difficult.
 	</figure>
 </div>
 
-### Am I sliding toward burnout?
+### Q. Am I sliding toward burnout?
 I try to take a proactive approach to <a href="{% post_url tech-design/2016-08-17-burnout %}">preventing burnout</a>. To effectively lead others, I know I must first take care of myself. If I am not at the top of my game, how can I expect to inspire or guide others toward theirs?
 
-### Am I reacting or responding?
+### Q. Am I reacting or responding?
 It is easy to look like a fool, damage a personal or professional relationship, or make a technical mistake if you let emotions take control. To avoid reacting, I try to <a href="https://hbr.org/tip/2017/03/quiet-your-mind-to-avoid-making-impulsive-decisions">limit my multi-tasking</a>, get six or more hours of sleep, and pause before responding. I respond as soon as I can emotionally divorce myself from an issue. When addressing a serious problem, or if someone is clearly upset, I prefer to avoid written communication – e.g. emails, IMs, and texts. I have found that written words can be more easily misinterpreted than spoken ones. Open and direct in-person talks or a phone call are my go-to methods. I then use an email to clarify and follow up on a verbal discussion.
 
-### How much am I complaining?
+### Q. How much am I complaining?
 "Ugh. I hate designing emails. I have to support five versions of Outlook!" Imagine if I made a comment like that in front of my team and then, weeks later, had to train them to do this very task and face these very issues. They are going to walk into the training session with a biased view and expect to hate any related assignment. I am setting up them and myself, as a manager, for failure. Rather than voice serious complaints in front of my team, I do my best to keep comments lighthearted and find actual solutions.
 
-### Have I talked negatively about colleagues?
+### Q. Have I talked negatively about colleagues?
 It does not matter if the subject of the conversation is your direct report, an intern on another team, or company leadership. If someone starts to talk negatively, not just critically, about another employee at the company, I usually attempt to shift the conversation or walk away. Negative gossip is poison. It can kill a group's morale and eviscerate the trust others may have placed in you as a leader.
 
-### Am I caring without becoming too much of a friend?
+### Q. Am I caring without becoming too much of a friend?
 I make it a point to never become close friends with anyone whom I have the ability to fire. In my mind, this is up there with wisdom like "do not date a co-worker" and "never go into business with a significant other." Sure, it works out in some cases, but you are taking a significant, unnecessary gamble. Your best intentions can blow up in your face. I have witnessed it happen. Why go down a road of potential self-sabotage when you can easily avoid it?
 
 ## II. Individual and team development
