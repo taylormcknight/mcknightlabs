@@ -44,7 +44,6 @@ og_type: website
 <p><strong>Definitely analyze your financial situation.</strong> Seriously. If you think taking on $80K+ in loans is a good idea, you better make sure the program you're attending has a high placement rate in jobs paying in the mid to high six-figures. Even then, there are probably much cheaper alternatives with just as good ROI.</p>
 <p><strong>Finally, imagine that the level of your effort will determine if the earth continues to exist or is destroyed.</strong> Sure, this is dumb and sarcastic, but think about it... There are success cases in both camps. What do most of these people have in common? They gave it everything they had. They made their own luck. That's how you achieve career success. Nothing will be handed to you in this life. You have to earn it.</p>
 
-<hr>
 <ul class="footnotes">
 	<li>
 		<strong>Footnotes</strong>

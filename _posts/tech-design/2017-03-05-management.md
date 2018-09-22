@@ -13,8 +13,6 @@ og_type: website
 
 **NOTE:** This post captures my evolution as a manager from Nov. 2014 – March 2017. 
 
-<hr>
-
 More sleep. A real vacation. Less stress. That's what management meant to me in November 2014.
 
 When I first became a manager, it was out of necessity. I needed help. At the time, I was the only designer at Industry Dive, a B2B media <a href="http://joel.is/your-startup-is-a-rocket-ship/">rocket ship</a>, and the projects were hitting my inbox faster than I could read the requests. So I made my first hire, and my quality of life improved.
@@ -55,9 +53,7 @@ It does not matter if the subject of the conversation is your direct report, an 
 ### Am I caring without becoming too much of a friend?
 I make it a point to never become close friends with anyone whom I have the ability to fire. In my mind, this is up there with wisdom like "do not date a co-worker" and "never go into business with a significant other." Sure, it works out in some cases, but you are taking a significant, unnecessary gamble. Your best intentions can blow up in your face. I have witnessed it happen. Why go down a road of potential self-sabotage when you can easily avoid it?
 
-<hr>
-
-## Individual and team development
+## II. Individual and team development
 
 ### Hire the right people
 

@@ -4,7 +4,11 @@ title: How to land a great design job
 description: Over the past few years, I have reviewed several thousand graphic designer and product designer job applications. I have interviewed dozens of candidates and hired twelve. All of the designers who landed an interview and were hired took specific actions that made them stand out from their peers. This post details five ways you can gain a similar competitive advantage.
 date: 2018-06-30
 category: tech-design
-image: 
+image: /media/img/posts/tech-design/2018-06-30-land-design-job/design-team.jpg
+og_title: How to land a great design job
+og_description: How to gain a competitive advantage over other candidates
+og_image: /media/img/posts/tech-design/2018-06-30-land-design-job/design-team.jpg
+og_type: website
 ---
 
 Over the past few years, I have reviewed several thousand graphic designer and product designer job applications. I have interviewed dozens of candidates and hired ten. 
@@ -27,10 +31,12 @@ The best portfolios I have come across usually have the following qualities:
 
 Check out the website of Industry Dive Design team alum [Nan Copeland](http://www.nancopeland.com/) to see a product designer’s portfolio that meets these criteria.
 
-<p class="centered">
-    <img src="{{ site.url }}/media/img/posts/tech-design/2018-06-30-land-design-job/nan-portfolio.gif" alt="Nan portfolio" style="border: 1px solid #eee;"/>
-    <span class="caption">A preview of <a href="http://www.nancopeland.com/" target="_blank">Nan Copeland's</a> portfolio.</span>
-</p>
+<figure>
+    <img src="{{ site.url }}/media/img/posts/tech-design/2018-06-30-land-design-job/nan-portfolio.gif" alt="Nan portfolio"/>
+	<figcaption>
+	    A preview of <a href="http://www.nancopeland.com/" target="_blank">Nan Copeland's</a> portfolio.
+	</figcaption>
+</figure>
 
 ### Step II: Customize your intro email and cover letter.
 
