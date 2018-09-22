@@ -362,7 +362,7 @@ body {
   font-family: 'proxima-nova', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  overflow-y: scroll; }
+  overflow: auto; }
 
 p, li {
   color: #44464f;
@@ -845,6 +845,7 @@ main {
 
   /* Position the content inside the overlay */
   .overlay-content {
+    overflow: scroll;
     position: relative;
     top: 25%;
     /* 25% from the top */

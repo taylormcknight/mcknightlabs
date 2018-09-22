@@ -15,6 +15,7 @@
 
     /* Position the content inside the overlay */
     .overlay-content {
+        overflow: scroll;
         position: relative;
         top: 25%; /* 25% from the top */
         width: 100%; /* 100% width */
