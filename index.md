@@ -2,9 +2,10 @@
 layout: full-width
 title: Rethinking our world
 description: Everything around us was made up by people that were no smarter than us, and we can change it.
-og_title: Ryan McKnight, Head of Design
-og_description: I founded and lead the award-winning design team at Industry Dive, a rapidly growing business news company in Washington, DC.
-og_image: /media/img/about/mcknight_headshot.jpg
+image: https://s3.amazonaws.com/rtmup.com/blog_images/hab/stratosphere_5.jpg
+og_title: McKnight Labs
+og_description: Everything around us was made up by people that were no smarter than us, and we can change it.
+og_image: https://s3.amazonaws.com/rtmup.com/blog_images/hab/stratosphere_5.jpg
 og_type: website
 ---
 <section class="grid">

@@ -4,6 +4,10 @@ title: Moving beyond the article
 description: What if we stopped publishing standalone news stories and redesigned our content delivery vehicles – e.g. emails, websites and apps – to always highlight how a news event fits into a larger context? Each contextual package of stories could help guide the reader through higher-level trends, topics, periods of time, etc.
 image: /media/img/posts/rethinking/convo.jpg
 category: rethinking
+og_title: Moving beyond the article
+og_description: What if we stopped publishing standalone news stories and redesigned our content delivery vehicles – e.g. emails, websites and apps – to always highlight how a news event fits into a larger context? Each contextual package of stories could help guide the reader through higher-level trends, topics, periods of time, etc.
+og_image: /media/img/posts/rethinking/convo.jpg
+og_type: website
 ---
 
 What is imperfect about the article format?

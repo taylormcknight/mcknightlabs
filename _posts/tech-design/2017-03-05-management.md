@@ -7,7 +7,7 @@ topics: management
 image: /media/img/posts/tech-design/2017-03-05-management/coffee-checkin.jpg
 og_title: Become a better manager
 og_description: This post captures my evolution as a manager from Nov. 2014 – March 2017.
-og_image: /media/img/posts/tech-design/2017-03-05-management/coffee-checkin.jpgid-dupont.jpg
+og_image: /media/img/posts/tech-design/2017-03-05-management/coffee-checkin.jpg
 og_type: website
 ---
 

@@ -4,6 +4,10 @@ title: Stop thinking about tools
 description: I have been asked for design career advice from a number of college students. One of the questions that keeps coming up… Do I need to learn to code? A lot of times, I’ll say, “it depends.” This week, I changed my answer. I told a college senior, “no.”
 image: /media/img/posts/tech-design/2016-02-24-stop-thinking-tools/stop-tools.jpg
 category: tech-design
+og_title: Stop thinking about tools
+og_description: I have been asked for design career advice from a number of college students. One of the questions that keeps coming up… Do I need to learn to code? A lot of times, I’ll say, “it depends.” This week, I changed my answer. I told a college senior, “no.”
+og_image: /media/img/posts/tech-design/2016-02-24-stop-thinking-tools/stop-tools.jpg
+og_type: website
 ---
 
 I have been asked for design career advice from a number of college students. One of the questions that keeps coming up... Do I need to learn to code?

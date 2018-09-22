@@ -5,7 +5,7 @@ description: The Pennsylvania spring water was as cold as you might expect in Se
 category: goal
 image: /media/img/posts/goals/2017-10-07-scubadiving/mcknight-diving.jpg
 og_title: Learn to scuba dive
-og_description: The Pennsylvania spring water was as cold as you might expect in September.
+og_description: The Pennsylvania spring water was as cold as you might expect in September, and the visibility during my nav dive was about six feet. As my buddy and I left the submerged platform at 40 feet, we took turns navigating by compass. The buddy without the compass kept watch on the depth and signaled if we needed to ascend or descend to maintain position.
 og_image: /media/img/posts/goals/2017-10-07-scubadiving/mcknight-diving.jpg
 og_type: website
 ---
