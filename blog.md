@@ -7,10 +7,11 @@ og_description: Everything around us was made up by people that were no smarter 
 og_image: /media/img/about/mcknight_headshot.jpg
 og_type: website
 ---
+
 <section class="grid">
 	<article>
 		<h1>{{ page.title }}</h1>
-		<p>Reflection is a key element of personal and professional growth, so I blog about experiences and lessons learned. Looking for my more imaginative &ldquo;what if&rdquo; posts? Go <a href="{{ site.url/what-if }}">here</a>.</p>
+		<p>Reflection is a key element of personal and professional growth, so I blog about experiences and lessons learned. Looking for my more imaginative &ldquo;what if&rdquo; posts? Visit <a href="{{ site.baseurl }}/what-if">this page</a>.</p>
 	</article>
 </section>
 <section class="stripe-section">

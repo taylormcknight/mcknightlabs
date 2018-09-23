@@ -28,7 +28,7 @@ categories:
 <section class="stripe-section">
 
 <div class="timeline">
- 	<div class="container right">
+ 	<div class="timeline-container right">
     	<div class="content">
 			<h2>2013</h2>
 			<p>Below is a screenshot of what Industry Dive's news publication websites looked like prior to my arrival in November of 2012.</p>
@@ -40,7 +40,7 @@ categories:
 			</figure>
     	</div>
   	</div>
-	<div class="container right">
+	<div class="timeline-container right">
 		<div class="content">
 			<h2>2014</h2>
 			<p>By 2014, I had already started to improve the UX and UI of our publication sites.</p>
@@ -57,7 +57,7 @@ categories:
 			</figure>
 		</div>
 	</div>
-	<div class="container right">
+	<div class="timeline-container right">
 		<div class="content">
 			<h2>2016</h2>
 			<p>Updates included:</p>
@@ -73,7 +73,7 @@ categories:
 			</figure>
 		</div>
 	</div>
-	<div class="container right">
+	<div class="timeline-container right">
 		<div class="content">
 			<h2>2018</h2>
 			<p>The current version of the site represents a significant departure from all previous iterations.</p>

@@ -15,7 +15,7 @@ Over the past few years, I have reviewed several thousand graphic designer and p
 
 All of the designers who landed an interview and were hired took specific actions that made them stand out from their peers. This post details five ways you can gain a similar competitive advantage.
 
-### Step I: Optimize your portfolio.
+## Step I: Optimize your portfolio.
 
 **Always approach your portfolio as a design problem.** <br/>
 Imagine you are an employer. When you look at a portfolio, you are seeking to determine if the individual’s experience and skills are a great match for your team’s current needs. Is it helpful to see every CD cover and flyer a candidate has ever designed? Probably not.
@@ -38,7 +38,7 @@ Check out the website of Industry Dive Design team alum [Nan Copeland](http://ww
 	</figcaption>
 </figure>
 
-### Step II: Customize your intro email and cover letter.
+## Step II: Customize your intro email and cover letter.
 
 **Craft a powerful opening statement.** <br/>
 
@@ -76,7 +76,7 @@ Over the years, I have received many applications with our company name misspell
 
 Read your intro email, cover letter and resume out loud before EVERY submission.  Details are significant! This should take five to ten minutes. Not doing so could easily cost you a potential interview request.
 
-### Step III: Nail the interview.
+## Step III: Nail the interview.
 
 **Keep in mind that most interviewers are trying to answer a handful of key questions:**  <br/>
 
@@ -114,18 +114,18 @@ Find out key design problems the team is facing. Then ask questions that reveal 
 **When you do not have a great answer, think about showing initiative.** <br/>
 During a round of interviews for a graphic designer position, a number of candidates could not answer a specific technical question about InDesign. Most of these interviewees then asked me for the answer. When I shared it, the standard response was a head nod and silence before the next question. Only one designer broke the mold. “Wow, that’s really cool. I wish I had known about this sooner,” he said as he jotted down a note. This was a great response. The candidate found a way to reframe a lack of knowledge as evidence of his hunger to grow as a designer.
 
-### Step IV: Send a follow-up email.
+## Step IV: Send a follow-up email.
 Always always send thank you emails. Surprisingly, most candidates do not send any follow-up messages. The applicants who take a couple of minutes to write a thank you email definitely stand out. The best follow-up emails I have received mention a topic the candidate and I discussed on the phone or in-person. It is also great when the candidate shows excitement for the team and position.
 
 Here is an excerpt from a great follow-up email by a graphic design intern applicant:
 
 “Thanks so much for carving out some time today to speak with me. I really enjoyed learning more about Industry Dive and the company’s design work. Before the interview, I was browsing around the company’s social media and noticed the recent logo update. It was really cool to hear about the design process behind the change and the decision factors leading up to the final design. Looking ahead, I would love to contribute to these design projects and the needs of Industry Dive and their clients.”
 
-### Step V: Go the distance.
+## Step V: Go the distance.
 1. Follow the company and design team on Twitter and LinkedIn when you submit your application.
 2. Blog about your professional and personal design projects. Write about the typefaces you love and hate. Tell engaging stories. Show that your passion for design extends beyond your 9–5.
 
-### Other useful resources:
+## Other useful resources:
 This article focuses more on the application and interview processes than the steps it takes to find a design job you will love or become a better designer. If you are interested in something along those lines, check out the recommended reading links below:
 
 - “[How to become a designer without going to design school](http://www.karenx.com/blog/how-to-become-a-designer-without-going-to-design-school/)” by [@Karenxcheng](https://medium.com/@karenxcheng)
