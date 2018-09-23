@@ -1,7 +1,7 @@
 ---
 layout: article
 title: How to hack a hackathon
-description: Having recently completed a NASA hackathon, I decided to capture some of the lessons I've learned over the years. What follows is sort of a playbook or "how to" guide for hackathons based on my experiences. It is totally biased and by no means comprehensive. Use it to start thinking creatively about common questions and problems a lot of hackathon participants encounter.
+description: Following a NASA hackathon, I decided to capture some of the lessons I've learned over the years. What follows is sort of a playbook or "how to" guide for hackathons based on my experiences. It is totally biased and by no means comprehensive. Use it to start thinking creatively about common questions and problems a lot of hackathon participants encounter.
 image: /media/img/posts/blog/2016-04-28-hackathon/astro_ladder.jpg
 og_title: How to hack a hackathon
 og_description: Having recently completed a NASA hackathon, I decided to capture some of the lessons I've learned over the years. What follows is sort of a playbook or "how to" guide for hackathons based on my experiences. It is totally biased and by no means comprehensive. Use it to start thinking creatively about common questions and problems a lot of hackathon participants encounter.

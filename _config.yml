@@ -27,6 +27,9 @@ collections:
     projects:
       output: true
       permalink: /projects/:path/
+    photography:
+      output: true
+      permalink: /photography/:path/
 
 # Build settings
 markdown: kramdown
