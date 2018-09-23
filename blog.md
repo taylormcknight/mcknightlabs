@@ -10,7 +10,7 @@ og_type: website
 <section class="grid">
 	<article>
 		<h1>{{ page.title }}</h1>
-		<p>Reflection is a key element of personal and professional growth, so I blog about experiences and lessons learned. Looking for my more imaginative &ldquo;what if&rdquo; posts? Go <a href="{{ site.url }}">here</a>.</p>
+		<p>Reflection is a key element of personal and professional growth, so I blog about experiences and lessons learned. Looking for my more imaginative &ldquo;what if&rdquo; posts? Go <a href="{{ site.url/what-if }}">here</a>.</p>
 	</article>
 </section>
 <section class="stripe-section">
