@@ -846,12 +846,12 @@ main {
     /* Height & width depends on how you want to reveal the overlay (see JS below) */
     position: fixed;
     /* Stay in place */
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
+    height: 100%;
+    width: 0;
     z-index: 1;
     /* Sit on top */
+    left: 0;
+    top: 0;
     background-color: black;
     /* Black fallback color */
     background-color: rgba(51, 0, 255, 0.9);
