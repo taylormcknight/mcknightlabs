@@ -367,7 +367,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   overflow: auto; }
 
-p, li {
+p, li, blockquote {
   color: #44464f;
   font-size: 1.25rem;
   font-weight: 400;
@@ -510,19 +510,40 @@ hr.style-eight:after {
   border: solid 1px #ccc; }
 
 blockquote {
-  color: #3300FF;
-  font-size: 1.5rem;
+  display: block;
+  position: relative;
+  font-size: 1.25rem;
   line-height: 1.6;
-  margin: 20px 0 10px 0; }
+  padding: 1.5em 0 0.5em;
+  margin: 1.5em 0;
+  border-width: 2px 0;
+  border-style: solid;
+  border-color: #eee; }
 blockquote p {
   font-size: 1rem; }
 blockquote citation {
   display: block;
-  margin-top: 10px;
-  font-weight: bold;
-  font-size: .875rem; }
+  margin-top: 1rem;
+  font-size: 1rem; }
 blockquote p, blockquote citation, blockquote citation a, blockquote li {
   letter-spacing: 1px; }
+blockquote:before {
+  content: '\201C';
+  position: absolute;
+  top: 0em;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #fff;
+  width: 3rem;
+  height: 5rem;
+  font-size: 5rem;
+  text-align: center; }
+blockquote:after {
+  content: "– " attr(cite);
+  display: block;
+  text-align: right;
+  font-size: 0.875em;
+  color: #e74c3c; }
 
 .tweet-feed figure {
   margin: 0; }
