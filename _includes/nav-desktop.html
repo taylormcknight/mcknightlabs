@@ -2,6 +2,9 @@
 	<a href="{{ site.url }}" class="{% if page.url == '/index' %}current{% endif %} logo"> McKnightLabs</a>
 	<ul class="nav">
 		<li>
+			<a href="{{ site.url }}/what-if" class="{% if page.url == '/what-if' %}current{% endif %}">What if</a>
+		</li>
+		<li>
 			<a href="{{ site.url }}/goals" class="{% if page.url == '/goals' %}current{% endif %}">Goals</a>
 		</li>
 		<li>
@@ -9,9 +12,6 @@
 		</li>
 		<li>
 			<a href="{{ site.url }}/blog" class="{% if page.url == '/blog' %}current{% endif %}">Blog</a>
-		</li>
-		<li>
-			<a href="{{ site.url }}/experiments" class="{% if page.url == '/experiment' %}current{% endif %}">Experiments</a>
 		</li>
 		<li>
 			<a href="{{ site.url }}/photography" class="{% if page.url == '/photography' %}current{% endif %}">Photography</a>
@@ -22,11 +22,11 @@
 		<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
 		<!-- Overlay content -->
 		<div class="overlay-content">
-			<a href="{{ site.url }}/index" class="{% if page.url == '/index' %}current{% endif %}">Rethinking</a>
+			<a href="{{ site.url }}/index" class="{% if page.url == '/index' %}current{% endif %}">Experiments</a>
+			<a href="{{ site.url }}/what-if" class="{% if page.url == '/what-if' %}current{% endif %}">What if</a>
 			<a href="{{ site.url }}/goals" class="{% if page.url == '/goals' %}current{% endif %}">Goals</a>
 			<a href="{{ site.url }}/portfolio" class="{% if page.url == '/portfolio' %}current{% endif %}">Portfolio</a>
 			<a href="{{ site.url }}/blog" class="{% if page.url == '/blog' %}current{% endif %}">Blog</a>
-			<a href="{{ site.url }}/experiments" class="{% if page.url == '/experiment' %}current{% endif %}">Experiments</a>
 			<a href="{{ site.url }}/photography" class="{% if page.url == '/photography' %}current{% endif %}">Photography</a>
 		</div>
 	</div>

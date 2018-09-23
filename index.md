@@ -1,51 +1,43 @@
 ---
 layout: full-width
-title: Rethinking our world
+title: Experiments
 description: Everything around us was made up by people that were no smarter than us, and we can change it.
-image: https://s3.amazonaws.com/rtmup.com/blog_images/hab/stratosphere_5.jpg
-og_title: McKnight Labs
+og_title: Portfolio | Ryan McKnight
 og_description: Everything around us was made up by people that were no smarter than us, and we can change it.
-og_image: https://s3.amazonaws.com/rtmup.com/blog_images/hab/stratosphere_5.jpg
+og_image: /media/img/about/mcknight_headshot.jpg
 og_type: website
 ---
 <section class="grid">
-<article>
-	<h1>{{ page.title }}</h1>
-	<p>Everything around us was made up by people that were no smarter than us, and we can change it.</p>
-</article>
+	<article>
+		<h1>{{ page.title }}</h1>
+		<p>&ldquo;There are naive questions, tedious questions, ill-phrased questions, questions put after inadequate self-criticism. But every question is a cry to understand the world. There is no such thing as a dumb question.&rdquo; – Carl Sagan</p>
+	</article>
 </section>
 <section class="stripe-section">
 	<section class="grid-wrapper">
-		{% for rethinking in site.categories.rethinking %}
+		{% for experiment in site.categories.experiment %}
 		<article>
 			<figcaption>
-				{% if rethinking.external_url %}
-				<a href="{{ rethinking.external_url }}">
+				{% if experiment.external_url %}
+				<a href="{{ experiment.external_url }}">
 				{% else %}
-				<a href="{{ rethinking.url }}">
+				<a href="{{ experiment.url }}">
 				{% endif %}
 				<h3>
-					{{ rethinking.title }}
+					{{ experiment.title }}
 				</h3>
 				</a>
-				<p>{{ rethinking.date | date: "%-d %B %Y" }}</p>
-				<p class="description">{{ rethinking.description }}</p>
-				{% if rethinking.external_url %}
-				<a href="{{ rethinking.external_url }}">
-				{% else %}
-				<a href="{{ rethinking.url }}">
-				{% endif %}
-				<p class="meta">Read more</p>
-				</a>
+				<p class="description">{{ experiment.description }}</p>
+				<a href="{{ experiment.url }}"><p class="meta">Read more</p></a>
 			</figcaption>
-			{% if rethinking.image %}
+			{% if experiment.image %}
 			<figure>
-				{% if rethinking.external_url %}
-				<a href="{{ rethinking.external_url }}">
+				{% if experiment.external_url %}
+				<a href="{{ experiment.external_url }}">
 				{% else %}
-				<a href="{{ rethinking.url }}">
+				<a href="{{ experiment.url }}">
 				{% endif %}
-				<img src="{{ rethinking.image }}" />
+				<img src="{{ experiment.image }}" />
 				</a>
 			</figure>
 			{% endif %}
@@ -53,4 +45,3 @@ og_type: website
 		{% endfor %}
 	</section>
 </section>
-

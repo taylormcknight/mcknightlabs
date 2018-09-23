@@ -827,7 +827,6 @@ main {
     margin-top: 0rem;
     float: right; }
   .top-nav-desktop ul li {
-    flex: 1;
     display: inline-block;
     margin: 0 .5rem; }
   .top-nav-desktop ul li a {
