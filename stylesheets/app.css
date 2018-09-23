@@ -383,10 +383,13 @@ img {
   max-width: 100%; }
 
 a {
-  color: #3300FF;
-  text-decoration: none; }
+  color: #44464f;
+  border-bottom: 1px dotted #3300FF;
+  text-decoration: none;
+  transition: color 0.1s ease; }
 a:hover {
-  text-decoration: underline; }
+  text-decoration: none;
+  color: #3300FF; }
 
 h1 {
   font-size: 2rem;
@@ -670,7 +673,8 @@ main {
 
 .inner-section-wrapper {
   max-width: 720px;
-  margin: 0 auto; }
+  margin: 0 auto;
+  padding: 1rem; }
 
 .grid {
   padding: 3rem 1rem;
@@ -680,22 +684,15 @@ main {
 .grid article, .grid .project-section {
   grid-column: span 12; }
 
-.meta {
-  color: #3300FF; }
-
 .grid-wrapper {
   padding: 0 1rem;
   display: grid;
   grid-template-columns: repeat(12, 1fr);
   margin: 0 auto; }
-.grid-wrapper a {
-  color: #000; }
 .grid-wrapper li, .grid-wrapper p {
   font-size: 1.125rem;
   line-height: 1.6;
   margin: .5rem 0 0 0; }
-.grid-wrapper li a, .grid-wrapper p a {
-  color: #3300FF; }
 .grid-wrapper h3 {
   font-size: 1.675rem;
   font-weight: 700;
@@ -767,14 +764,6 @@ main {
   width: 100%; }
 .listings h3 {
   font-size: 1.875rem; }
-.listings a {
-  text-decoration: none;
-  color: #000; }
-.listings a:hover {
-  color: #3300FF;
-  text-decoration: underline; }
-.listings a:hover img {
-  opacity: .8; }
 .listings img {
   margin-bottom: .5rem; }
 .listings .meta {
@@ -831,11 +820,7 @@ main {
   .top-nav-desktop ul li a {
     font-size: 1rem;
     padding: 0;
-    color: #3300FF;
-    text-decoration: none;
     text-transform: uppercase; }
-  .top-nav-desktop ul li a:hover {
-    text-decoration: underline; }
 
   .header {
     display: block; } }

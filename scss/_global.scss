@@ -23,10 +23,13 @@ img {
 	max-width: 100%;
 }
 a {
-	color: #3300FF;
+	color: #44464f;
+	border-bottom: 1px dotted #3300FF;
 	text-decoration: none;
+	transition: color 0.1s ease;
 	&:hover {
-		text-decoration: underline;
+		text-decoration: none;
+		color: #3300FF;
 	}
 }
 h1 {

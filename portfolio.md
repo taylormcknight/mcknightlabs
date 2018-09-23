@@ -32,13 +32,15 @@ og_type: website
 				</h3>
 				</a>
 				<p class="description">{{ page.description }}</p>
+				<p>
 				{% if page.external_url %}
 				<a href="{{ page.external_url }}">
 				{% else %}
 				<a href="{{ page.url }}">
-				<p class="meta">Read more</p>
+				Read more
 				{% endif %}
 				</a>
+				</p>
 			</figcaption>
 			{% if page.image %}
 			<figure>

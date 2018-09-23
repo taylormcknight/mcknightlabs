@@ -7,6 +7,7 @@ main {
 .inner-section-wrapper {
 	max-width: 720px;
 	margin: 0 auto;
+	padding: 1rem;
 }
 .grid {
     padding: 3rem 1rem;
@@ -17,22 +18,13 @@ main {
 		grid-column: span 12;
 	}
 }
-.meta {
-	color: #3300FF;
-}
 
 .grid-wrapper {
 	padding: 0 1rem;
 	display: grid;
 	grid-template-columns: repeat(12, 1fr);
 	margin: 0 auto;
-	a {
-		color: #000;
-	}
 	li, p {
-		a {
-			color: #3300FF;
-		}
 		font-size: 1.125rem;
 		line-height: 1.6;
 		margin: .5rem 0 0 0;

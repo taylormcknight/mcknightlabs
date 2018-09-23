@@ -30,13 +30,15 @@ og_type: website
 				</a>
 				<p>{{ blog.date | date: "%-d %B %Y" }}</p>
 				<p class="description">{{ blog.description }}</p>
+				<p>
 				{% if blog.external_url %}
 				<a href="{{ blog.external_url }}">
 				{% else %}
 				<a href="{{ blog.url }}">
 				{% endif %}
-				<p class="meta">Read more</p>
+				Read more
 				</a>
+				</p>
 			</figcaption>
 			{% if blog.image %}
 			<figure>

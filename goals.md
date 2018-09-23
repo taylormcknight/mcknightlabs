@@ -28,17 +28,18 @@ og_type: website
 				</h3>
 				</a>
 				<p class="description">{{ goal.description }}</p>
+				<p>
 				{% if goal.external_url %}
 				<a href="{{ goal.external_url }}">
 				{% else %}
 				<a href="{{ goal.url }}">
 				{% endif %}
-				<p class="meta">Read more
+				Read more
 				{% if goal.external_url %}
 				<img src="{{ site.url }}/media/img/external-link-icon.png" class="external-link-icon">
 				{% endif %}
-				</p>
 				</a>
+				</p>
 			</figcaption>
 			{% if goal.image %}
 			<figure>

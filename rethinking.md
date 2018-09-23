@@ -29,13 +29,15 @@ og_type: website
 				</a>
 				<p>{{ rethinking.date | date: "%-d %B %Y" }}</p>
 				<p class="description">{{ rethinking.description }}</p>
+				<p>
 				{% if rethinking.external_url %}
 				<a href="{{ rethinking.external_url }}">
 				{% else %}
 				<a href="{{ rethinking.url }}">
 				{% endif %}
-				<p class="meta">Read more</p>
+				Read more
 				</a>
+				</p>
 			</figcaption>
 			{% if rethinking.image %}
 			<figure>
