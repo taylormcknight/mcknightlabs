@@ -185,7 +185,7 @@ blockquote {
 	position: relative;
 	font-size: 1.25rem;
 	line-height: 1.6;
-	padding: 1.5em 0 0.5em;
+	padding: 2rem 0;
   	margin: 1.5em 0;
   	border-width: 2px 0;
 	border-style: solid;
@@ -212,13 +212,6 @@ blockquote {
 		height: 5rem;
 		font-size: 5rem;
 		text-align: center;
-	}
-	&:after {
-		content: "\2013 \2003" attr(cite);
-		display: block;
-		text-align: right;
-		font-size: 0.875em;
-		color: #e74c3c;
 	}
 }
 
