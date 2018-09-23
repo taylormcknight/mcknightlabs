@@ -444,7 +444,9 @@ table caption .details {
   display: inline-block;
   font-size: 1.25rem;
   font-weight: 700;
-  font-family: 'Yantramanav', sans-serif; }
+  font-family: 'Yantramanav', sans-serif;
+  border: none;
+  color: #000; }
 .logo img {
   display: inline-block;
   height: 25px;
