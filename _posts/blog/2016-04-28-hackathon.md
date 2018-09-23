@@ -2,15 +2,15 @@
 layout: article
 title: How to hack a hackathon
 description: Having recently completed a NASA hackathon, I decided to capture some of the lessons I've learned over the years. What follows is sort of a playbook or "how to" guide for hackathons based on my experiences. It is totally biased and by no means comprehensive. Use it to start thinking creatively about common questions and problems a lot of hackathon participants encounter.
-image: /media/img/posts/tech-design/2016-04-28-hackathon/astro_ladder.jpg
+image: /media/img/posts/blog/2016-04-28-hackathon/astro_ladder.jpg
 og_title: How to hack a hackathon
 og_description: Having recently completed a NASA hackathon, I decided to capture some of the lessons I've learned over the years. What follows is sort of a playbook or "how to" guide for hackathons based on my experiences. It is totally biased and by no means comprehensive. Use it to start thinking creatively about common questions and problems a lot of hackathon participants encounter.
-og_image: /media/img/posts/tech-design/2016-04-28-hackathon/astro_ladder.jpg
-category: tech-design
+og_image: /media/img/posts/blog/2016-04-28-hackathon/astro_ladder.jpg
+category: blog
 ---
 
 <figure>
-	<img src="{{ site.url }}/media/img/posts/tech-design/2016-04-28-hackathon/astro_ladder.jpg">
+	<img src="{{ site.url }}/media/img/posts/blog/2016-04-28-hackathon/astro_ladder.jpg">
 </figure>
 
 <p>If you get the opportunity to attend a hackathon or startup weekend, go. These events offer challenges that can make you sharper on the job and connect you with a lot of awesome people in your area.</p>
@@ -47,7 +47,7 @@ category: tech-design
 <p>The most basic version of your proposed solution should be something doable in a weekend – a proof of concept. Come up with a super simple prototype or "minimum viable product" (MVP). This can even be static web pages that simulate an app. Let everyone know that you can build on the basic concept if you all have extra time (you won't).</p>
 
 <figure>
-	<img src="{{ site.url }}/media/img/posts/tech-design/2016-04-28-hackathon/divedroid_2.jpg">
+	<img src="{{ site.url }}/media/img/posts/blog/2016-04-28-hackathon/divedroid_2.jpg">
 </figure>
 
 <h3>How should a team split responsibilities?</h3>
@@ -67,7 +67,7 @@ category: tech-design
 <p><strong>The pitch team</strong> draws on members of both the build and content teams. Your build team will likely be working on the MVP until the very last minute, so members of the content team should take the lead here. After a content team member describes the problem, identifies the user, and reveals the proposed solution, a member of the build team should walk the judges and audience through a demo of the MVP. The content team can then wrap things up by describing how the MVP might be developed further in the future.</p>
 
 <figure>
-	<img src="{{ site.url }}/media/img/posts/tech-design/2016-04-28-hackathon/team.jpg">
+	<img src="{{ site.url }}/media/img/posts/blog/2016-04-28-hackathon/team.jpg">
 </figure>
 
 <h3>How do you keep a project and team on track toward a common goal when no one has actual authority?</h3>
@@ -86,7 +86,7 @@ category: tech-design
 </ul>
 
 <figure>
-	<img src="{{ site.url }}/media/img/posts/tech-design/2016-04-28-hackathon/divedroid_1.jpg">
+	<img src="{{ site.url }}/media/img/posts/blog/2016-04-28-hackathon/divedroid_1.jpg">
 </figure>
 
 <h3>Is a hackathon more about learning and supporting team members or completing your project and winning?</h3>
@@ -109,6 +109,6 @@ category: tech-design
 <p>Yes. If you are not having fun, something is wrong. Figure out the issue and address it – starting with communicating the problem to the team. If the problem can't be fixed, assess whether or not you want to gracefully bow out.</p>
 
 <figure>
-	<img src="{{ site.url }}/media/img/posts/tech-design/2016-04-28-hackathon/divedroid_3.jpg">
+	<img src="{{ site.url }}/media/img/posts/blog/2016-04-28-hackathon/divedroid_3.jpg">
 </figure>
 

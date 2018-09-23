@@ -2,11 +2,11 @@
 layout: article
 title: Stop thinking about tools
 description: I have been asked for design career advice from a number of college students. One of the questions that keeps coming up… Do I need to learn to code? A lot of times, I’ll say, “it depends.” This week, I changed my answer. I told a college senior, “no.”
-image: /media/img/posts/tech-design/2016-02-24-stop-thinking-tools/stop-tools.jpg
-category: tech-design
+image: /media/img/posts/blog/2016-02-24-stop-thinking-tools/stop-tools.jpg
+category: blog
 og_title: Stop thinking about tools
 og_description: I have been asked for design career advice from a number of college students. One of the questions that keeps coming up… Do I need to learn to code? A lot of times, I’ll say, “it depends.” This week, I changed my answer. I told a college senior, “no.”
-og_image: /media/img/posts/tech-design/2016-02-24-stop-thinking-tools/stop-tools.jpg
+og_image: /media/img/posts/blog/2016-02-24-stop-thinking-tools/stop-tools.jpg
 og_type: website
 ---
 
@@ -58,4 +58,4 @@ Beyond that...
 
 Read articles on Medium. Follow designers on Twitter. Watch panels and interviews with designers on YouTube. Go look at the job listings. See what those type of companies are looking for in terms of skills.
 
-For even more tips about applying for design jobs, check out <a href="https://mcknightlabs.com/tech-design/2018/06/30/land-design-job.html">this other post</a> I wrote.
+For even more tips about applying for design jobs, check out <a href="https://mcknightlabs.com/blog/2018/06/30/land-design-job.html">this other post</a> I wrote.

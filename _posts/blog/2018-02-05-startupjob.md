@@ -2,18 +2,18 @@
 layout: article
 title: Becoming employee number five
 description: This week marked my fifth year working full-time at Industry Dive. And what an adventure it has been – from our small office in Dupont to a 50+ person company in Chinatown to a 100+ employee company in McPherson, two blocks from the White House. How did it all begin? Here's a quick look back describing how and why I joined the Dive team during the startup phase.
-category: tech-design
-image: /media/img/posts/tech-design/2018-02-05-startupjob/id-dupont.jpg
+category: blog
+image: /media/img/posts/blog/2018-02-05-startupjob/id-dupont.jpg
 tags:
 og_title: Becoming employee number five
 og_description: Without any connections, I turned myself into a startup employee in 2013.
-og_image: /media/img/posts/tech-design/2018-02-05-startupjob/id-dupont.jpg
+og_image: /media/img/posts/blog/2018-02-05-startupjob/id-dupont.jpg
 og_type: website
 ---
 
 <div class="full-frame">
 	<figure>
-		<img src="{{ site.url }}/media/img/posts/tech-design/2018-02-05-startupjob/watch-2.jpg">
+		<img src="{{ site.url }}/media/img/posts/blog/2018-02-05-startupjob/watch-2.jpg">
 		<figcaption>Gift from the Industry Dive founders for my five years of service to the company.</figcaption>
 	</figure>
 </div>
@@ -64,7 +64,7 @@ At the age of twenty-three, I had landed a job at a startup.
 
 <div class="full-frame">
 	<figure>
-		<img src="{{ site.url }}/media/img/posts/tech-design/2018-02-05-startupjob/id-dupont.jpg">
+		<img src="{{ site.url }}/media/img/posts/blog/2018-02-05-startupjob/id-dupont.jpg">
 		<figcaption>Industry Dive's Dupont office in early 2013.</figcaption>
 	</figure>
 </div>

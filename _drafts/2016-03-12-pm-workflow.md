@@ -2,7 +2,7 @@
 layout: article
 title: Project management workflow
 description: This is the first post in a series about my project management workflow – how I wrangle problems, goals, and deadlines.
-category: tech-design
+category: blog
 ---
 
 <p>UPDATE Jan 2017: The workflow described in this post has been replaced with one centered around JIRA and Confluence.</p>
@@ -37,7 +37,7 @@ category: tech-design
 <p>I currently have four inboxes: 1) Inbox 2) Action needed 3) To read 4) Useful</p>
 
 <figure>
-	<img src="{{ site.url }}/media/img/posts/tech-design/2016-03-12-pm-workflow/multi-inboxes.jpg" class="img-border">
+	<img src="{{ site.url }}/media/img/posts/blog/2016-03-12-pm-workflow/multi-inboxes.jpg" class="img-border">
 </figure>
 
 <p>Every new email goes in the main inbox.</p>
@@ -61,12 +61,12 @@ category: tech-design
 <div class="row">
 	<div class="medium-4 columns">
 		<figure>
-			<img src="{{ site.url }}/media/img/posts/tech-design/2016-03-12-pm-workflow/trello-1.jpg" class="img-border">
+			<img src="{{ site.url }}/media/img/posts/blog/2016-03-12-pm-workflow/trello-1.jpg" class="img-border">
 		</figure>
 	</div>
 	<div class="medium-8 columns">
 		<figure>
-			<img src="{{ site.url }}/media/img/posts/tech-design/2016-03-12-pm-workflow/trello-2.jpg" class="img-border">
+			<img src="{{ site.url }}/media/img/posts/blog/2016-03-12-pm-workflow/trello-2.jpg" class="img-border">
 		</figure>
 	</div>
 </div>

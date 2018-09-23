@@ -15,36 +15,36 @@ og_type: website
 </section>
 <section class="stripe-section">
 	<section class="grid-wrapper">
-		{% for tech-design in site.categories.tech-design %}
+		{% for blog in site.categories.blog %}
 		<article>
 			<figcaption>
-				{% if tech-design.external_url %}
-				<a href="{{ tech-design.external_url }}">
+				{% if blog.external_url %}
+				<a href="{{ blog.external_url }}">
 				{% else %}
-				<a href="{{ tech-design.url }}">
+				<a href="{{ blog.url }}">
 				{% endif %}
 				<h3>
-					{{ tech-design.title }}
+					{{ blog.title }}
 				</h3>
 				</a>
-				<p>{{ tech-design.date | date: "%-d %B %Y" }}</p>
-				<p class="description">{{ tech-design.description }}</p>
-				{% if tech-design.external_url %}
-				<a href="{{ tech-design.external_url }}">
+				<p>{{ blog.date | date: "%-d %B %Y" }}</p>
+				<p class="description">{{ blog.description }}</p>
+				{% if blog.external_url %}
+				<a href="{{ blog.external_url }}">
 				{% else %}
-				<a href="{{ tech-design.url }}">
+				<a href="{{ blog.url }}">
 				{% endif %}
 				<p class="meta">Read more</p>
 				</a>
 			</figcaption>
-			{% if tech-design.image %}
+			{% if blog.image %}
 			<figure>
-				{% if tech-design.external_url %}
-				<a href="{{ tech-design.external_url }}">
+				{% if blog.external_url %}
+				<a href="{{ blog.external_url }}">
 				{% else %}
-				<a href="{{ tech-design.url }}">
+				<a href="{{ blog.url }}">
 				{% endif %}
-				<img src="{{ tech-design.image }}" />
+				<img src="{{ blog.image }}" />
 				</a>
 			</figure>
 			{% endif %}

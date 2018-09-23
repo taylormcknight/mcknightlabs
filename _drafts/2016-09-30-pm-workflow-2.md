@@ -2,7 +2,7 @@
 layout: article
 title: Project management workflow v2.0
 description:
-category: tech-design
+category: blog
 ---
 
 <strong>UPDATE Jan 2017: The Waffle.io workflow described in this post has been replaced with one centered around JIRA and Confluence.</strong>
@@ -22,7 +22,7 @@ category: tech-design
 	<li>Track task assignments and project progress in a way that is scaleable and not overly burdensome on myself or team</li>
 </ul> 
 
-<p>To accomplish these objectives, I organically came up with the approach I wrote about in this <a href="{% post_url tech-design/2016-03-12-pm-workflow %}">March 2016 post</a>.</p>
+<p>To accomplish these objectives, I organically came up with the approach I wrote about in this <a href="{% post_url blog/2016-03-12-pm-workflow %}">March 2016 post</a>.</p>
 
 <p>Since that time, my tactics have evolved quite a bit.</p>
 

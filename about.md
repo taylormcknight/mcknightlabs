@@ -20,7 +20,7 @@ og_type: website
 
 <p>I joined the Industry Dive team during year one and became <a href="{{ site.url }}/tech/2018/02/05/startupjob">FTE #5</a>. Within five years, we scaled the company to over 100 FTEs and $15M+ in revenue.</p>
 
-<p>Read about my startup and management experiences <a href="{{ site.url }}/tech-design">here</a>.</p>
+<p>Read about my startup and management experiences <a href="{{ site.url }}/blog">here</a>.</p>
 
 <p><strong>Self-mastery is what drives me.</strong></p>
 
