@@ -1,20 +1,20 @@
 <nav class="top-nav-desktop">
-	<a href="{{ site.url }}" class="{% if page.url == '/index' %}current{% endif %} logo"> McKnightLabs</a>
+	<a href="{{ site.url }}" class="logo"><img src="{{ site.url }}/media/img/circles.png"> McKnightLabs</a>
 	<ul class="nav">
 		<li>
-			<a href="{{ site.url }}/what-if" class="{% if page.url == '/what-if' %}current{% endif %}">What if</a>
+			<a href="{{ site.url }}/what-if" {% if page.url == "/what-if" %}class="current"{% endif %}>What if</a>
 		</li>
 		<li>
-			<a href="{{ site.url }}/goals" class="{% if page.url == '/goals' %}current{% endif %}">Goals</a>
+			<a href="{{ site.url }}/goals" {% if page.url == '/goals' %}class="current"{% endif %}>Goals</a>
 		</li>
 		<li>
-			<a href="{{ site.url }}/portfolio" class="{% if page.url == '/portfolio' %}current{% endif %}">Portfolio</a>
+			<a href="{{ site.url }}/portfolio" {% if page.url == '/portfolio' %}class="current"{% endif %}>Portfolio</a>
 		</li>
 		<li>
-			<a href="{{ site.url }}/blog" class="{% if page.url == '/blog' %}current{% endif %}">Blog</a>
+			<a href="{{ site.url }}/blog" {% if page.url == '/blog' %}class="current"{% endif %}>Blog</a>
 		</li>
 		<li>
-			<a href="{{ site.url }}/photography" class="{% if page.url == '/photography' %}current{% endif %}">Photography</a>
+			<a href="{{ site.url }}/photography" {% if page.url == '/photography' %}class="current"{% endif %}>Photography</a>
 		</li>
 		<li>
 			<a href="{{ site.url }}/about" class="{% if page.url == '/about' %}current{% endif %}">About</a>
@@ -25,14 +25,14 @@
 		<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
 		<!-- Overlay content -->
 		<div class="overlay-content">
-			<a href="{{ site.url }}/index" class="{% if page.url == '/index' %}current{% endif %}">Experiments</a>
-			<a href="{{ site.url }}/what-if" class="{% if page.url == '/what-if' %}current{% endif %}">What if</a>
-			<a href="{{ site.url }}/goals" class="{% if page.url == '/goals' %}current{% endif %}">Goals</a>
-			<a href="{{ site.url }}/portfolio" class="{% if page.url == '/portfolio' %}current{% endif %}">Portfolio</a>
-			<a href="{{ site.url }}/blog" class="{% if page.url == '/blog' %}current{% endif %}">Blog</a>
-			<a href="{{ site.url }}/photography" class="{% if page.url == '/photography' %}current{% endif %}">Photography</a>
-			<a href="{{ site.url }}/about" class="{% if page.url == '/about' %}current{% endif %}">About</a>
+			<a href="{{ site.url }}/index">Experiments</a>
+			<a href="{{ site.url }}/what-if">What if</a>
+			<a href="{{ site.url }}/goals">Goals</a>
+			<a href="{{ site.url }}/portfolio">Portfolio</a>
+			<a href="{{ site.url }}/blog">Blog</a>
+			<a href="{{ site.url }}/photography">Photography</a>
+			<a href="{{ site.url }}/about">About</a>
 		</div>
 	</div>
-	<span onclick="openNav()" class="mobile-menu-btn logo"><img src="{{ site.url }}/media/img/circles.png"> menu</span>
+	<span onclick="openNav()" class="mobile-menu-btn logo">&#9776;</span>
 </nav>
