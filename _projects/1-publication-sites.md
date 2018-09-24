@@ -33,7 +33,7 @@ categories:
 			<h2>2013</h2>
 			<p>Below is a screenshot of what Industry Dive's news publication websites looked like prior to my arrival in November of 2012.</p>
 			<p>Soon after joining, I expressed an interest in helping with web design.</p>
-			<p>I had completed a couple of web development classes in high school and had spent many hours coding my own portfolio sites – static and Wordpress – to showcase my videography work in undergrad. I was certainly no front-end developer, but I knew enough to start contributing in small ways and comitted myself to improving my skills.</p>
+			<p>I had completed a couple of web development classes in high school and had spent many hours coding my own portfolio sites – static and Wordpress – to showcase my videography work in undergrad. I was certainly no front-end developer, but I knew enough to start contributing in small ways and committed myself to improving my skills.</p>
 			<p>Within a year, product design and front-end development were key parts of my job.</p>
 			<figure class="full-figure">
 				<img src="/media/img/projects/publications/2013-brief.jpg" />
