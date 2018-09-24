@@ -57,7 +57,7 @@ og_type: website
 	<div class="timeline-container right">
 		<div class="content">
 			<h2>Product design and development</h2>
-			<p>After the podcast production with the new equipment was in full swing, we set up a <a href="https://www.retaildive.com/topic/podcasts/">dedicated page</a> on our publication sites for useres to easily browse episodes. To reduce navigation friction and improve the overall podcast listening experience, my team also designed and helped implement a custom Soundcloud API integration. This allows users to play the podcasts without leaving our site.</p>
+			<p>After the podcast production with the new equipment was in full swing, we set up a <a href="https://www.retaildive.com/topic/podcasts/">dedicated page</a> on our publication sites for users to easily browse episodes. To reduce navigation friction and improve the overall podcast listening experience, my team also designed and helped implement a custom Soundcloud API integration. This allows users to play the podcasts without leaving our site.</p>
 		</div>
 	</div>
 </div>
