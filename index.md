@@ -39,7 +39,10 @@ og_type: website
 				</h3>
 				</a>
 				<p class="description">{{ experiment.description }}</p>
-				<a href="{{ experiment.url }}"><p class="meta">Read more</p></a>
+				<p>
+				<a href="{{ experiment.url }}">
+				Read more
+				</a></p>
 			</figcaption>
 			{% if experiment.image %}
 			<figure>
