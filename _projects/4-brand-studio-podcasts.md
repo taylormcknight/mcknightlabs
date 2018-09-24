@@ -9,10 +9,10 @@ og_image: /media/img/projects/podcasting/podcasting.jpg
 og_type: website
 ---
 <section class="grid">
-	<article>
+	<div class="full-width">
 		<h1>{{ page.title }}</h1>
 		<p>Leveraging my undergrad training in film and video production, I helped our editorial and Brand Studio teams establish in-house podcast production capabilities.</p>
-	</article>
+	</div>
 </section>
 <section class="stripe-section">
 

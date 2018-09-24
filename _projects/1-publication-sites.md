@@ -12,7 +12,7 @@ categories:
 ---
 
 <section class="grid">
-	<article>
+	<div class="full-width">
 		<h1>{{ page.title }}</h1>
 		<p>I've led the design and front-end development of Industry Dive's Django-based <a href="https://www.biopharmadive.com/">news publication sites</a> since early 2013. During that time, I've managed a redesign from desktop/mobile to responsive and launched numerous new features.</p>
 		<p>Read about projects my team has accomplished:</p>
@@ -22,7 +22,7 @@ categories:
 			<li><a href="https://design.industrydive.com/ux/2017/09/03/speed-intro.html">Improving site speed</a></li>
 			<li><a href="https://design.industrydive.com/product/2017/07/15/promoted-pdf-button.html">Building a tool for Ad Ops to download styled articles for clients</a></li>
 		</ul>
-	</article>
+	</div>
 </section>
 
 <section class="stripe-section">
