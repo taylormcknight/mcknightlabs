@@ -21,7 +21,7 @@ og_type: website
 		c-0.7-2.3-1.4-4.5-2.2-6.7c-0.4-1.3-0.8-2.5-1.3-3.8h14.4C52.7,70.9,52.2,72.8,51.6,74.5z"/>
 		</svg>
 		</h1>
-			<p>&ldquo;There are naive questions, tedious questions, ill-phrased questions, questions put after inadequate self-criticism. But every question is a cry to understand the world. There is no such thing as a dumb question.&rdquo; <cite class="page-description-citation">– <a href="https://en.wikipedia.org/wiki/The_Demon-Haunted_World">Carl Sagan</a></cite></p>
+			<p>&ldquo;There are naive questions, tedious questions, ill-phrased questions, questions put after inadequate self-criticism. But every question is a cry to understand the world. There is no such thing as a dumb question.&rdquo; <cite class="page-description-citation">– Carl Sagan, <a href="https://en.wikipedia.org/wiki/The_Demon-Haunted_World">The Demon-Haunted World</a></cite></p>
 	</div>
 </section>
 <section class="stripe-section">

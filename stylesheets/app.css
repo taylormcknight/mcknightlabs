@@ -392,7 +392,10 @@ a:hover {
   color: #3300FF; }
 
 .page-description-citation {
-  font-size: .875rem; }
+  font-size: .875rem;
+  font-style: normal; }
+.page-description-citation a {
+  font-style: italic; }
 
 h1 {
   font-size: 2rem;
