@@ -32,6 +32,9 @@ a {
 		color: #3300FF;
 	}
 }
+.page-description-citation {
+	font-size: .875rem;
+}
 h1 {
 	font-size: 2rem;
 	font-weight: 600;
@@ -266,6 +269,9 @@ blockquote {
 	h2, h3 {
 		font-size: 1.675rem;
 		margin: 3rem 0 2rem 0;
+	}
+	.page-description-citation {
+		font-size: 1.25rem;
 	}
 	figure {
 		max-width: 45rem;
