@@ -456,6 +456,24 @@ table caption .details {
 .logo:hover {
   text-decoration: none; }
 
+.page-title-svg {
+  height: 30px;
+  width: 30px;
+  display: inline-block;
+  animation-name: floating;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+  margin-left: .25rem;
+  margin-bottom: 1rem; }
+
+@keyframes floating {
+  from {
+    transform: translate(0, 0px); }
+  65% {
+    transform: translate(0, 20px); }
+  to {
+    transform: translate(0, 0px); } }
 .stripe-section {
   padding: 3rem 0;
   background: #f5f7f8; }
