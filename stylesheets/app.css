@@ -697,11 +697,11 @@ main {
   padding: 1rem; }
 
 .grid {
-  padding: 3rem 1rem;
+  padding: 1rem;
   margin: 0 auto;
   display: grid;
   grid-template-columns: repeat(12, 1fr); }
-.grid article, .grid .project-section {
+.grid .full-width {
   grid-column: span 12; }
 
 .grid-wrapper {

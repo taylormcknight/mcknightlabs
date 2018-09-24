@@ -9,10 +9,10 @@ og_image: https://s3.amazonaws.com/rtmup.com/blog_images/hab/stratosphere_5.jpg
 og_type: website
 ---
 <section class="grid">
-<article>
-	<h1>{{ page.title }}</h1>
-	<p>Everything around us was made up by people that were no smarter than us, and we can change it.</p>
-</article>
+	<div class="full-width">
+		<h1>{{ page.title }}</h1>
+		<p>Everything around us was made up by people that were no smarter than us, and we can change it.</p>
+	</div>
 </section>
 <section class="stripe-section">
 	<section class="grid-wrapper">

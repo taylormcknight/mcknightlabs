@@ -8,10 +8,10 @@ og_image: /media/img/photography/film/35/canonae1/000015350010.jpg
 og_type: website
 ---
 <section class="grid">
-	<article>
+	<div class="full-width">
 		<h1>{{ page.title }}</h1>
 		<p>Below are galleries of my film photography. My digital work is focused on the evolution of the earth and can be viewed and purchased on <a href="https://scarceart.com/">ScarceArt.com</a>.</p>
-	</article>
+	</div>
 </section>
 <section class="stripe-section">
 	<section class="grid-wrapper">

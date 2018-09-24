@@ -9,10 +9,10 @@ og_type: website
 ---
 
 <section class="grid">
-	<article>
+	<div class="full-width">
 		<h1>{{ page.title }}</h1>
 		<p>Reflection is a key element of personal and professional growth, so I blog about experiences and lessons learned. Looking for my more imaginative &ldquo;what if&rdquo; posts? Visit <a href="{{ site.baseurl }}/what-if">this page</a>.</p>
-	</article>
+	</div>
 </section>
 <section class="stripe-section">
 	<section class="grid-wrapper">
