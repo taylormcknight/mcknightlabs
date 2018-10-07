@@ -65,7 +65,21 @@ ul, ol {
 		}
 	}
 }
-
+code {
+	font-size: .875rem;
+	font-family: Courier, monospace;  
+	display: block;
+	color: #555555;
+	padding: 1rem;
+	margin: auto 1.5rem;
+	background: #f4f4f4;
+	border: solid 1px #e1e1e1;
+	white-space: pre-wrap;       /* css-3 */
+	white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+	white-space: -pre-wrap;      /* Opera 4-6 */
+	white-space: -o-pre-wrap;    /* Opera 7 */
+	word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
 // tables
 th, td {
 	text-align: left;

@@ -419,6 +419,26 @@ ul, ol {
 .footnotes ul li {
   font-size: 1rem; }
 
+code {
+  font-size: .875rem;
+  font-family: Courier, monospace;
+  display: block;
+  color: #555555;
+  padding: 1rem;
+  margin: auto 1.5rem;
+  background: #f4f4f4;
+  border: solid 1px #e1e1e1;
+  white-space: pre-wrap;
+  /* css-3 */
+  white-space: -moz-pre-wrap;
+  /* Mozilla, since 1999 */
+  white-space: -pre-wrap;
+  /* Opera 4-6 */
+  white-space: -o-pre-wrap;
+  /* Opera 7 */
+  word-wrap: break-word;
+  /* Internet Explorer 5.5+ */ }
+
 th, td {
   text-align: left;
   padding: 1rem 0; }
@@ -620,7 +640,7 @@ blockquote:before {
   line-height: 1.5; }
 .article h2, .article h3, .article h4 {
   font-weight: 100; }
-.article ol, .article ul, .article hr, .article h1, .article h2, .article h3, .article h4, .article h5, .article p, .article cite, .article span, .article blockquote, .article .footnotes {
+.article ol, .article ul, .article hr, .article h1, .article h2, .article h3, .article h4, .article h5, .article p, .article cite, .article span, .article blockquote, .article .footnotes, .article code {
   max-width: 720px;
   margin-right: auto;
   margin-left: auto; }
