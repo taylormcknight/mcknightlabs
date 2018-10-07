@@ -1,5 +1,6 @@
 ---
 layout: article
+date: 2018-09-30
 title: Establishing podcasting at Industry Dive
 description: Leveraging my undergrad training in film and video production, I helped our Editorial and Brand Studio teams establish in-house podcast production capabilities.
 image: /media/img/projects/podcasting/podcasting.jpg

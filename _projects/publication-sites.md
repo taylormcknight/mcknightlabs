@@ -1,5 +1,6 @@
 ---
 layout: article
+date: 2018-10-06
 title: Managing the evolution of the Dive news sites
 image: /media/img/projects/publications/2018-home-page.png
 description: I have overseen the design and front-end development of Industry Dive's Django-based news publication sites since early 2013. During that time, our sites have significantly matured, along with my own knowledge of design and development best practices.
