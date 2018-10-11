@@ -10,7 +10,7 @@ og_type: website
 
 I founded and lead the multidisciplinary and <a href="https://www.industrydive.com/news/post/honoring-industry-dives-award-winning-design-leader/">award-winning</a> <a href="https://design.industrydive.com/">design team</a> at <a href="https://www.industrydive.com/">Industry Dive</a>, a rapidly growing business news company in Washington, DC. We were selected a "Best Place to Work" by the Washington Post in 2017 and 2018.
 
-In 2017, I was recognized as an "<a href="http://www.siia.net/bims/SPECIAL-PROGRAMS/Emerging-Leader-Awards">Emerging Leader</a>" in the B2B media industry for my work at Industry Dive.
+In 2017, I was recognized as an "<a href="http://www.siia.net/bims/SPECIAL-PROGRAMS/Emerging-Leader-Awards">Emerging Leader</a>" in the B2B media industry for my work at Industry Dive. I also served as a judge in the <a href="https://www.siia.net/bims/SPECIAL-PROGRAMS/Emerging-Leader-Awards">Emerging Leader Awards</a> competition in 2018.
 
 I joined the Industry Dive team during year one and became <a href="{{ site.url }}/blog/2018/02/05/startupjob">FTE #5</a>. Within five years, we scaled the company to over 100 FTEs and $15M+ in revenue.
 
