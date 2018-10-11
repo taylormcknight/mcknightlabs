@@ -15,7 +15,7 @@ In 2018, Industry Dive appeared on <em>Inc.</em> magazine's list of <a href="htt
 
 **Full bio**
 
-<p>After graduating from <a href="http://www.lse.ac.uk/">LSE</a> in 2012, I joined <a href="https://www.industrydive.com/">Industry Dive</a>, a business journalism startup, as <a href="{{ site.url }}/blog/2018/02/05/startupjob">employee #5</a> and taught myself the fundamentals of design and front-end development.
+After graduating from <a href="http://www.lse.ac.uk/">LSE</a> in 2012, I joined <a href="https://www.industrydive.com/">Industry Dive</a>, a business journalism startup, as <a href="{{ site.url }}/blog/2018/02/05/startupjob">employee #5</a> and taught myself the fundamentals of design and front-end development.
 
 I founded the following areas of design and multi-media at Industry Dive: <a href="https://design.industrydive.com/ux/2018/01/04/cms-audit-user-flows.html">UX design</a>, <a href="https://design.industrydive.com/product/2017/12/20/library-page.html">UI design</a>, <a href="https://design.industrydive.com/product/2018/03/29/flex-menu.html">front-end development</a>, <a href="https://design.industrydive.com/editorial/2018/03/08/dive-awards-2017.html">editorial graphics</a>, <a href="{{ site.url }}/projects/4-brand-studio-podcasts/">podcasting</a>, <a href="https://www.constructiondive.com/news/photos-of-new-smithsonian-african-american-museum/420671/">photo journalism</a> and <a href="https://design.industrydive.com/corporate/2018/05/09/logo-redesign.html">graphic design</a>.
 
