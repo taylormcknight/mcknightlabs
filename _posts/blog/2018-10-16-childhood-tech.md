@@ -2,12 +2,12 @@
 layout: article 
 title: Solar trees and irrigation pumps
 description: Growing up in rural, eastern North Carolina, I was surrounded by thousands of tobacco and cotton fields. Large diesel generators fed water through a maze of PVC pipes to keep these crops alive. Was there a more efficient way to irrigate? 
-date: 2018-06-30
+date: 2018-10-16
 category: blog
-image: /media/img/posts/blog/2018-06-30-land-design-job/design-team.jpg
+image: /media/img/posts/blog/2018-10-16-childhood-tech/solar-leaves.jpg
 og_title: How to land a great design job
 og_description: How to gain a competitive advantage over other candidates
-og_image: /media/img/posts/blog/2018-06-30-land-design-job/design-team.jpg
+og_image: /media/img/posts/blog/2018-10-16-childhood-tech/solar-leaves.jpg
 og_type: website
 ---
 
