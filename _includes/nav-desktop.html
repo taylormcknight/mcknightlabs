@@ -2,16 +2,13 @@
 	<a href="{{ site.url }}" class="logo"><img src="{{ site.url }}/media/img/circles.png"> McKnightLabs</a>
 	<ul class="nav">
 		<li>
-			<a href="{{ site.url }}/what-if" {% if page.url == "/what-if" %}class="current"{% endif %}>What if</a>
-		</li>
-		<li>
-			<a href="{{ site.url }}/goals" {% if page.url == '/goals' %}class="current"{% endif %}>Goals</a>
+			<a href="{{ site.url }}/blog" {% if page.url == '/blog' %}class="current"{% endif %}>Blog</a>
 		</li>
 		<li>
 			<a href="{{ site.url }}/portfolio" {% if page.url == '/portfolio' %}class="current"{% endif %}>Portfolio</a>
 		</li>
 		<li>
-			<a href="{{ site.url }}/blog" {% if page.url == '/blog' %}class="current"{% endif %}>Blog</a>
+			<a href="{{ site.url }}/goals" {% if page.url == '/goals' %}class="current"{% endif %}>Goals</a>
 		</li>
 		<li>
 			<a href="{{ site.url }}/photography" {% if page.url == '/photography' %}class="current"{% endif %}>Photography</a>
@@ -25,11 +22,10 @@
 		<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
 		<!-- Overlay content -->
 		<div class="overlay-content">
-			<a href="{{ site.url }}/index">Experiments</a>
-			<a href="{{ site.url }}/what-if">What if</a>
-			<a href="{{ site.url }}/goals">Goals</a>
-			<a href="{{ site.url }}/portfolio">Portfolio</a>
 			<a href="{{ site.url }}/blog">Blog</a>
+			<a href="{{ site.url }}/index">Experiments</a>
+			<a href="{{ site.url }}/portfolio">Portfolio</a>
+			<a href="{{ site.url }}/goals">Goals</a>
 			<a href="{{ site.url }}/photography">Photography</a>
 			<a href="{{ site.url }}/about">About</a>
 		</div>
