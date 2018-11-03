@@ -1,10 +1,10 @@
 ---
 external_url: https://design.industrydive.com/
 layout: full-width
-title: Building a design team recruiting tool
+title: Design team microsite
 image: /media/img/projects/design-site/design-site.png
 description: As the design team at Industry Dive grew, I started to look for ways to showcase our best work and attract high quality talent. One way in which I sought to achieve this was through the creation of a Jekyll-based blog hosted with Github Pages. Not only has the external blog helped us with recruiting, the development and maintenance of the site has been a favorite project of the front-end designers on the team.
-og_title: Building a design team recruiting tool
+og_title: Design team microsite
 og_description: As the design team at Industry Dive grew, I started to look for ways to showcase our best work and attract high quality talent.
 og_image: /media/img/projects/design-site/design-site.png
 og_type: website

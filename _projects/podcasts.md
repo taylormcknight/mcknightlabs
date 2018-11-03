@@ -1,16 +1,16 @@
 ---
 layout: article
 date: 2018-09-30
-title: Establishing podcasting at Industry Dive
-description: Leveraging my undergrad training in film and video production, I helped our Editorial and Brand Studio teams establish in-house podcast production capabilities.
+title: Newsroom podcasting
+description: Leveraging my undergrad training in film and video production, I helped our Editorial and Brand Studio teams establish in-house podcast production capabilities. This project included UI and UX changes on our news websites for SoundCloud integration.
 image: /media/img/projects/podcasting/podcasting.jpg
-og_title: Establishing podcasting at Industry Dive
+og_title: Newsroom podcasting
 og_description: Leveraging my undergrad training in film and video production, I helped our Editorial and Brand Studio teams establish in-house podcast production capabilities.
 og_image: /media/img/projects/podcasting/podcasting.jpg
 og_type: website
 ---
 
-Leveraging my undergrad training in film and video production, I helped our editorial and Brand Studio teams establish in-house podcast production capabilities.
+Leveraging my undergrad training in film and video production, I helped the Industry Dive editorial and Brand Studio teams establish in-house podcast production capabilities.
 
 
 ## The initial ask

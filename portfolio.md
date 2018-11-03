@@ -12,7 +12,7 @@ og_type: website
 		<h1>{{ page.title }}</h1>
 		<!--<p>The most important part of my job as a manager and team leader is shepherding the best ideas of my employees to fruition. I also work hard to align the personal interests and skills of my team members with core needs of the business to push the needle forward.</p>
 		<p>For a closer look at my growth as a manager, read <a href="{{ site.baseurl }}{% link _posts/blog/2017-03-05-management.md %}">this post</a>.</p>-->
-		<p>Learn about a few of my projects below.</p>
+		<p>Product Management &amp; Design</p>
 	</div>
 </section>
 <section class="stripe-section">
