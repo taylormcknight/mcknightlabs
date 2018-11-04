@@ -7,7 +7,7 @@ og_description: Everything around us was made up by people that were no smarter 
 og_image: /media/img/about/mcknight_headshot.jpg
 og_type: website
 ---
-<section class="grid">
+<section class="grid page-header">
 	<div class="full-width">
 		<h1>{{ page.title }}
 		</h1>
