@@ -7,14 +7,15 @@ og_description: Ryan McKnight founded and leads the award-winning design team at
 og_image: /media/img/about/mcknight_headshot.jpg
 og_type: website
 ---
-<section class="grid">
+<section class="grid page-header">
 	<div class="full-width">
 		<h1>{{ page.title }}</h1>
+		<p>Product Management &amp; Design</p>
 		<!--<p>The most important part of my job as a manager and team leader is shepherding the best ideas of my employees to fruition. I also work hard to align the personal interests and skills of my team members with core needs of the business to push the needle forward.</p>
 		<p>For a closer look at my growth as a manager, read <a href="{{ site.baseurl }}{% link _posts/blog/2017-03-05-management.md %}">this post</a>.</p>-->
-		<p>Product Management &amp; Design</p>
 	</div>
 </section>
+
 <section class="stripe-section">
 	<section class="grid-wrapper">
 		{% assign projects = site.projects | sort: 'date' %}
@@ -56,6 +57,8 @@ og_type: website
 		{% endfor %}
 	</section>
 </section>
+
+
 <!--
 	<h2>Corporate branding</h2> 
 

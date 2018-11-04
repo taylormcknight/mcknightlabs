@@ -12,7 +12,9 @@ categories:
 - projects
 ---
 
-I've led the design and front-end development of Industry Dive's Django-based <a href="https://www.biopharmadive.com/">news publication sites</a> since early 2013. During that time, I've managed a redesign from desktop/mobile to responsive and launched numerous new features.
+**Role:** Product design director and project manager
+
+I have led the design and front-end development of Industry Dive's Django-based <a href="https://www.biopharmadive.com/">news publication sites</a> since early 2013. During that time, I have managed a redesign from desktop/mobile to responsive and launched numerous new features.
 
 Read about projects my team has accomplished:
 

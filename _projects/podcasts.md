@@ -10,6 +10,8 @@ og_image: /media/img/projects/podcasting/podcasting.jpg
 og_type: website
 ---
 
+**Role:** Design director and project manager
+
 Leveraging my undergrad training in film and video production, I helped the Industry Dive editorial and Brand Studio teams establish in-house podcast production capabilities.
 
 

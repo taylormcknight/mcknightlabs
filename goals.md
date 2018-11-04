@@ -7,7 +7,7 @@ og_description: We become the things we do
 og_image: /media/img/about/mcknight_headshot.jpg
 og_type: website
 ---
-<section class="grid">
+<section class="grid page-header">
 	<div class="full-width">
 		<h1>{{ page.title }}</h1>
 		<p>We become the things we do. Self-mastery is what drives me. Below are personal goals I have achieved.</p>
