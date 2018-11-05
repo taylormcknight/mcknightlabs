@@ -2,14 +2,14 @@
 layout: article
 date: 2018-10-06
 title: News website design
+label: Industry Dive
 image: /media/img/projects/publications/2018-home-page.png
 description: I have overseen the design and front-end development of Industry Dive's Django-based news publication sites since early 2013. During that time, our sites have significantly matured, along with my own knowledge of design and development best practices.
 og_title: Managing the evolution of the Dive news sites
 og_description: I oversee the design and front-end development of our 14 Django-based news publications.
 og_image: /media/img/projects/publications/2018-home-page.png
 og_type: website
-categories: 
-- projects
+category: journalism
 ---
 
 **Role:** Product design director and project manager

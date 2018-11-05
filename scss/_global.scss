@@ -7,6 +7,12 @@ body {
 	-moz-osx-font-smoothing: grayscale;
 	overflow: auto;
 }
+.page-header {
+	color: #fff;
+	p, a {
+		color: #fff;
+	}
+}
 p, li, blockquote {
 	color: #44464f;
 	font-size: 1.25rem;
@@ -24,12 +30,12 @@ img {
 }
 a {
 	color: #44464f;
-	border-bottom: 1px dotted #3300FF;
+	border-bottom: 1px dotted #2c59b4;
 	text-decoration: none;
 	transition: color 0.1s ease;
 	&:hover {
 		text-decoration: none;
-		color: #3300FF;
+		color: #2c59b4;
 	}
 }
 .page-description-citation {
@@ -142,6 +148,7 @@ table {
     animation-timing-function: ease-in-out;
     margin-left: .25rem;
     margin-bottom: 1rem;
+    fill: #2c59b4;
 }
 @keyframes floating {
     from { transform: translate(0,  0px); }
@@ -152,6 +159,26 @@ table {
 // striped section
 .stripe-section {
 	padding: 3rem 0;
+	background: #2c59b4;
+	h1, h2, h3, h4, h5, h6, a, p {
+		color: #fff;
+	}
+	a {
+		border-bottom: 1px dotted #FFE10D;
+		&:hover {
+			color: #FFE10D;
+		}
+	}
+}
+.stripe-section-2 {
+	padding: 1.5rem 0;
+}
+.stripe-section-3 {
+	padding: 3rem 0;
+	background: #f5f7f8;
+}
+.stripe-section-4 {
+	padding: 3rem 0;
 	background: #f5f7f8;
 }
 
@@ -161,7 +188,6 @@ table {
 	width: 12px;
 	display: inline-block;
 }
-
 // figure
 figure {
 	max-width: 100%;
@@ -190,6 +216,11 @@ figure {
 		width: 100%;
 		height: auto;
 	}
+}
+
+//about 
+.headshot {
+	display: none;
 }
 
 // dividers
@@ -305,5 +336,11 @@ blockquote {
 	}
 	.small-divider {
 		margin-bottom: 3rem;
+	}
+	.headshot {
+		display: initial;
+		float: right;
+		max-width: 300px;
+		margin: 0 0 2rem 2rem;
 	}
 }

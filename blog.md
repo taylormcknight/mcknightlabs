@@ -7,15 +7,16 @@ og_description: Everything around us was made up by people that were no smarter 
 og_image: /media/img/about/mcknight_headshot.jpg
 og_type: website
 ---
-
-<section class="grid page-header">
-	<div class="full-width">
-		<h1>{{ page.title }}</h1>
-		<p>Reflection is a key element of personal and professional growth, so I blog about experiences and lessons learned. Looking for my more imaginative &ldquo;what if&rdquo; posts? Visit <a href="{{ site.baseurl }}/what-if">this page</a>.</p>
-	</div>
-</section>
 <section class="stripe-section">
-	<section class="grid-wrapper">
+	<section class="grid page-header">
+		<div class="full-width">
+			<h1>{{ page.title }}</h1>
+			<p>Thoughts on tech and design by <a href="https://twitter.com/mcknightlabs">@McKnightLabs</a></p>
+		</div>
+	</section>
+</section>
+<section class="stripe-section-2">
+	<section class="grid-wrapper feed">
 		{% for blog in site.categories.blog %}
 		<article>
 			<figcaption>
@@ -28,7 +29,7 @@ og_type: website
 					{{ blog.title }}
 				</h3>
 				</a>
-				<p>{{ blog.date | date: "%-d %B %Y" }}</p>
+				<p class="label">{{ blog.date | date: "%-d %B %Y" }}</p>
 				<p class="description">{{ blog.description }}</p>
 				<p>
 				{% if blog.external_url %}
