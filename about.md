@@ -29,7 +29,7 @@ og_type: website
 
 <p>I founded the following areas of design and multi-media at Industry Dive: <a href="https://design.industrydive.com/ux/2018/01/04/cms-audit-user-flows.html">UX design</a>, <a href="https://design.industrydive.com/product/2017/12/20/library-page.html">UI design</a>, <a href="https://design.industrydive.com/product/2018/03/29/flex-menu.html">(agile) front-end development</a>, <a href="https://design.industrydive.com/editorial/2018/03/08/dive-awards-2017.html">editorial graphics</a>, <a href="https://www.constructiondive.com/news/photos-of-new-smithsonian-african-american-museum/420671/">photo journalism</a> and <a href="https://design.industrydive.com/corporate/2018/05/09/logo-redesign.html">graphic design</a>.</p>
 
-<p>Within six years, I built an eight-person multidisciplinary and <a href="https://www.industrydive.com/news/post/honoring-industry-dives-award-winning-design-leader/">award-winning</a> <a href="https://design.industrydive.com/">design team</a> that helped scale the company to over 100 FTEs and $15M+ in revenue.</p>
+<p>Within six years, I built an eight-person multidisciplinary <a href="https://design.industrydive.com/">design team</a> that won 8 <a href="https://www.industrydive.com/news/post/honoring-industry-dives-award-winning-design-leader/">American Graphic Design Awards</a> and helped scale the company to over 100 FTEs and $15M+ in revenue.</p>
 
 <p>In 2017, I was recognized as an "<a href="http://www.siia.net/bims/SPECIAL-PROGRAMS/Emerging-Leader-Awards">Emerging Leader</a>" in the B2B media industry for my work at Industry Dive and, in 2018, served as a judge in the same <a href="https://www.siia.net/bims/SPECIAL-PROGRAMS/Emerging-Leader-Awards">national awards competition</a>.</p>
 
