@@ -3,6 +3,7 @@ layout: article
 date: 2018-10-06
 title: News website design
 label: Industry Dive
+weight : 1
 image: /media/img/projects/publications/2018-home-page.png
 description: I have overseen the design and front-end development of Industry Dive's Django-based news publication sites since early 2013. During that time, our sites have significantly matured, along with my own knowledge of design and development best practices.
 og_title: Managing the evolution of the Dive news sites
@@ -39,15 +40,14 @@ Within a year, product design and front-end development were key parts of my job
 
 ## 2014
 
-By 2014, I had already started to improve the UX and UI of our publication sites.
+By 2014, I had started to improve the UX and UI of our publication sites.
 
 Updates included:
 
 * Made it much easier for readers to sign up for our email newsletter (core to our business model)
 * Improved the user experience of our site navigation
-* Updated the color palette to a more neutral black and white so calls to action would be easier to spot
-* Improved the presentation of our publication logos
-* Increased the size of our news article images to make the stories feel more engaging.
+* Improved the presentation of our publication branding
+* Updated the site color palette to a more neutral black and white
 
 <figure class="full-figure">
 	<img src="/media/img/projects/publications/2014-brief-2.jpg" />
@@ -57,12 +57,11 @@ Updates included:
 
 Updates included:
 
-* Increased the overall aesthetic of our publication sites by shifting away from boxing content. This allowed me to get rid of the old brown site background and provided me with more negative space with which to work.
-* Increased the size of our social share buttons on article pages to increase reader engagement.
-* Added links to other news stories on the left of our article pages to simplify navigation
-* Added a super-leaderboard ad spot
+* Increased the overall aesthetic of our publication sites by shifting away from a "box" based design
+* Updated our social share buttons on article pages and boosted audience engagement
+* Added additional ad spots to boost revenue
 
-Around this time, I also made my first front-end design hires – Nan Copeland and Jordan Branch.
+Around this time, I also made my first front-end design hires – <a href="https://www.nancopeland.com/">Nan Copeland</a> and <a href="https://jordanebranch.github.io/blog/">Jordan Branch</a>.
 
 <figure class="full-figure">
 	<img src="/media/img/projects/publications/2016-brief.jpg" />

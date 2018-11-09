@@ -25,7 +25,7 @@ og_type: website
 		</div>
 	</section>
 	<section class="grid-wrapper tiles">
-		{% assign healthprojects = site.projects | where: "category", "health" %}
+		{% assign healthprojects = site.projects | where: "category", "health" | sort:"weight" %}
 		{% for page in healthprojects %}
 		<article>
 			{% if page.image %}
@@ -53,6 +53,9 @@ og_type: website
 				</h3>
 				</a>
 				<p>
+				{{ page.description }}
+				</p>
+				<p>
 				{% if page.external_url %}
 				<a href="{{ page.external_url }}">
 				{% else %}
@@ -74,7 +77,7 @@ og_type: website
 		</div>
 	</section>
 	<section class="grid-wrapper tiles">
-		{% assign spaceprojects = site.projects | where: "category", "space" %}
+		{% assign spaceprojects = site.projects | where: "category", "space" | sort:"weight" %}
 		{% for page in spaceprojects %}
 		<article>
 			{% if page.image %}
@@ -102,6 +105,9 @@ og_type: website
 				</h3>
 				</a>
 				<p>
+				{{ page.description }}
+				</p>
+				<p>
 				{% if page.external_url %}
 				<a href="{{ page.external_url }}">
 				{% else %}
@@ -123,7 +129,7 @@ og_type: website
 		</div>
 	</section>
 	<section class="grid-wrapper tiles">
-		{% assign journalismprojects = site.projects | where: "category", "journalism" %}
+		{% assign journalismprojects = site.projects | where: "category", "journalism" | sort:"weight" %}
 		{% for page in journalismprojects %}
 		<article>
 			{% if page.image %}
@@ -150,6 +156,9 @@ og_type: website
 					{{ page.title }}
 				</h3>
 				</a>
+				<p>
+				{{ page.description }}
+				</p>
 				<p>
 				{% if page.external_url %}
 				<a href="{{ page.external_url }}">
