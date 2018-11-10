@@ -2,7 +2,8 @@
 layout: article
 title: Early diagnosis kit for rare form of epilepsy
 label: Hackathon
-description: During Mount Sinai Hospital's 3rd annual "Health Hackathon," my team created a kit to aid neurologists in the early diagnosis and treatment of a rare form of epilepsy known as West Syndrome.
+weight : 2
+description: During Mount Sinai Hospital's 3rd annual "Health Hackathon," I designed a prototype app using Sketch and InVision to aid with early diagnosis of West Syndrome.
 image: /media/img/projects/west-wave/west-wave.jpg
 category: health
 og_title: Photograph earth from the stratosphere Part I

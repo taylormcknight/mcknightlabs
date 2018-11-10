@@ -1,7 +1,7 @@
 ---
 layout: article
 date: 2018-09-30
-title: Newsroom podcasting
+title: Newsroom podcasting system
 label: Industry Dive
 weight : 4
 description: Leveraging my undergrad training in film and video production, I helped our Editorial and Brand Studio teams establish in-house podcast production capabilities. This project included UI and UX changes on our news websites for SoundCloud integration.
