@@ -14,18 +14,16 @@ category: health
 
 **Role:** UI/UX design consultant
 
-In 2016 and 2017, I served as a UI/UX design consultant for <a href="https://lyflynks.com">LyfLynks</a>, a pre-seed stage startup developing a service that to help with the coordination of care for seniors. 
+During 2016 and 2017, I helped design and build a prototype app for <a href="https://lyflynks.com">LyfLynks</a>, a startup focused on improving the coordination of care for seniors.
 
-Over the course of eight months, I helped the team design and build its first prototype demo app to show potential investors and partner vendors.
+In 2018, LyfLynks was accepted into Johns Hopkins' Trajectory Next accelerator program.
 
-In 2018, the startup was accepted into Johns Hopkins' Trajectory Next accelerator program.
-
-I cannot post images or details of the demo app due to an NDA, but below is an overview of my design process.
+I cannot post images or details of the prototype app due to an NDA, but below is an overview of my design process.
 
 ## Find a user story to highlight
-To attract additional investment, the team decided to create a demo app.
+To attract additional investment, the team decided to create a prototype app.
 
-We knew this prototype version would not be comprehensive, so we whiteboarded specific use cases and discussed user stories we wanted the app to highlight.
+We knew this demo version would not be comprehensive, so we whiteboarded specific use cases and discussed user stories we wanted the app to highlight.
 
 After we landed on what we believed was a compelling narrative, we started the design process.
 
@@ -39,5 +37,5 @@ When the team was satisfied with the user flow on sticky notes, I created wirefr
 
 Next, I used Keynote and Adobe Premiere to build a series of user flow videos in high-fidelity in an iPhone mockup. These videos were used by the team to help guide conversations with investors.
 
-## Code a demo app
+## Code the prototype app
 Leveraging the wireframes and Keynote mockups, I worked with two other members of the team to code a working prototype of the app with the <a href="https://ionicframework.com/">Ionic framework</a>.
