@@ -4,10 +4,10 @@ title: Prototype app for caregivers
 label: LyfLynks
 weight : 1
 description: I designed LyfLynks' first prototype demo app to attract investors and partner vendors.
-image: /media/img/projects/lyflynks/lyflynks.png
+image: /media/img/projects/lyflynks/preview-lyflynks.jpg
 og_title: Prototype app for caregivers
 og_description: I designed LyfLynks first prototype demo app to attract investors and partner vendors.
-og_image: /media/img/projects/lyflynks/lyflynks.png
+og_image: /media/img/projects/lyflynks/preview-lyflynks.jpg
 og_type: website
 category: health
 ---

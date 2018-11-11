@@ -3,9 +3,9 @@ layout: article
 title: Design team microsite
 label: Industry Dive
 weight : 3
-image: /media/img/projects/design-site/design-site.png
+image: /media/img/projects/design-site/preview-design-site.jpg
 description: To aid with design team recruitment, I led Industry Dive front-end designers in the creation of a Jekyll-based microsite hosted with Github Pages
-og_image: /media/img/projects/design-site/design-site.png
+og_image: /media/img/projects/design-site/preview-design-site.jpg
 og_type: website
 category: journalism
 ---

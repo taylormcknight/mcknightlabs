@@ -4,11 +4,11 @@ date: 2018-10-06
 title: Industry Dive news websites
 label: Industry Dive
 weight : 1
-image: /media/img/projects/publications/2018-home-page.png
+image: /media/img/projects/publications/2018-home-page.jpg
 description: Since early 2013, I have led the design and front-end development of Industry Dive's Django-based news sites.
 og_title: Managing the evolution of the Dive news sites
 og_description: I oversee the design and front-end development of our 14 Django-based news publications.
-og_image: /media/img/projects/publications/2018-home-page.png
+og_image: /media/img/projects/publications/2018-home-page.jpg
 og_type: website
 category: journalism
 ---

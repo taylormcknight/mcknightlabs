@@ -855,8 +855,7 @@ main {
     grid-gap: 3rem; }
   .grid-wrapper.tiles img {
     width: 100%;
-    height: 250px;
-    object-fit: cover; }
+    height: auto; }
   .grid-wrapper.tiles article {
     grid-column: span 6; }
   .grid-wrapper.feed article {
