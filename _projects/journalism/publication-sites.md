@@ -58,7 +58,6 @@ Updates included:
 Updates included:
 
 * Increased the overall aesthetic of our publication sites by shifting away from a "box" based design
-* Updated our social share buttons on article pages and boosted audience engagement
 * Added additional ad spots to boost revenue
 
 Around this time, I also made my first front-end design hires – <a href="https://www.nancopeland.com/">Nan Copeland</a> and <a href="https://jordanebranch.github.io/blog/">Jordan Branch</a>.
@@ -71,7 +70,15 @@ Around this time, I also made my first front-end design hires – <a href="https
 
 The current version of the site represents a significant departure from all previous iterations.
 
-In late 2016, Nan, Jordan and I redesigned the entire front-end of the site, building a responsive structure and eliminating our separate mobile version. Following that large redesign project, our design and front-end development progress greatly accelerated, and I hired another front-end designer – Natalie Forman. As a team, we rolled out a host of new features – e.g. a way for users to purchase and list job postings, custom responsive native ads, a topic menu, a better signup process, and much more.
+In late 2016, Nan, Jordan and I redesigned the entire front-end of the site, building a responsive structure and eliminating our separate mobile version. 
+
+Following that large redesign project, our design and front-end development progress greatly accelerated, and I hired another front-end designer – Natalie Forman. As a team, we rolled out a host of updates, including:
+
+* A service for users to purchase and list job postings
+* New "Library" page to promote case studies and surveys produced by our internal content marketing team
+* Custom responsive native ads
+* Topic menu with improved UX
+* Newsletter signup process with improved UX
 
 Another key difference you will notice in the screenshot below is Industry Dive's new logo. You can read more about our rebranding process <a href="https://www.industrydive.com/news/post/new-dive-logo-design/">here</a> and <a href="https://design.industrydive.com/corporate/2018/05/09/logo-redesign.html">here</a>.
 
