@@ -3,7 +3,7 @@ layout: article
 date: 2018-09-30
 title: Newsroom podcasting system
 label: Industry Dive
-weight : 4
+weight : 5
 description: Leveraging my undergrad training in film and video production, I helped our Editorial and Brand Studio teams establish in-house podcast production capabilities. This project included UI and UX changes on our news websites for SoundCloud integration.
 image: /media/img/projects/podcasting/podcasting.jpg
 og_title: Newsroom podcasting
@@ -13,7 +13,7 @@ og_type: website
 category: journalism
 ---
 
-**Role:** Design director and project manager
+**Role:** Design director
 
 Leveraging my undergrad training in film and video production, I helped the Industry Dive editorial and Brand Studio teams establish in-house podcast production capabilities.
 

@@ -49,7 +49,7 @@ main {
 		line-height: 1.3;
 	}
 	&.tiles {
-		article {
+		article, .figure-wrapper {
 			grid-column: span 12;
 			margin-bottom: 2rem;
 			figure {
@@ -58,7 +58,7 @@ main {
 		}
 	}
 	&.feed {
-		article {
+		article, .figure-wrapper {
 			list-style-type: none;
 			margin: 0 0 2rem 0;
 			grid-column-start: span 12;
@@ -94,7 +94,7 @@ main {
 		padding: 0 2rem;
 		max-width: 1200px;
 		&.feed, &.tiles {
-			article {
+			article, .figure-wrapper {
 				transition-timing-function: ease-in;
 					img {
 						transition: .25s;
@@ -140,12 +140,12 @@ main {
 				width: 100%;
 				height: auto;
 			}
-			article {
+			article, .figure-wrapper {
 				grid-column: span 6;
 			}
 		}
 		&.feed {
-			article {
+			article, .figure-wrapper {
 				grid-gap: 4rem;
 				figcaption {
 					grid-column: span 5;
@@ -160,7 +160,7 @@ main {
 @media (min-width: 1000px ) {
 	.grid-wrapper {
 		&.tiles {
-			article {
+			article, .figure-wrapper {
 				grid-column-start: 2;
 				grid-column: span 4;
 			}

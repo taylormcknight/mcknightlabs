@@ -538,11 +538,6 @@ figure {
   margin: 0 auto 2.5rem auto; }
 figure.graphic {
   max-width: 720px; }
-figure figcaption {
-  margin-top: .5rem;
-  font-size: 1rem;
-  color: #717584;
-  line-height: 1.6; }
 figure img {
   display: block;
   margin: 0 auto; }
@@ -554,6 +549,11 @@ figure iframe {
   margin: 0 auto;
   width: 100%;
   height: auto; }
+
+figcaption {
+  margin: .5rem 0 1rem 0;
+  font-size: 1rem;
+  line-height: 1.6; }
 
 .slide {
   border: solid 1px #efefef; }
@@ -794,19 +794,19 @@ main {
   font-weight: 100;
   margin: 0 0 1rem 0;
   line-height: 1.3; }
-.grid-wrapper.tiles article {
+.grid-wrapper.tiles article, .grid-wrapper.tiles .figure-wrapper {
   grid-column: span 12;
   margin-bottom: 2rem; }
-.grid-wrapper.tiles article figure {
+.grid-wrapper.tiles article figure, .grid-wrapper.tiles .figure-wrapper figure {
   margin-bottom: 1rem; }
-.grid-wrapper.feed article {
+.grid-wrapper.feed article, .grid-wrapper.feed .figure-wrapper {
   list-style-type: none;
   margin: 0 0 2rem 0;
   grid-column-start: span 12;
   transition: all .2s ease;
   width: 100%;
   border-bottom: solid 1px #c3cace; }
-.grid-wrapper.feed article:last-of-type {
+.grid-wrapper.feed article:last-of-type, .grid-wrapper.feed .figure-wrapper:last-of-type {
   border: none; }
 .grid-wrapper.feed figure {
   margin-top: 1.5rem; }
@@ -825,11 +825,11 @@ main {
   .grid-wrapper {
     padding: 0 2rem;
     max-width: 1200px; }
-  .grid-wrapper.feed article, .grid-wrapper.tiles article {
+  .grid-wrapper.feed article, .grid-wrapper.feed .figure-wrapper, .grid-wrapper.tiles article, .grid-wrapper.tiles .figure-wrapper {
     transition-timing-function: ease-in; }
-  .grid-wrapper.feed article img, .grid-wrapper.tiles article img {
+  .grid-wrapper.feed article img, .grid-wrapper.feed .figure-wrapper img, .grid-wrapper.tiles article img, .grid-wrapper.tiles .figure-wrapper img {
     transition: .25s; }
-  .grid-wrapper.feed article img:hover, .grid-wrapper.tiles article img:hover {
+  .grid-wrapper.feed article img:hover, .grid-wrapper.feed .figure-wrapper img:hover, .grid-wrapper.tiles article img:hover, .grid-wrapper.tiles .figure-wrapper img:hover {
     -webkit-box-shadow: 3px 3px 30px -2px rgba(153, 153, 153, 0.5);
     -moz-box-shadow: 3px 3px 30px -2px rgba(153, 153, 153, 0.5);
     box-shadow: 3px 3px 30px -2px rgba(153, 153, 153, 0.5);
@@ -856,16 +856,16 @@ main {
   .grid-wrapper.tiles img {
     width: 100%;
     height: auto; }
-  .grid-wrapper.tiles article {
+  .grid-wrapper.tiles article, .grid-wrapper.tiles .figure-wrapper {
     grid-column: span 6; }
-  .grid-wrapper.feed article {
+  .grid-wrapper.feed article, .grid-wrapper.feed .figure-wrapper {
     grid-gap: 4rem; }
-  .grid-wrapper.feed article figcaption {
+  .grid-wrapper.feed article figcaption, .grid-wrapper.feed .figure-wrapper figcaption {
     grid-column: span 5; }
-  .grid-wrapper.feed article figure {
+  .grid-wrapper.feed article figure, .grid-wrapper.feed .figure-wrapper figure {
     grid-column: span 7; } }
 @media (min-width: 1000px) {
-  .grid-wrapper.tiles article {
+  .grid-wrapper.tiles article, .grid-wrapper.tiles .figure-wrapper {
     grid-column-start: 2;
     grid-column: span 4; } }
 .listings article {

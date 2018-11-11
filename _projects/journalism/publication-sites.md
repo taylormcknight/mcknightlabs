@@ -13,7 +13,7 @@ og_type: website
 category: journalism
 ---
 
-**Role:** Product design director and project manager
+**Role:** Product design director
 
 I have led the design and front-end development of Industry Dive's Django-based <a href="https://www.biopharmadive.com/">news publication sites</a> since early 2013. During that time, I have managed a redesign from desktop/mobile to responsive and launched numerous new features.
 

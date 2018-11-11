@@ -10,7 +10,7 @@ og_type: website
 category: journalism
 ---
 
-**Role:** Design director and project manager
+**Role:** Design director
 
 When the Industry Dive design team grew from two to five, I started to look for ways to showcase our best work and attract high quality talent. 
 
