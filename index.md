@@ -28,8 +28,8 @@ og_type: website
 		{% assign healthprojects = site.projects | where: "category", "health" | sort:"weight" %}
 		{% for page in healthprojects %}
 		<article>
-			{% if page.image %}
 			<figure>
+				{% if page.image %}
 				{% if page.external_url %}
 				<a href="{{ page.external_url }}">
 				{% else %}
@@ -37,34 +37,34 @@ og_type: website
 				{% endif %}
 				<img src="{{ page.image }}" />
 				</a>
+				{% endif %}
+				<figcaption>
+					{% if page.external_url %}
+					<a href="{{ page.external_url }}">
+					{% else %}
+					<a href="{{ page.url }}">
+					{% endif %}
+					{% if page.label %}
+					<p class="label">{{ page.label }}</p>
+					{% endif %}
+					<h3>
+						{{ page.title }}
+					</h3>
+					</a>
+					<p>
+					{{ page.description }}
+					</p>
+					<p>
+					{% if page.external_url %}
+					<a href="{{ page.external_url }}">
+					{% else %}
+					<a href="{{ page.url }}">
+					Read more
+					{% endif %}
+					</a>
+					</p>
+				</figcaption>
 			</figure>
-			{% endif %}
-			<figcaption>
-				{% if page.external_url %}
-				<a href="{{ page.external_url }}">
-				{% else %}
-				<a href="{{ page.url }}">
-				{% endif %}
-				{% if page.label %}
-				<p class="label">{{ page.label }}</p>
-				{% endif %}
-				<h3>
-					{{ page.title }}
-				</h3>
-				</a>
-				<p>
-				{{ page.description }}
-				</p>
-				<p>
-				{% if page.external_url %}
-				<a href="{{ page.external_url }}">
-				{% else %}
-				<a href="{{ page.url }}">
-				Read more
-				{% endif %}
-				</a>
-				</p>
-			</figcaption>
 		</article>
 		{% endfor %}
 	</section>
@@ -80,8 +80,8 @@ og_type: website
 		{% assign spaceprojects = site.projects | where: "category", "space" | sort:"weight" %}
 		{% for page in spaceprojects %}
 		<article>
-			{% if page.image %}
 			<figure>
+				{% if page.image %}
 				{% if page.external_url %}
 				<a href="{{ page.external_url }}">
 				{% else %}
@@ -89,34 +89,34 @@ og_type: website
 				{% endif %}
 				<img src="{{ page.image }}" />
 				</a>
+				{% endif %}
+				<figcaption>
+					{% if page.external_url %}
+					<a href="{{ page.external_url }}">
+					{% else %}
+					<a href="{{ page.url }}">
+					{% endif %}
+					{% if page.label %}
+					<p class="label">{{ page.label }}</p>
+					{% endif %}
+					<h3>
+						{{ page.title }}
+					</h3>
+					</a>
+					<p>
+					{{ page.description }}
+					</p>
+					<p>
+					{% if page.external_url %}
+					<a href="{{ page.external_url }}">
+					{% else %}
+					<a href="{{ page.url }}">
+					Read more
+					{% endif %}
+					</a>
+					</p>
+				</figcaption>
 			</figure>
-			{% endif %}
-			<figcaption>
-				{% if page.external_url %}
-				<a href="{{ page.external_url }}">
-				{% else %}
-				<a href="{{ page.url }}">
-				{% endif %}
-				{% if page.label %}
-				<p class="label">{{ page.label }}</p>
-				{% endif %}
-				<h3>
-					{{ page.title }}
-				</h3>
-				</a>
-				<p>
-				{{ page.description }}
-				</p>
-				<p>
-				{% if page.external_url %}
-				<a href="{{ page.external_url }}">
-				{% else %}
-				<a href="{{ page.url }}">
-				Read more
-				{% endif %}
-				</a>
-				</p>
-			</figcaption>
 		</article>
 		{% endfor %}
 	</section>
@@ -132,8 +132,8 @@ og_type: website
 		{% assign journalismprojects = site.projects | where: "category", "journalism" | sort:"weight" %}
 		{% for page in journalismprojects %}
 		<article>
-			{% if page.image %}
 			<figure>
+				{% if page.image %}
 				{% if page.external_url %}
 				<a href="{{ page.external_url }}">
 				{% else %}
@@ -141,34 +141,34 @@ og_type: website
 				{% endif %}
 				<img src="{{ page.image }}" />
 				</a>
+				{% endif %}
+				<figcaption>
+					{% if page.external_url %}
+					<a href="{{ page.external_url }}">
+					{% else %}
+					<a href="{{ page.url }}">
+					{% endif %}
+					{% if page.label %}
+					<p class="label">{{ page.label }}</p>
+					{% endif %}
+					<h3>
+						{{ page.title }}
+					</h3>
+					</a>
+					<p>
+					{{ page.description }}
+					</p>
+					<p>
+					{% if page.external_url %}
+					<a href="{{ page.external_url }}">
+					{% else %}
+					<a href="{{ page.url }}">
+					Read more
+					{% endif %}
+					</a>
+					</p>
+				</figcaption>
 			</figure>
-			{% endif %}
-			<figcaption>
-				{% if page.external_url %}
-				<a href="{{ page.external_url }}">
-				{% else %}
-				<a href="{{ page.url }}">
-				{% endif %}
-				{% if page.label %}
-				<p class="label">{{ page.label }}</p>
-				{% endif %}
-				<h3>
-					{{ page.title }}
-				</h3>
-				</a>
-				<p>
-				{{ page.description }}
-				</p>
-				<p>
-				{% if page.external_url %}
-				<a href="{{ page.external_url }}">
-				{% else %}
-				<a href="{{ page.url }}">
-				Read more
-				{% endif %}
-				</a>
-				</p>
-			</figcaption>
 		</article>
 		{% endfor %}
 	</section>
