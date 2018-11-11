@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Industry Dive corporate website
+label: Industry Dive
 weight : 4
 description: Since early 2013, I have led the design and front-end development of Industry Dive's corporate website.
 image: /media/img/projects/corp-site/preview-corp-site.png
