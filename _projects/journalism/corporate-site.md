@@ -27,7 +27,7 @@ The current corporate site design is grounded in a set of consistent design patt
 					<h3>Homepage – Early 2013</h3>
 				</figcaption>
 				<a href="/media/img/projects/corp-site/home-2013.jpg">
-				<img src="/media/img/projects/corp-site/home-2013.jpg">
+				<img src="/media/img/projects/corp-site/preview-home-2013.jpg">
 				</a>
 			</figure>
 		</div>
@@ -37,7 +37,7 @@ The current corporate site design is grounded in a set of consistent design patt
 					<h3>Homepage – Late 2013</h3>
 				</figcaption>
 				<a href="/media/img/projects/corp-site/home-2014.jpg">
-				<img src="/media/img/projects/corp-site/home-2014.jpg">
+				<img src="/media/img/projects/corp-site/preview-home-2014.jpg">
 				</a>
 			</figure>
 		</div>
@@ -47,7 +47,7 @@ The current corporate site design is grounded in a set of consistent design patt
 					<h3>Homepage – 2016-present</h3>
 				</figcaption>
 				<a href="/media/img/projects/corp-site/home-2018.jpg">
-				<img src="/media/img/projects/corp-site/home-2018.jpg">
+				<img src="/media/img/projects/corp-site/preview-home-2018.jpg">
 				</a>
 			</figure>
 		</div>
@@ -68,7 +68,7 @@ The design and front-end implementation of the pages pictured below were complet
 					<h3>Industries page</h3>
 				</figcaption>
 				<a href="/media/img/projects/corp-site/industries-2018.jpg">
-				<img src="/media/img/projects/corp-site/industries-2018.jpg">
+				<img src="/media/img/projects/corp-site/preview-industries-2018.jpg">
 				</a>
 			</figure>
 		</div>
@@ -78,7 +78,7 @@ The design and front-end implementation of the pages pictured below were complet
 					<h3>Advertising page</h3>
 				</figcaption>
 				<a href="/media/img/projects/corp-site/advertising-2018.jpg">
-				<img src="/media/img/projects/corp-site/advertising-2018.jpg">
+				<img src="/media/img/projects/corp-site/preview-advertising-2018.jpg">
 				</a>
 			</figure>
 		</div>
@@ -88,7 +88,7 @@ The design and front-end implementation of the pages pictured below were complet
 					<h3>Internships page</h3>
 				</figcaption>
 				<a href="/media/img/projects/corp-site/internships-2018.jpg">
-				<img src="/media/img/projects/corp-site/internships-2018.jpg">
+				<img src="/media/img/projects/corp-site/preview-internships-2018.jpg">
 				</a>
 			</figure>
 		</div>
