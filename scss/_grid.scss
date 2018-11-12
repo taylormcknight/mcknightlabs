@@ -95,8 +95,12 @@ main {
 		max-width: 1200px;
 		&.feed, &.tiles {
 			article, .figure-wrapper {
-				transition-timing-function: ease-in;
+				img {
+					border: solid 1px #ccc;
+				}
+				a {
 					img {
+						transition-timing-function: ease-in;
 						transition: .25s;
 						&:hover {
 							-webkit-box-shadow: 3px 3px 30px -2px rgba(153,153,153,.5);
@@ -106,6 +110,7 @@ main {
 						    transform: translateY(-2px);
 						}
 					}
+				}
 			}
 		}
 		&.feed {

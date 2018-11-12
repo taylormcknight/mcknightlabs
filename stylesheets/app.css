@@ -825,11 +825,12 @@ main {
   .grid-wrapper {
     padding: 0 2rem;
     max-width: 1200px; }
-  .grid-wrapper.feed article, .grid-wrapper.feed .figure-wrapper, .grid-wrapper.tiles article, .grid-wrapper.tiles .figure-wrapper {
-    transition-timing-function: ease-in; }
   .grid-wrapper.feed article img, .grid-wrapper.feed .figure-wrapper img, .grid-wrapper.tiles article img, .grid-wrapper.tiles .figure-wrapper img {
+    border: solid 1px #ccc; }
+  .grid-wrapper.feed article a img, .grid-wrapper.feed .figure-wrapper a img, .grid-wrapper.tiles article a img, .grid-wrapper.tiles .figure-wrapper a img {
+    transition-timing-function: ease-in;
     transition: .25s; }
-  .grid-wrapper.feed article img:hover, .grid-wrapper.feed .figure-wrapper img:hover, .grid-wrapper.tiles article img:hover, .grid-wrapper.tiles .figure-wrapper img:hover {
+  .grid-wrapper.feed article a img:hover, .grid-wrapper.feed .figure-wrapper a img:hover, .grid-wrapper.tiles article a img:hover, .grid-wrapper.tiles .figure-wrapper a img:hover {
     -webkit-box-shadow: 3px 3px 30px -2px rgba(153, 153, 153, 0.5);
     -moz-box-shadow: 3px 3px 30px -2px rgba(153, 153, 153, 0.5);
     box-shadow: 3px 3px 30px -2px rgba(153, 153, 153, 0.5);

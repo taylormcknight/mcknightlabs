@@ -23,65 +23,99 @@ Read about projects my team has accomplished:
 * <a href="https://design.industrydive.com/product/2018/03/15/newsletter-rebase.html">Retemplating our email newsletters</a>
 * <a href="https://design.industrydive.com/ux/2017/09/03/speed-intro.html">Improving site speed</a>
 * <a href="https://design.industrydive.com/product/2017/07/15/promoted-pdf-button.html">Building a tool for Ad Ops to download styled articles for clients</a>
-	
-## 2013
 
-Below is a screenshot of what Industry Dive's news publication websites looked like prior to my arrival in November of 2012.
+<section class="stripe-section-3">
+	<section class="grid-wrapper tiles">
+		<div class="figure-wrapper">
+			<figure>
+				<figcaption>
+					<h3>2014</h3>
+				</figcaption>
+				<img src="/media/img/projects/publications/2014-brief-2.jpg">
+			</figure>
+		</div>
+		<div class="figure-wrapper">
+			<figure>
+				<figcaption>
+					<h3>2015</h3>
+				</figcaption>
+				<img src="/media/img/projects/publications/2016-brief.jpg">
+			</figure>
+		</div>
+		<div class="figure-wrapper">
+			<figure>
+				<figcaption>
+					<h3>2016-present</h3>
+				</figcaption>
+				<img src="/media/img/projects/publications/2018-brief.jpg" />
+			</figure>
+		</div>
+	</section>
+</section>
 
-Soon after joining, I expressed an interest in helping with web design.
+## 2016 redesign – present
 
-I had completed a couple of web development classes in high school and had spent many hours coding my own portfolio sites – static and Wordpress – to showcase my videography work in undergrad. I was certainly no front-end developer, but I knew enough to start contributing in small ways and committed myself to improving my skills.
+In late 2016, <a href="https://www.nancopeland.com/">Nan Copeland</a>, <a href="https://jordanebranch.github.io/blog/">Jordan Branch</a> and I redesigned the front-end end of the publication site template our 12 news sites were built upon. This project involved building a new responsive site structure and Sass architecture. After the redesigned site went live, we eliminated the company's separate mobile site.
 
-Within a year, product design and front-end development were key parts of my job.
+With the team able to focus on maintaining and updating a single, reponsive site template, our front-end development progress greatly accelerated, and I hired another front-end designer – <a href="http://natalieforman.com/">Natalie Forman</a>. Over the next couple of years, we rolled out a host of key updates, including:
 
-<figure class="full-figure">
-	<img src="/media/img/projects/publications/2013-brief.jpg" />
-</figure>
-
-## 2014
-
-By 2014, I had started to improve the UX and UI of our publication sites.
-
-Updates included:
-
-* Made it much easier for readers to sign up for our email newsletter (core to our business model)
-* Improved the user experience of our site navigation
-* Improved the presentation of our publication branding
-* Updated the site color palette to a more neutral black and white
-
-<figure class="full-figure">
-	<img src="/media/img/projects/publications/2014-brief-2.jpg" />
-</figure>
-
-## 2016
-
-Updates included:
-
-* Increased the overall aesthetic of our publication sites by shifting away from a "box" based design
-* Added additional ad spots to boost revenue
-
-Around this time, I also made my first front-end design hires – <a href="https://www.nancopeland.com/">Nan Copeland</a> and <a href="https://jordanebranch.github.io/blog/">Jordan Branch</a>.
-
-<figure class="full-figure">
-	<img src="/media/img/projects/publications/2016-brief.jpg" />
-</figure>
-	
-## 2018
-
-The current version of the site represents a significant departure from all previous iterations.
-
-In late 2016, Nan, Jordan and I redesigned the entire front-end of the site, building a responsive structure and eliminating our separate mobile version. 
-
-Following that large redesign project, our design and front-end development progress greatly accelerated, and I hired another front-end designer – Natalie Forman. As a team, we rolled out a host of updates, including:
-
-* A service for users to purchase and list job postings
+* New service for users to purchase and list job postings
 * New "Library" page to promote case studies and surveys produced by our internal content marketing team
 * Custom responsive native ads
 * Topic menu with improved UX
 * Newsletter signup process with improved UX
 
-Another key difference you will notice in the screenshot below is Industry Dive's new logo. You can read more about our rebranding process <a href="https://www.industrydive.com/news/post/new-dive-logo-design/">here</a> and <a href="https://design.industrydive.com/corporate/2018/05/09/logo-redesign.html">here</a>.
-
-<figure class="full-figure">
-	<img src="/media/img/projects/publications/2018-brief.jpg" />
-</figure>
+<section class="stripe-section-3">
+	<section class="grid-wrapper tiles">
+		<div class="figure-wrapper">
+			<figure>
+				<figcaption>
+					<h3>Article page</h3>
+				</figcaption>
+				<a href="/media/img/projects/publications/article-2018.jpg">
+				<img src="/media/img/projects/publications/preview-article-2018.jpg">
+				</a>
+			</figure>
+		</div>
+		<div class="figure-wrapper">
+			<figure>
+				<figcaption>
+					<h3>Newsletter signup page</h3>
+				</figcaption>
+				<a href="/media/img/projects/publications/signup-2018.jpg">
+				<img src="/media/img/projects/publications/preview-signup-2018.jpg">
+				</a>
+			</figure>
+		</div>
+		<div class="figure-wrapper">
+			<figure>
+				<figcaption>
+					<h3>Library page</h3>
+				</figcaption>
+				<a href="/media/img/projects/publications/library-2018.jpg">
+				<img src="/media/img/projects/publications/preview-library-2018.jpg" />
+				</a>
+			</figure>
+		</div>
+		<div class="figure-wrapper">
+			<figure>
+				<figcaption>
+					<h3>Advertise page</h3>
+				</figcaption>
+				<a href="/media/img/projects/publications/advertise-2018.jpg">
+				<img src="/media/img/projects/publications/preview-advertise-2018.jpg" />
+				</a>
+			</figure>
+		</div>
+		<div class="figure-wrapper">
+			<figure>
+				<figcaption>
+					<h3>Podcasts page</h3>
+				</figcaption>
+				<a href="/media/img/projects/publications/podcasts-2018.jpg">
+				<img src="/media/img/projects/publications/preview-podcasts-2018.jpg" />
+				</a>
+			</figure>
+		</div>
+	</section>
+</section>
