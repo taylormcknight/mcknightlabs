@@ -45,30 +45,120 @@ Finally, we added an infared camera (Microsoft Kinect) to the kit to ensure the 
 
 To demonstrate how easy the device would be for a patient to install and use, I designed a prototype app with Sketch and Invision.
 
-<a href="https://projects.invisionapp.com/share/3ZOOVK0SRMP#/screens">Invision prototype</a>
+<a href="https://projects.invisionapp.com/share/3ZOOVK0SRMP#/screens">View the Invision prototype</a>. Note: I embedded GIFs of the hardware demos in the app prototype to serve as visual aids during the final presentation at the end of the hackathon. These GIFs would not appear in production version of the app.
 
-**Note:** I embedded GIFs of the hardware demos in the app prototype to serve as visual aids during the final presentation at the end of the hackathon. These GIFs would not appear in production version of the app.
+Below are the Sketch mockups.
+
+<section class="stripe-section-3">
+	<section class="grid-wrapper tiles four-items">
+		<div class="figure-wrapper">
+			<figure>
+				<img src="/media/img/projects/west-wave/app/intro.png"/>
+			</figure>
+		</div>
+		<div class="figure-wrapper">
+			<figure>
+				<img src="/media/img/projects/west-wave/app/wifi.png"/>
+			</figure>
+		</div>
+		<div class="figure-wrapper">
+			<figure>
+				<img src="/media/img/projects/west-wave/app/set-up.png"/>
+			</figure>
+		</div>
+		<div class="figure-wrapper">
+			<figure>
+				<img src="/media/img/projects/west-wave/app/EEG-beanie.png"/>
+			</figure>
+		</div>
+		<div class="figure-wrapper">
+			<figure>
+				<img src="/media/img/projects/west-wave/app/EEG-beanie-II.png"/>
+			</figure>
+		</div>
+		<div class="figure-wrapper">
+			<figure>
+				<img src="/media/img/projects/west-wave/app/EEG-sling.png"/>
+			</figure>
+		</div>
+		<div class="figure-wrapper">
+			<figure>
+				<img src="/media/img/projects/west-wave/app/EEG-sling-II.png"/>
+			</figure>
+		</div>
+		<div class="figure-wrapper">
+			<figure>
+				<img src="/media/img/projects/west-wave/app/camera.png"/>
+			</figure>
+		</div>
+		<div class="figure-wrapper">
+			<figure>
+				<img src="/media/img/projects/west-wave/app/camera-II.png"/>
+			</figure>
+		</div>
+		<div class="figure-wrapper">
+			<figure>
+				<img src="/media/img/projects/west-wave/app/transmitting.png" />
+			</figure>
+		</div>
+	</section>
+</section>
 
 ## Pitching the judges
 
 Below are the slides we used to pitch the judges at the end of the hackathon.
 
-<img src="/media/img/projects/west-wave/wave-slide-cover.jpg" class="slide" />
-
-<img src="/media/img/projects/west-wave/wave-slide-1.jpg" class="slide"/>
-
-<img src="/media/img/projects/west-wave/wave-slide-2.jpg" class="slide" />
-
-<img src="/media/img/projects/west-wave/wave-slide-3.jpg" class="slide" />
-
-<img src="/media/img/projects/west-wave/wave-slide-4.jpg" class="slide" />
-
-<img src="/media/img/projects/west-wave/wave-slide-5.jpg" class="slide" />
-
-<img src="/media/img/projects/west-wave/wave-slide-6.jpg" class="slide" />
-
-<img src="/media/img/projects/west-wave/wave-slide-7.jpg" class="slide" />
-
-<img src="/media/img/projects/west-wave/wave-slide-8.jpg" class="slide" />
-
-<img src="/media/img/projects/west-wave/wave-slide-9.jpg" class="slide" />
+<section class="stripe-section-3">
+	<section class="grid-wrapper tiles">
+		<div class="figure-wrapper">
+			<figure>
+				<img src="/media/img/projects/west-wave/slides/wave-slide-cover.jpg" class="slide" />
+			</figure>
+		</div>
+		<div class="figure-wrapper">
+			<figure>
+				<img src="/media/img/projects/west-wave/slides/wave-slide-1.jpg" class="slide"/>
+			</figure>
+		</div>
+		<div class="figure-wrapper">
+			<figure>
+				<img src="/media/img/projects/west-wave/slides/wave-slide-2.jpg" class="slide" />
+			</figure>
+		</div>
+		<div class="figure-wrapper">
+			<figure>
+				<img src="/media/img/projects/west-wave/slides/wave-slide-3.jpg" class="slide" />
+			</figure>
+		</div>
+		<div class="figure-wrapper">
+			<figure>
+				<img src="/media/img/projects/west-wave/slides/wave-slide-4.jpg" class="slide" />
+			</figure>
+		</div>
+		<div class="figure-wrapper">
+			<figure>
+				<img src="/media/img/projects/west-wave/slides/wave-slide-5.jpg" class="slide" />
+			</figure>
+		</div>
+		<div class="figure-wrapper">
+			<figure>
+				<img src="/media/img/projects/west-wave/slides/wave-slide-6.jpg" class="slide" />
+			</figure>
+		</div>
+		<div class="figure-wrapper">
+			<figure>
+				<img src="/media/img/projects/west-wave/slides/wave-slide-7.jpg" class="slide" />
+			</figure>
+		</div>
+		<div class="figure-wrapper">
+			<figure>
+				<img src="/media/img/projects/west-wave/slides/wave-slide-8.jpg" class="slide" />
+			</figure>
+		</div>
+		<div class="figure-wrapper">
+			<figure>
+				<img src="/media/img/projects/west-wave/slides/wave-slide-9.jpg" class="slide" />
+			</figure>
+		</div>
+	</section>
+</section>

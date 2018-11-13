@@ -868,7 +868,10 @@ main {
 @media (min-width: 1000px) {
   .grid-wrapper.tiles article, .grid-wrapper.tiles .figure-wrapper {
     grid-column-start: 2;
-    grid-column: span 4; } }
+    grid-column: span 4; }
+  .grid-wrapper.tiles.four-items article, .grid-wrapper.tiles.four-items .figure-wrapper {
+    grid-column-start: 2;
+    grid-column: span 3; } }
 .listings article {
   margin-bottom: 2rem; }
 .listings article figure {
