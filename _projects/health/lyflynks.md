@@ -2,7 +2,7 @@
 layout: article
 title: Prototype app for caregivers
 label: LyfLynks
-weight : 1
+weight : 4
 description: I designed LyfLynks' first prototype demo app to attract investors and partner vendors.
 image: /media/img/projects/lyflynks/preview-lyflynks.jpg
 og_title: Prototype app for caregivers

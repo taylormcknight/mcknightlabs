@@ -2,8 +2,8 @@
 layout: article
 title: Early diagnosis kit for rare form of epilepsy
 label: Hackathon
-weight : 2
-description: During Mount Sinai Hospital's 3rd annual "Health Hackathon," I designed a prototype app using Sketch and InVision to aid with early diagnosis of West Syndrome.
+weight : 3
+description: During Mount Sinai Hospital's 3rd annual "Health Hackathon," I designed a prototype app using Figma and InVision to aid with early diagnosis of West Syndrome.
 image: /media/img/projects/west-wave/preview-west-wave.jpg
 category: health
 og_title: Photograph earth from the stratosphere Part I
