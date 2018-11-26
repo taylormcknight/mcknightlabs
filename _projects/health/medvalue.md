@@ -6,7 +6,7 @@ weight : 2
 description: At MIT's 2018 "Hacking Medicine" hackathon at Mount Sinai Hospital, I designed patient care kits and a patient-facing care management app to improve outcomes and drive down costs for providers.
 image: /media/img/projects/medvalue/preview-medvalue.jpg
 category: health
-og_title: Photograph earth from the stratosphere Part I
+og_title: Joint replacement patient care kits
 og_description: At MIT's 2018 "Hacking Medicine" hackathon at Mount Sinai Hospital, I designed patient care kits and a patient-facing care management app to improve outcomes and drive down costs for providers.
 og_image: /media/img/projects/medvalue/preview-medvalue.jpg
 og_type: website

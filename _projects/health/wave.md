@@ -6,7 +6,7 @@ weight : 3
 description: During Mount Sinai Hospital's 3rd annual "Health Hackathon," I designed a prototype app using Figma and InVision to aid with early diagnosis of West Syndrome.
 image: /media/img/projects/west-wave/preview-west-wave.jpg
 category: health
-og_title: Photograph earth from the stratosphere Part I
+og_title: Early diagnosis kit for rare form of epilepsy
 og_description: During Mount Sinai Hospital's 3rd annual "Health Hackathon," my team created a kit to aid neurologists in the early diagnosis and treatment of a rare form of epilepsy known as West Syndrome.
 og_image: /media/img/projects/west-wave/preview-west-wave.jpg
 og_type: website
