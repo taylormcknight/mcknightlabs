@@ -19,7 +19,7 @@ tags:
 
 In November of 2018, I traveled to Mt. Sinai Hospital in NY to participate in MIT's "<a href="https://icahn.mssm.edu/about/sinainnovations/health-hackathon">Hacking Medicine</a>" hackathon.
 
-Assigned to the "Mental and Public Health" track, I joined a team that sought to help US healthcare providers adjust to the new value based payment model. In particular, our team looked for ways to improve patient outcomes and reduce readmittances. We wanted to both provide patients with a better quality of life and drive down provider costs, ensuring the effective management of value based payment "bundles."
+Assigned to the "Mental and Public Health" track, I joined a team that sought to help US healthcare providers adjust to the new value based payment model. In particular, our team looked for ways to improve patient outcomes and reduce hospital readmissions. We wanted to both provide patients with a better quality of life and drive down costs to facilitate the effective management of value-based payment "bundles."
 
 The team organized around Dr. Duggal, an orthopedic surgeon who is experiencing the national shift from fee-for-service to value based care first-hand.
 
@@ -35,17 +35,17 @@ To determine the best ways to improve outcomes and drive down costs, we mapped t
 * What are the specific problems that drive up cost?
 * Where might there be opportunities to intervene, upstream, and mitigate these issues?
 
-During this exercise, we honed in on the top factors that 1) were neutral or negative, in terms of patient outcomes, and 2) chipped away at the provider's payment bundle. At the top of our list were infection, a lack of patient knowledge about complications and rehab facility costs (the literature shows that home-based rehab is effective in improving outcomes for joint replacement patients).
+During this exercise, we honed in on the top factors that negative impacted patient outcomes and were significant contributors to healthcare costs. At the top of our list were infections, rehab facility costs (the literature shows that home-based rehab is effective in improving outcomes for joint replacement patients), and a lack of patient knowledge about complications.
 
 Drawing on Dr. Duggal's personal experience and research on PubMed, we identified the following key issues with the current standard of care:
 
-1. ~1-3% of joint replacements become seriously infected and significantly drive up provider expenses.
-2. A lack of patient understanding about complications contributes to unnecessary post-op tests and readmits, increasing provider expenses.
-3. Rehab facility visits following a joint replacement are unlikely to improve patient outcomes but will drive up costs for the provider.
+1. ~1-3% of joint replacements become seriously infected, which significantly contributes to patient morbitity and drives up costs.
+2. A lack of patient understanding about complications contributes to unnecessary post-op tests and readmissions, further increasing cost.
+3. Rehab facility visits following a joint replacement are unlikely to improve patient outcomes but are expensive.
 
-We also discovered that a number of hospitals have already attempted to address one or more of the problems we identified but that the solutions are highly fragmented and not available to smaller providers.
+We also discovered that a number of hospitals have already attempted to address one or more of the problems we identified but that the solutions are highly fragmented and are often not available to providers in the community.
 
-With a clearer understanding of the issues and opportunities, our team started to conceptualize a new service – direct-to-home pre and post-op care kits for knee replacement patients and a patient-facing app to guide the user through the continuum of care.
+With a clearer understanding of the issues and opportunities, our team started to conceptualize a new service – direct-to-home pre and post-op care kits for knee replacement patients and a patient-facing app to guide the patients through the continuum of care.
 
 ## Building the MedValue kit
 
@@ -73,7 +73,7 @@ Although we only used a brief InVision demo during our pitch, our patient-facing
 
 * Patient educational videos about what to expect during the post-op recovery process
 * At-home rehab videos
-* Remote wound care assessment via smartphone camera
+* Remote wound care assessment via a smartphone camera
 * A way to contact a "care coordinator" about post-op complications
 
 Note: To increase patient compliance, we also planned to use app notifications and text-based reminders.
@@ -95,7 +95,7 @@ Note: To increase patient compliance, we also planned to use app notifications a
 </section>
 -->
 
-## Pitching the judges
+## Pitching to the judges
 
 Below are the slides we used during our three minute pitch to the judges at the end of the weekend.
 
