@@ -20,7 +20,7 @@ og_type: website
 
 <h2>Get in touch</h2>
 
-<p>Direct message me on <a href="https://www.twitter.com/mcknightlabs">Twitter</a>, <a href="https://www.instagram.com/mountainlogbook
+<p>Direct message me on <a href="https://www.twitter.com/ryantmcknight">Twitter</a>, <a href="https://www.instagram.com/mountainlogbook
 ">Instagram</a> or <a href="https://www.linkedin.com/in/ryantmcknight/">LinkedIn</a>.</p>
 
 <h2>Full bio</h2>
