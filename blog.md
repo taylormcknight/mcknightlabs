@@ -11,7 +11,7 @@ og_type: website
 	<section class="grid page-header">
 		<div class="full-width">
 			<h1>{{ page.title }}</h1>
-			<p>Thoughts on tech and design by <a href="https://twitter.com/mcknightlabs">@McKnightLabs</a></p>
+			<p>Thoughts on tech and design by <a href="https://twitter.com/ryantmcknight">@RyanTMcKnight</a></p>
 		</div>
 	</section>
 </section>
