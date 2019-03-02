@@ -1,8 +1,8 @@
 ---
 layout: full-width
-title: Goals
+title: Self-mastery
 description: We become the things we do
-og_title: Goals | Ryan McKnight
+og_title: Self-mastery | Ryan McKnight
 og_description: We become the things we do
 og_image: /media/img/about/mcknight_headshot.jpg
 og_type: website
@@ -10,11 +10,12 @@ og_type: website
 <section class="grid page-header">
 	<div class="full-width">
 		<h1>{{ page.title }}</h1>
-		<p>We become the things we do. Self-mastery is what drives me. Below are personal goals I have achieved.</p>
+		<p>We become the things we do.</p>
 	</div>
 </section>
-<section class="stripe-section">
-	<section class="grid-wrapper">
+
+<section class="stripe-section-2">
+	<section class="grid-wrapper feed">
 		{% for goal in site.categories.goal %}
 		<article>
 			<figcaption>

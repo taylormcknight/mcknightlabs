@@ -362,21 +362,24 @@ html, body {
   height: 100%; }
 
 body {
-  font-family: 'proxima-nova', sans-serif;
+  font-family: 'meta serif pro', serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   overflow: auto; }
 
-.page-header {
-  color: #fff; }
-.page-header p, .page-header a {
-  color: #fff; }
-
+/* .page-header {
+	color: #fff;
+	p, a {
+		color: #fff;
+	}
+}*/
 p, li, blockquote {
   color: #44464f;
   font-size: 1.25rem;
   font-weight: 400;
   line-height: 1.6; }
+p a, li a, blockquote a {
+  color: #44464f; }
 
 p {
   margin-bottom: 1.5rem; }
@@ -384,17 +387,20 @@ p {
 li {
   margin-bottom: .5rem; }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'meta serif pro', serif; }
+
 img {
   max-width: 100%; }
 
 a {
-  color: #44464f;
-  border-bottom: 1px dotted #2c59b4;
+  color: #000000;
+  border-bottom: 1px dotted #0066FF;
   text-decoration: none;
   transition: color 0.1s ease; }
 a:hover {
   text-decoration: none;
-  color: #2c59b4; }
+  color: #0066FF; }
 
 .page-description-citation {
   font-size: .875rem;
@@ -472,22 +478,6 @@ table caption .details {
 .table-striped > tbody > tr:nth-child(odd) > td, .table-striped > tbody > tr:nth-child(odd) > th {
   background-color: #f6f7f8; }
 
-.logo {
-  display: inline-block;
-  font-size: 1.25rem;
-  font-weight: 700;
-  font-family: 'Yantramanav', sans-serif;
-  border: none;
-  color: #000; }
-.logo img {
-  display: inline-block;
-  height: 25px;
-  margin-right: .5rem;
-  width: auto;
-  vertical-align: bottom; }
-.logo:hover {
-  text-decoration: none; }
-
 .page-title-svg {
   height: 30px;
   width: 30px;
@@ -513,9 +503,9 @@ table caption .details {
 .stripe-section h1, .stripe-section h2, .stripe-section h3, .stripe-section h4, .stripe-section h5, .stripe-section h6, .stripe-section a, .stripe-section p {
   color: #fff; }
 .stripe-section a {
-  border-bottom: 1px dotted #FFE10D; }
+  border-bottom: 1px dotted #f83aad; }
 .stripe-section a:hover {
-  color: #FFE10D; }
+  color: #f83aad; }
 
 .stripe-section-2 {
   padding: 1.5rem 0; }
@@ -559,7 +549,9 @@ figcaption {
   border: solid 1px #efefef; }
 
 .headshot {
-  display: none; }
+  max-width: 40%;
+  float: right;
+  margin: 0 0 1rem 1rem; }
 
 .small-divider {
   display: block;
@@ -628,7 +620,7 @@ blockquote:before {
 @media (min-width: 600px) {
   .logo {
     padding: 0;
-    font-size: 1.5rem; }
+    font-size: 1rem; }
   .logo img {
     height: 30px; }
 
@@ -665,7 +657,7 @@ blockquote:before {
     margin: 0 0 2rem 2rem; } }
 .article {
   padding: 1rem;
-  font-family: 'adobe caslon', georgia, serif; }
+  font-family: 'adobe caslon'; }
 .article h1 {
   font-weight: 100; }
 .article cite {
@@ -790,8 +782,8 @@ main {
   line-height: 1.6;
   margin: .5rem 0 0 0; }
 .grid-wrapper h3 {
-  font-size: 1.675rem;
-  font-weight: 100;
+  font-size: 1.375rem;
+  font-weight: 600;
   margin: 0 0 1rem 0;
   line-height: 1.3; }
 .grid-wrapper.tiles article, .grid-wrapper.tiles .figure-wrapper {
@@ -815,7 +807,8 @@ main {
 
 @media (min-width: 600px) {
   .page-header li, .page-header p {
-    font-size: 2rem; }
+    font-size: 2rem;
+    line-height: 2; }
 
   .grid {
     padding: 2rem 2rem;
@@ -825,6 +818,8 @@ main {
   .grid-wrapper {
     padding: 0 2rem;
     max-width: 1200px; }
+  .grid-wrapper h3 {
+    font-size: 1.5rem; }
   .grid-wrapper.feed article img, .grid-wrapper.feed .figure-wrapper img, .grid-wrapper.tiles article img, .grid-wrapper.tiles .figure-wrapper img {
     border: solid 1px #ccc; }
   .grid-wrapper.feed article a img, .grid-wrapper.feed .figure-wrapper a img, .grid-wrapper.tiles article a img, .grid-wrapper.tiles .figure-wrapper a img {
@@ -928,6 +923,17 @@ main {
 .top-nav-desktop {
   padding: 1rem; }
 
+.logo {
+  display: inline-block;
+  font-size: 1.25rem;
+  font-weight: 100;
+  border: none;
+  color: #000;
+  margin-top: .375rem;
+  text-transform: uppercase; }
+.logo:hover {
+  text-decoration: none; }
+
 @media (min-width: 600px) {
   .top-nav-desktop {
     padding: 1rem 2rem;
@@ -963,7 +969,7 @@ main {
     top: 0;
     background-color: black;
     /* Black fallback color */
-    background-color: rgba(44, 89, 180, 0.9);
+    background-color: rgba(0, 102, 255, 0.9);
     /* Black w/opacity */
     overflow-x: hidden;
     /* Disable horizontal scroll */

@@ -8,7 +8,7 @@ image: /media/img/posts/blog/2017-03-05-management/coffee-checkin.jpg
 og_title: Becoming a better manager
 og_description: This post captures my evolution as a manager from Nov. 2014 – March 2017.
 og_image: /media/img/posts/blog/2017-03-05-management/coffee-checkin.jpg
-og_type: website
+og_type: startup
 ---
 
 **NOTE:** This post captures my evolution as a manager from Nov. 2014 – March 2017. 
@@ -39,7 +39,7 @@ This is number one on my list, because I find it the most difficult.
 </div>
 
 ### Q. Am I sliding toward burnout?
-I try to take a proactive approach to <a href="{% post_url blog/2016-08-17-burnout %}">preventing burnout</a>. To effectively lead others, I know I must first take care of myself. If I am not at the top of my game, how can I expect to inspire or guide others toward theirs?
+I try to take a proactive approach to <a href="{% post_url essays/2016-08-17-burnout %}">preventing burnout</a>. To effectively lead others, I know I must first take care of myself. If I am not at the top of my game, how can I expect to inspire or guide others toward theirs?
 
 ### Q. Am I reacting or responding?
 It is easy to look like a fool, damage a personal or professional relationship, or make a technical mistake if you let emotions take control. To avoid reacting, I try to <a href="https://hbr.org/tip/2017/03/quiet-your-mind-to-avoid-making-impulsive-decisions">limit my multi-tasking</a>, get six or more hours of sleep, and pause before responding. I respond as soon as I can emotionally divorce myself from an issue. When addressing a serious problem, or if someone is clearly upset, I prefer to avoid written communication – e.g. emails, IMs, and texts. I have found that written words can be more easily misinterpreted than spoken ones. Open and direct in-person talks or a phone call are my go-to methods. I then use an email to clarify and follow up on a verbal discussion.

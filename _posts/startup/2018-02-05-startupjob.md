@@ -2,7 +2,7 @@
 layout: article
 title: Becoming employee number five
 description: This week marked my fifth year working full-time at Industry Dive. And what an adventure it has been – from our small office in Dupont to a 50+ person company in Chinatown to a 100+ employee company in McPherson, two blocks from the White House. How did it all begin? Here's a quick look back describing how and why I joined the Dive team during the startup phase.
-category: blog
+category: startup
 image: /media/img/posts/blog/2018-02-05-startupjob/id-dupont.jpg
 tags:
 og_title: Becoming employee number five

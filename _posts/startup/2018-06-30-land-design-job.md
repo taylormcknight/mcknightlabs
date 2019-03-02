@@ -3,7 +3,7 @@ layout: article
 title: How to land a great design job
 description: Over the past few years, I have reviewed several thousand graphic designer and product designer job applications. I have interviewed dozens of candidates and hired twelve. All of the designers who landed an interview and were hired took specific actions that made them stand out from their peers. This post details five ways you can gain a similar competitive advantage.
 date: 2018-06-30
-category: blog
+category: startup
 image: /media/img/posts/blog/2018-06-30-land-design-job/design-team.jpg
 og_title: How to land a great design job
 og_description: How to gain a competitive advantage over other candidates
