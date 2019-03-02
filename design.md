@@ -1,9 +1,9 @@
 ---
 layout: full-width
 title: Design
-description: We become the things we do
+description: Health and wellbeing design projects
 og_title: Design | Ryan McKnight
-og_description: We become the things we do
+og_description: Health and wellbeing design projects
 og_image: /media/img/about/mcknight_headshot.jpg
 og_type: website
 ---

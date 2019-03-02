@@ -1,9 +1,9 @@
 ---
 layout: full-width
 title: About
-description: I founded and lead the award-winning design team at Industry Dive, a rapidly growing business news company in Washington, DC.
+description: I founded and lead the design team at Industry Dive, a high-growth business journalism publisher in Washington, DC.
 og_title: Ryan McKnight, Head of Design
-og_description: I founded and lead the award-winning design team at Industry Dive, a rapidly growing business news company in Washington, DC.
+og_description: I founded and lead the design team at Industry Dive, a high-growth business journalism publisher in Washington, DC.
 og_image: /media/img/about/mcknight_headshot.jpg
 og_type: website
 ---

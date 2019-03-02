@@ -1,9 +1,9 @@
 ---
 layout: full-width
 title: Essays
-description: Experiences and lessons I have learned
+description: Thoughts on wellbeing and longevity
 og_title: Essays | Ryan McKnight
-og_description: Everything around us was made up by people that were no smarter than us, and we can change it.
+og_description: Thoughts on wellbeing and longevity
 og_image: /media/img/about/mcknight_headshot.jpg
 og_type: website
 ---
