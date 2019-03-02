@@ -362,7 +362,7 @@ html, body {
   height: 100%; }
 
 body {
-  font-family: 'meta serif pro', serif;
+  font-family: ff-meta-web-pro, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   overflow: auto; }
@@ -388,7 +388,7 @@ li {
   margin-bottom: .5rem; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'meta serif pro', serif; }
+  font-family: ff-meta-web-pro, sans-serif; }
 
 img {
   max-width: 100%; }
@@ -657,7 +657,7 @@ blockquote:before {
     margin: 0 0 2rem 2rem; } }
 .article {
   padding: 1rem;
-  font-family: 'adobe caslon'; }
+  font-family: ff-meta-web-pro, sans-serif; }
 .article h1 {
   font-weight: 100; }
 .article cite {
