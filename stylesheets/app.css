@@ -925,7 +925,7 @@ main {
 
 .logo {
   display: inline-block;
-  font-size: 1.25rem;
+  font-size: 1.375rem;
   font-weight: 100;
   border: none;
   color: #000;
@@ -948,7 +948,7 @@ main {
     margin: 0 .875rem; }
   .top-nav-desktop ul li a {
     font-weight: 600;
-    font-size: 1rem;
+    font-size: 1.375rem;
     padding: 0;
     border: none; }
   .top-nav-desktop ul li a.current {
