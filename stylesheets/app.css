@@ -808,7 +808,7 @@ main {
 @media (min-width: 600px) {
   .page-header li, .page-header p {
     font-size: 2.5rem;
-    line-height: 2; }
+    line-height: 1.6; }
 
   .grid {
     padding: 2rem 2rem;
