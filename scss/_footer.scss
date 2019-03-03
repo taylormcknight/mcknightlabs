@@ -2,7 +2,6 @@
 footer {
     margin: 0 0.9375rem;
     max-width: 1200px;
-	padding: 1rem;
 	p {
 		font-size: 14px;
 	}
@@ -41,5 +40,6 @@ body:before {
 @media (min-width: 600px ) {
     footer {
         margin: 0 auto;
+        padding: 1rem;
     }
 }
