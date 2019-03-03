@@ -375,7 +375,7 @@ body {
 }*/
 p, li, blockquote {
   color: #44464f;
-  font-size: 1.25rem;
+  font-size: 1.375rem;
   font-weight: 400;
   line-height: 1.6; }
 p a, li a, blockquote a {
@@ -403,19 +403,19 @@ a:hover {
   color: #0066FF; }
 
 .page-description-citation {
-  font-size: .875rem;
+  font-size: 1rem;
   font-style: normal; }
 .page-description-citation a {
   font-style: italic; }
 
 h1 {
-  font-size: 2rem;
+  font-size: 2.5rem;
   font-weight: 600;
   line-height: 1.5; }
 
 h2, h3, h4 {
   font-weight: 600;
-  font-size: 1.5rem;
+  font-size: 1.875rem;
   line-height: 1.5;
   margin: 3rem 0 1.5rem 0; }
 
@@ -428,11 +428,11 @@ ul, ol {
   list-style: none;
   margin: 1rem 0 0 0; }
 .footnotes ul li {
-  font-size: 1rem;
+  font-size: 1.25rem;
   margin-left: 0; }
 
 code {
-  font-size: .875rem;
+  font-size: 1.25rem;
   font-family: Courier, monospace;
   display: block;
   color: #555555;
@@ -456,7 +456,7 @@ th, td {
   padding: 1rem 0; }
 
 table {
-  font-size: .875rem;
+  font-size: 1.25rem;
   width: 100%;
   overflow-x: auto;
   /* Scrollbar is displayed as it's needed */
@@ -472,7 +472,7 @@ table caption .details {
   text-transform: none;
   margin-top: .5rem;
   display: block;
-  font-size: .875rem;
+  font-size: 1rem;
   font-weight: 100; }
 
 .table-striped > tbody > tr:nth-child(odd) > td, .table-striped > tbody > tr:nth-child(odd) > th {
@@ -542,7 +542,7 @@ figure iframe {
 
 figcaption {
   margin: .5rem 0 1rem 0;
-  font-size: 1rem;
+  font-size: 1.125rem;
   line-height: 1.6; }
 
 .slide {
@@ -584,7 +584,7 @@ hr.style-eight:after {
 blockquote {
   display: block;
   position: relative;
-  font-size: 1.25rem;
+  font-size: 1.375rem;
   line-height: 1.6;
   padding: 2rem 0;
   margin: 1.5em 0;
@@ -592,11 +592,11 @@ blockquote {
   border-style: solid;
   border-color: #eee; }
 blockquote p {
-  font-size: 1rem; }
+  font-size: 1.375rem; }
 blockquote citation {
   display: block;
   margin-top: 1rem;
-  font-size: 1rem; }
+  font-size: 1.375rem; }
 blockquote p, blockquote citation, blockquote citation a, blockquote li {
   letter-spacing: 1px; }
 blockquote:before {
@@ -625,16 +625,16 @@ blockquote:before {
     height: 30px; }
 
   p, li {
-    font-size: 1.25rem; }
+    font-size: 1.375rem; }
 
   h1 {
-    font-size: 3rem; }
+    font-size: 3.5rem; }
 
   h2, h3 {
-    font-size: 1.675rem; }
+    font-size: 2rem; }
 
   .page-description-citation {
-    font-size: 1.25rem; }
+    font-size: 1.375rem; }
 
   figure {
     max-width: 45rem; }
@@ -762,7 +762,7 @@ main {
   grid-column: span 12; }
 
 .sub-section-header h2 {
-  font-size: 1.5rem;
+  font-size: 1.875rem;
   margin: 0;
   display: inline;
   color: #2c59b4;
@@ -776,13 +776,13 @@ main {
   margin: 0 auto; }
 .grid-wrapper .label {
   text-transform: uppercase;
-  font-size: .875rem; }
+  font-size: 1rem; }
 .grid-wrapper li, .grid-wrapper p {
-  font-size: 1.125rem;
+  font-size: 1.25rem;
   line-height: 1.6;
   margin: .5rem 0 0 0; }
 .grid-wrapper h3 {
-  font-size: 1.375rem;
+  font-size: 1.5rem;
   font-weight: 600;
   margin: 0 0 1rem 0;
   line-height: 1.3; }
@@ -807,7 +807,7 @@ main {
 
 @media (min-width: 600px) {
   .page-header li, .page-header p {
-    font-size: 2rem;
+    font-size: 2.5rem;
     line-height: 2; }
 
   .grid {
@@ -819,7 +819,7 @@ main {
     padding: 0 2rem;
     max-width: 1200px; }
   .grid-wrapper h3 {
-    font-size: 1.5rem; }
+    font-size: 1.875rem; }
   .grid-wrapper.feed article img, .grid-wrapper.feed .figure-wrapper img, .grid-wrapper.tiles article img, .grid-wrapper.tiles .figure-wrapper img {
     border: solid 1px #ccc; }
   .grid-wrapper.feed article a img, .grid-wrapper.feed .figure-wrapper a img, .grid-wrapper.tiles article a img, .grid-wrapper.tiles .figure-wrapper a img {
@@ -845,7 +845,7 @@ main {
     grid-column: span 12; } }
 @media (min-width: 800px) {
   .sub-section-header h2 {
-    font-size: 2.5rem; }
+    font-size: 2.875rem; }
 
   .grid-wrapper.tiles {
     grid-gap: 3rem; }
