@@ -375,9 +375,9 @@ body {
 }*/
 p, li, blockquote {
   color: #44464f;
-  font-size: 1.375rem;
+  font-size: 1rem;
   font-weight: 400;
-  line-height: 1.6; }
+  line-height: 1.8; }
 p a, li a, blockquote a {
   color: #44464f; }
 
@@ -409,9 +409,9 @@ a:hover {
   font-style: italic; }
 
 h1 {
-  font-size: 2.5rem;
+  font-size: 2rem;
   font-weight: 600;
-  line-height: 1.3; }
+  line-height: 1.6; }
 
 h2, h3, h4 {
   font-weight: 600;
@@ -428,11 +428,11 @@ ul, ol {
   list-style: none;
   margin: 1rem 0 0 0; }
 .footnotes ul li {
-  font-size: 1.25rem;
+  font-size: 1rem;
   margin-left: 0; }
 
 code {
-  font-size: 1.25rem;
+  font-size: 1rem;
   font-family: Courier, monospace;
   display: block;
   color: #555555;
@@ -456,7 +456,7 @@ th, td {
   padding: 1rem 0; }
 
 table {
-  font-size: 1.25rem;
+  font-size: 1rem;
   width: 100%;
   overflow-x: auto;
   /* Scrollbar is displayed as it's needed */
@@ -584,19 +584,19 @@ hr.style-eight:after {
 blockquote {
   display: block;
   position: relative;
-  font-size: 1.375rem;
-  line-height: 1.6;
+  font-size: 1rem;
+  line-height: 1.8;
   padding: 2rem 0;
   margin: 1.5em 0;
   border-width: 2px 0;
   border-style: solid;
   border-color: #eee; }
 blockquote p {
-  font-size: 1.375rem; }
+  font-size: 1rem; }
 blockquote citation {
   display: block;
   margin-top: 1rem;
-  font-size: 1.375rem; }
+  font-size: 1rem; }
 blockquote p, blockquote citation, blockquote citation a, blockquote li {
   letter-spacing: 1px; }
 blockquote:before {
@@ -625,16 +625,16 @@ blockquote:before {
     height: 30px; }
 
   p, li {
-    font-size: 1.375rem; }
+    font-size: 1.125rem; }
 
   h1 {
-    font-size: 3.5rem; }
+    font-size: 2.5rem; }
 
   h2, h3 {
-    font-size: 2rem; }
+    font-size: 1.5rem; }
 
   .page-description-citation {
-    font-size: 1.375rem; }
+    font-size: 1.125rem; }
 
   figure {
     max-width: 45rem; }
@@ -665,7 +665,8 @@ blockquote:before {
   border-bottom: solid 1px #efefef;
   display: block;
   margin-bottom: 3.5rem;
-  line-height: 1.5; }
+  line-height: 1.5;
+  font-size: .875rem; }
 .article h2, .article h3, .article h4 {
   font-weight: 100; }
 .article ol, .article ul, .article hr, .article h1, .article h2, .article h3, .article h4, .article h5, .article p, .article cite, .article span, .article blockquote, .article .footnotes, .article code {
@@ -677,7 +678,7 @@ blockquote:before {
 
 @media (min-width: 600px) {
   .article h1 {
-    font-size: 2.375rem; } }
+    font-size: 2rem; } }
 footer {
   margin: 0 0.9375rem;
   max-width: 1200px; }
@@ -762,7 +763,7 @@ main {
   grid-column: span 12; }
 
 .sub-section-header h2 {
-  font-size: 1.875rem;
+  font-size: 1.5rem;
   margin: 0;
   display: inline;
   color: #2c59b4;
@@ -776,10 +777,10 @@ main {
   margin: 0 auto; }
 .grid-wrapper .label {
   text-transform: uppercase;
-  font-size: 1rem; }
+  font-size: .875rem; }
 .grid-wrapper li, .grid-wrapper p {
-  font-size: 1.25rem;
-  line-height: 1.6;
+  font-size: 1rem;
+  line-height: 1.8;
   margin: .5rem 0 0 0; }
 .grid-wrapper h3 {
   font-size: 1.5rem;
@@ -807,8 +808,8 @@ main {
 
 @media (min-width: 600px) {
   .page-header li, .page-header p {
-    font-size: 2.5rem;
-    line-height: 1.6; }
+    font-size: 1.5rem;
+    line-height: 1.8; }
 
   .grid {
     padding: 2rem 2rem;
@@ -819,7 +820,7 @@ main {
     padding: 0 2rem;
     max-width: 1200px; }
   .grid-wrapper h3 {
-    font-size: 1.875rem; }
+    font-size: 1.5rem; }
   .grid-wrapper.feed article img, .grid-wrapper.feed .figure-wrapper img, .grid-wrapper.tiles article img, .grid-wrapper.tiles .figure-wrapper img {
     border: solid 1px #ccc; }
   .grid-wrapper.feed article a img, .grid-wrapper.feed .figure-wrapper a img, .grid-wrapper.tiles article a img, .grid-wrapper.tiles .figure-wrapper a img {
@@ -925,7 +926,7 @@ main {
 
 .logo {
   display: inline-block;
-  font-size: 1.375rem;
+  font-size: 1rem;
   font-weight: 100;
   border: none;
   color: #000;
@@ -948,7 +949,7 @@ main {
     margin: 0 .875rem; }
   .top-nav-desktop ul li a {
     font-weight: 600;
-    font-size: 1.375rem;
+    font-size: 1rem;
     padding: 0;
     border: none; }
   .top-nav-desktop ul li a.current {
@@ -994,7 +995,7 @@ main {
   .overlay a {
     padding: 8px;
     text-decoration: none;
-    font-size: 36px;
+    font-size: 28px;
     color: #fff;
     display: block;
     /* Display block instead of inline */

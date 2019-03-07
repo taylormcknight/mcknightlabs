@@ -20,7 +20,7 @@ main {
 }
 .sub-section-header {
 	h2 {
-		font-size: 1.875rem;
+		font-size: 1.5rem;
 		margin: 0;
 		display: inline;
 		color: #2c59b4;
@@ -35,11 +35,11 @@ main {
 	margin: 0 auto;
 	.label {
 		text-transform: uppercase;
-		font-size: 1rem;
+		font-size: .875rem;
 	}
 	li, p {
-		font-size: 1.25rem;
-		line-height: 1.6;
+		font-size: 1rem;
+		line-height: 1.8;
 		margin: .5rem 0 0 0;
 	}
 	h3 {
@@ -82,8 +82,8 @@ main {
 @media (min-width: 600px ) {
 	.page-header {
 		li, p {
-			font-size: 2.5rem;
-			line-height: 1.6;
+			font-size: 1.5rem;
+			line-height: 1.8;
 		}
 	}
 	.grid {
@@ -95,7 +95,7 @@ main {
 		padding: 0 2rem;
 		max-width: 1200px;
 		h3 {
-			font-size: 1.875rem;
+			font-size: 1.5rem;
 		}
 		&.feed, &.tiles {
 			article, .figure-wrapper {
