@@ -2,7 +2,7 @@
 layout: article
 title: Becoming a better manager
 description: This post captures my evolution as a manager from Nov. 2014 – March 2017. When I first became a manager, it was out of necessity. I needed help. At the time, I was the only designer at Industry Dive, a B2B media rocket ship, and the projects were hitting my inbox faster than I could read the requests. So I made my first hire, and my quality of life improved. Then I started to grow. The transactional perspective with which I began slowly shifted to one focused more on individual and team development.
-category: blog
+category: startup
 topics: management
 image: /media/img/posts/blog/2017-03-05-management/coffee-checkin.jpg
 og_title: Becoming a better manager
