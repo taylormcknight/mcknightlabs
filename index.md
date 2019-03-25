@@ -12,7 +12,9 @@ og_type: website
 		<div class="full-width">
 			<h1>{{ page.title }}
 			</h1>
-			<p>I am learning to scale a <a href="https://breakoutlist.com/why/">startup 🚀 </a> as Head of Design <a href="https://twitter.com/industrydive?lang=en">@IndustryDive</a>, where I started in 2013 as <a href="{{ site.baseurl }}{% link _posts/startup/2018-02-05-startupjob.md %}">employee #5</a>. Get in touch <a href="https://twitter.com/ryantmcknight">@RyanTMcKnight</a>.</p>
+			<p>I am VP of Design at <a href="https://www.industrydive.com/">Industry Dive</a>, where I started in 2013 as <a href="{{ site.baseurl }}{% link _posts/startup/2018-02-05-startupjob.md %}">employee #5</a>.</p>
+			<p>View my team's work at <a href="https://design.industrydive.com/">Design.IndustryDive.com</a>.</p>
+			<p>Get in touch <a href="https://twitter.com/ryantmcknight">@RyanTMcKnight</a>.</p>
 		</div>
 	</section>
 </section>
