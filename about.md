@@ -19,29 +19,27 @@ og_type: website
 
 <img src="/media/img/about/mcknight.jpg" class="headshot">
 
-<p><a href="https://waitbutwhy.com/2015/12/the-tail-end.html">Life is short</a>. <a href="http://paulgraham.com/vb.html">Life is short</a>. <a href="https://pbs.twimg.com/media/D0ozXWfXQAEwFtB.jpg:large">Life is short</a>. Given this reality, I am attempting to live the most exciting adventure I can possibly imagine.</p>
+<p><a href="https://waitbutwhy.com/2015/12/the-tail-end.html">Life is short</a>. <a href="http://paulgraham.com/vb.html">Life is short</a>. <a href="https://pbs.twimg.com/media/D0ozXWfXQAEwFtB.jpg:large">Life is short</a>. Given this reality, I am attempting to live the most meaningful and exciting adventure I can possibly imagine.</p>
 
-<p>For me, that means prioritizing my most important <a href="https://pbs.twimg.com/media/D0os5CVW0AABVFN.jpg:large">personal relationships</a>, seeking out <a href="{{ site.url }}/goals">novel challenges and opportunities for self-mastery</a> and chasing the following goals:</p>
+<p>For me, that means prioritizing my most important <a href="https://pbs.twimg.com/media/D0os5CVW0AABVFN.jpg:large">personal relationships</a>, seeking out <a href="{{ site.url }}/goals">novel challenges and opportunities for self-mastery</a>, <a href="/media/img/about/usun.jpg">serving my country</a> and chasing longterm goals:</p>
 
 <ol>
-	<li>Maximize human wellbeing</li>
-	<li>Meaningfully increase human healthspan and longevity</li>
-	<li>Inspire next generation scientists and clinicians through hard science filmmaking</li>
+	<li>Meaningfully improve human wellbeing, <a href="{{ site.baseurl }}{% link _projects/health/lyflynks.md %}">healthspan</a> and longevity</li>
+	<li>Inspire next generation scientists and clinicians through hard science filmmaking (feature script in progress)</li>
 	<!--<li>Ensure we become an interplanetary species</li>-->
 </ol>
 
-<p>All of these goals represent a longterm investment in humanity and are grounded in the <a href="https://www.nytimes.com/2018/06/11/books/review/strange-order-of-things-antonio-damasio.html">biological imperative of homeostasis</a>. If you are pursuing similar objectives, <a href="https://www.twitter.com/ryantmcknight">drop me a line</a>.</p>
+<p>If you are pursuing similar objectives, <a href="https://www.twitter.com/ryantmcknight">drop me a line</a>.</p>
 
-<p>I am currently learning to scale a <a href="https://breakoutlist.com/why/">startup 🚀 </a> as Head of Design <a href="https://twitter.com/industrydive?lang=en">@IndustryDive</a>.</p>
+<p>I am currently learning to scale a <a href="https://breakoutlist.com/why/">startup 🚀 </a> as VP of Design <a href="https://twitter.com/industrydive?lang=en">@IndustryDive</a>.</p>
 
 <h2>Get in touch</h2>
 
-<p>Direct message me on <a href="https://www.twitter.com/ryantmcknight">Twitter</a>, <a href="https://www.instagram.com/mountainlogbook
-">Instagram</a> or <a href="https://www.linkedin.com/in/ryantmcknight/">LinkedIn</a>.</p>
+<p>Direct message me on <a href="https://www.twitter.com/ryantmcknight">Twitter</a> or <a href="https://www.linkedin.com/in/ryantmcknight/">LinkedIn</a>.</p>
 
 <h2>My story</h2>
 
-<p>After graduating from <a href="http://www.lse.ac.uk/">LSE</a> in 2012, I joined <a href="https://www.industrydive.com/">Industry Dive</a>, a business journalism startup, as <a href="{{ site.baseurl }}{% link _posts/startup/2018-02-05-startupjob.md %}"> employee #5</a> and taught myself the fundamentals of design and front-end development.</p>
+<p>After graduating from The London School of Economics in 2012, I joined <a href="https://www.industrydive.com/">Industry Dive</a>, a business journalism startup, as <a href="{{ site.baseurl }}{% link _posts/startup/2018-02-05-startupjob.md %}"> employee #5</a> and taught myself the fundamentals of design and front-end development.</p>
 
 <p>I founded the following areas of design and multi-media at Industry Dive: <a href="https://design.industrydive.com/ux/2018/01/04/cms-audit-user-flows.html">UX design</a>, <a href="https://design.industrydive.com/product/2017/12/20/library-page.html">UI design</a>, <a href="https://design.industrydive.com/product/2018/03/29/flex-menu.html">(agile) front-end development</a>, <a href="https://design.industrydive.com/editorial/2018/03/08/dive-awards-2017.html">editorial graphics</a>, <a href="https://www.constructiondive.com/news/photos-of-new-smithsonian-african-american-museum/420671/">photo journalism</a> and <a href="https://design.industrydive.com/corporate/2018/05/09/logo-redesign.html">graphic design</a>.</p>
 
