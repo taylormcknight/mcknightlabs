@@ -17,11 +17,11 @@ og_type: website
 <section class="">
 <section class="inner-section-wrapper">
 
-<img src="/media/img/about/headshot-2.jpg" class="headshot">
+<img src="{{ site.url }}/media/img/about/headshot-2.jpg" class="headshot">
 
 <p><a href="https://waitbutwhy.com/2015/12/the-tail-end.html">Life is short</a>. <a href="http://paulgraham.com/vb.html">Life is short</a>. <a href="https://pbs.twimg.com/media/D0ozXWfXQAEwFtB.jpg:large">Life is short</a>. Given this reality, I am attempting to live the most meaningful and exciting adventure I can possibly imagine.</p>
 
-<p>For me, that means prioritizing my most important <a href="https://pbs.twimg.com/media/D0os5CVW0AABVFN.jpg:large">personal relationships</a>, seeking out <a href="{{ site.url }}/goals">novel challenges and opportunities for self-mastery</a>, <a href="/media/img/about/usun.jpg">serving my country</a> and chasing longterm goals:</p>
+<p>For me, that means prioritizing my most important <a href="https://pbs.twimg.com/media/D0os5CVW0AABVFN.jpg:large">personal relationships</a>, seeking out <a href="{{ site.url }}/goals">novel challenges and opportunities for self-mastery</a>, <a href="{{ site.url }}/media/img/about/usun.jpg">serving my country</a> and chasing longterm goals:</p>
 
 <ol>
 	<li>Meaningfully improve human wellbeing, <a href="{{ site.baseurl }}{% link _projects/health/lyflynks.md %}">healthspan</a> and longevity</li>
