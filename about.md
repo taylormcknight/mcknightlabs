@@ -17,7 +17,7 @@ og_type: website
 <section class="">
 <section class="inner-section-wrapper">
 
-<img src="/media/img/about/mcknight.jpg" class="headshot">
+<img src="/media/img/about/mcknight-2.jpg" class="headshot">
 
 <p><a href="https://waitbutwhy.com/2015/12/the-tail-end.html">Life is short</a>. <a href="http://paulgraham.com/vb.html">Life is short</a>. <a href="https://pbs.twimg.com/media/D0ozXWfXQAEwFtB.jpg:large">Life is short</a>. Given this reality, I am attempting to live the most meaningful and exciting adventure I can possibly imagine.</p>
 
