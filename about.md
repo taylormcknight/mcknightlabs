@@ -4,7 +4,7 @@ title: About
 description: I founded and lead the design team at Industry Dive, a high-growth business journalism publisher in Washington, DC.
 og_title: Ryan McKnight, Head of Design
 og_description: I founded and lead the design team at Industry Dive, a high-growth business journalism publisher in Washington, DC.
-og_image: /media/img/about/mcknight_headshot.jpg
+og_image: /media/img/about/headshot-2.jpg
 og_type: website
 ---
 <section class="grid page-header">
@@ -17,7 +17,7 @@ og_type: website
 <section class="">
 <section class="inner-section-wrapper">
 
-<img src="/media/img/about/mcknight-2.jpg" class="headshot">
+<img src="/media/img/about/headshot-2.jpg" class="headshot">
 
 <p><a href="https://waitbutwhy.com/2015/12/the-tail-end.html">Life is short</a>. <a href="http://paulgraham.com/vb.html">Life is short</a>. <a href="https://pbs.twimg.com/media/D0ozXWfXQAEwFtB.jpg:large">Life is short</a>. Given this reality, I am attempting to live the most meaningful and exciting adventure I can possibly imagine.</p>
 
