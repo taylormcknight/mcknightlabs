@@ -7,14 +7,10 @@ og_description: I founded and lead the design team at Industry Dive, a high-grow
 og_image: /media/img/about/headshot-2.jpg
 og_type: website
 ---
-<section class="grid page-header">
-	<div class="full-width">
-		<h1>&ldquo;If today were the last day of my life, would I want to do what I am about to do today?&rdquo;</h1>
-		<citation class="page-description-citation">– <a href="https://news.stanford.edu/2005/06/14/jobs-061505/">Steve Jobs</a></citation>
-	</div>
-</section>
 
 <section class="inner-section-wrapper">
+
+<h1>{{ page.title }}</h1>
 
 <img src="{{ site.url }}/media/img/about/headshot-2.jpg" class="headshot">
 
