@@ -1,8 +1,8 @@
 ---
 layout: full-width
-title: Startup Journal
+title: Essays
 description: Experiences and lessons I have learned
-og_title: Startup Journal | Taylor McKnight
+og_title: Essays | Taylor McKnight
 og_description: Everything around us was made up by people that were no smarter than us, and we can change it.
 og_image: /media/img/about/mcknight_headshot.jpg
 og_type: website
@@ -10,43 +10,43 @@ og_type: website
 <section class="grid page-header">
 	<div class="full-width">
 		<h1>{{ page.title }}</h1>
-		<p>Reflections on my startup and business experiences</p>
+		<p>Thoughts on wellbeing, longevity by <a href="https://twitter.com/rtaylormcknight">@rtaylormcknight</a></p>
 	</div>
 </section>
 <section class="stripe-section-2">
 	<section class="grid-wrapper feed">
-		{% for startup in site.categories.startup %}
+		{% for essay in site.categories.essay %}
 		<article>
 			<figcaption>
-				{% if startup.external_url %}
-				<a href="{{ startup.external_url }}">
+				{% if essay.external_url %}
+				<a href="{{ essay.external_url }}">
 				{% else %}
-				<a href="{{ startup.url }}">
+				<a href="{{ essay.url }}">
 				{% endif %}
 				<h3>
-					{{ startup.title }}
+					{{ essay.title }}
 				</h3>
 				</a>
-				<p class="label">{{ startup.date | date: "%-d %B %Y" }}</p>
-				<p class="description">{{ startup.description }}</p>
+				<p class="label">{{ essay.date | date: "%-d %B %Y" }}</p>
+				<p class="description">{{ essay.description }}</p>
 				<p>
-				{% if startup.external_url %}
-				<a href="{{ startup.external_url }}">
+				{% if essay.external_url %}
+				<a href="{{ essay.external_url }}">
 				{% else %}
-				<a href="{{ startup.url }}">
+				<a href="{{ essay.url }}">
 				{% endif %}
 				Read more
 				</a>
 				</p>
 			</figcaption>
-			{% if startup.image %}
+			{% if essay.image %}
 			<figure>
-				{% if startup.external_url %}
-				<a href="{{ startup.external_url }}">
+				{% if essay.external_url %}
+				<a href="{{ essay.external_url }}">
 				{% else %}
-				<a href="{{ startup.url }}">
+				<a href="{{ essay.url }}">
 				{% endif %}
-				<img src="{{ startup.image }}" />
+				<img src="{{ essay.image }}" />
 				</a>
 			</figure>
 			{% endif %}

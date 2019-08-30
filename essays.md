@@ -2,7 +2,7 @@
 layout: full-width
 title: Essays
 description: Thoughts on wellbeing and longevity
-og_title: Essays | Ryan McKnight
+og_title: Essays | Taylor McKnight
 og_description: Thoughts on wellbeing and longevity
 og_image: /media/img/about/mcknight_headshot.jpg
 og_type: website

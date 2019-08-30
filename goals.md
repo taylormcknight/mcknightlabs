@@ -2,7 +2,7 @@
 layout: full-width
 title: Self-mastery
 description: We become the things we do
-og_title: Self-mastery | Ryan McKnight
+og_title: Self-mastery | Taylor McKnight
 og_description: We become the things we do
 og_image: /media/img/about/mcknight_headshot.jpg
 og_type: website

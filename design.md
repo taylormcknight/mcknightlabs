@@ -2,7 +2,7 @@
 layout: full-width
 title: Personal Projects
 description: Health and wellbeing design projects
-og_title: Personal Projects | Ryan McKnight
+og_title: Personal Projects | Taylor McKnight
 og_description: Health and wellbeing design projects
 og_image: /media/img/about/mcknight_headshot.jpg
 og_type: website

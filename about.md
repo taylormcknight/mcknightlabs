@@ -2,7 +2,7 @@
 layout: full-width
 title: About
 description: I founded and lead the design team at Industry Dive, a high-growth business journalism publisher in Washington, DC.
-og_title: Ryan McKnight, Head of Design
+og_title: R. Taylor McKnight, VP of Design
 og_description: I founded and lead the design team at Industry Dive, a high-growth business journalism publisher in Washington, DC.
 og_image: /media/img/about/headshot-2.jpg
 og_type: website
@@ -19,17 +19,17 @@ og_type: website
 <p>For me, that means prioritizing my most important <a href="https://pbs.twimg.com/media/D0os5CVW0AABVFN.jpg:large">personal relationships</a>, seeking out <a href="{{ site.url }}/goals">novel challenges and opportunities for self-mastery</a>, and chasing longterm goals:</p>
 
 <ol>
-	<li>Meaningfully improve <a href="https://twitter.com/ryantmcknight/status/1125143833283584000">human wellbeing</a>, <a href="{{ site.baseurl }}{% link _projects/health/lyflynks.md %}">healthspan</a> and longevity</li>
+	<li>Meaningfully improve <a href="https://twitter.com/rtaylormcknight/status/1125143833283584000">human wellbeing</a>, <a href="{{ site.baseurl }}{% link _projects/health/lyflynks.md %}">healthspan</a> and longevity</li>
 	<li>Inspire next generation scientists and clinicians through hard science filmmaking (feature script in progress)</li>
 </ol>
 
-<p>If you are pursuing similar objectives, <a href="https://www.twitter.com/ryantmcknight">drop me a line</a>.</p>
+<p>If you are pursuing similar objectives, <a href="https://www.twitter.com/rtaylormcknight">drop me a line</a>.</p>
 
 <p>I am currently learning to scale a <a href="https://breakoutlist.com/why/">startup 🚀 </a> as VP of Design <a href="https://twitter.com/industrydive?lang=en">@IndustryDive</a>.</p>
 
 <h2>Get in touch</h2>
 
-<p>Direct message me on <a href="https://www.twitter.com/ryantmcknight">Twitter</a> or <a href="https://www.linkedin.com/in/ryantmcknight/">LinkedIn</a>.</p>
+<p>Direct message me on <a href="https://www.twitter.com/rtaylormcknight">Twitter</a> or <a href="https://www.linkedin.com/in/rtaylormcknight/">LinkedIn</a>.</p>
 
 <h2>My story</h2>
 
@@ -46,7 +46,7 @@ og_type: website
 
 <h2>Awards</h2>
 <ul>
-	<li>2019 MIT Hacking Medicine Grand Hack <a href="https://twitter.com/ryantmcknight/status/1125143833283584000">award winner</a></li>
+	<li>2019 MIT Hacking Medicine Grand Hack <a href="https://twitter.com/rtaylormcknight/status/1125143833283584000">award winner</a></li>
 	<li>2017 B2B media industry "<a href="http://www.siia.net/bims/SPECIAL-PROGRAMS/Emerging-Leader-Awards">Emerging Leader</a>" award winner</li>
 </ul>
 
@@ -55,7 +55,7 @@ og_type: website
 	<li>
 		<strong>Massachusetts Institute of Technology</strong><br>
 		<a href="http://hackingmedicine.mit.edu/">MIT Hacking Medicine: Grand Hack</a><br>
-		<em>Nov. 2018, NYC and May 2019, Boston (<a href="https://twitter.com/ryantmcknight/status/1125143833283584000">won 3rd place</a>)</em>
+		<em>Nov. 2018, NYC and May 2019, Boston (<a href="https://twitter.com/rtaylormcknight/status/1125143833283584000">won 3rd place</a>)</em>
 	</li>
 	<li>
 		<strong>Mount Sinai Hospital</strong><br>
@@ -94,4 +94,4 @@ og_type: website
 <!--I founded and lead the multi-disciplinary and <a href="https://www.industrydive.com/news/post/honoring-industry-dives-award-winning-design-leader/">award-winning</a> <a href="https://industrydive.com/">design team</a> at <a href="https://www.industrydive.com/">Industry Dive</a>, a rapidly growing business news company in Washington, DC. We were selected a "Best Place to Work" by the Washington Post in 2017 and 2018.
 In 2017, I was recognized as an "<a href="http://www.siia.net/bims/SPECIAL-PROGRAMS/Emerging-Leader-Awards">Emerging Leader</a>" in the B2B media industry for my work at Industry Dive.
 To get in touch, direct message me on <a href="https://www.twitter.com/mcknightlabs">Twitter</a>, <a href="https://www.instagram.com/mountainlogbook
-">Instagram</a> or <a href="https://www.linkedin.com/in/ryantmcknight/">LinkedIn</a>.-->
+">Instagram</a> or <a href="https://www.linkedin.com/in/rtaylormcknight/">LinkedIn</a>.-->

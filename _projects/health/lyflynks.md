@@ -14,7 +14,7 @@ category: health
 
 **Role:** UI/UX design consultant
 
-During 2016 and 2017, I helped design and build a prototype app for <a href="https://lyflynks.com">LyfLynks</a>, a startup focused on improving the coordination of care for seniors.
+During 2016 and 2017, I helped design and build a prototype app for <a href="http://www.lyflynks.com/">LyfLynks</a>, a startup focused on improving the coordination of care for seniors.
 
 In 2018, LyfLynks was accepted into Johns Hopkins' Trajectory Next accelerator program.
 
