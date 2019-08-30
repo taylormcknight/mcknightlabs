@@ -7,39 +7,6 @@ og_description: Everything around us was made up by people that were no smarter 
 og_image: /media/img/about/mcknight_headshot.jpg
 og_type: website
 ---
-<nav class="top-nav-desktop">
-	<a href="{{ site.url }}" class="logo">McKnight</a>
-	<ul class="nav">
-		<li>
-			<a href="{{ site.url }}/essays" {% if page.url == '/essays' %}class="current"{% endif %}>Essays</a>
-		</li>
-		<li>
-			<a href="{{ site.url }}/startup" {% if page.url == '/startup' %}class="current"{% endif %}>Startup Journal</a>
-		</li>
-		<li>
-			<a href="{{ site.url }}/design" {% if page.url == '/design' %}class="current"{% endif %}>Personal Projects</a>
-		</li>
-		<li>
-			<a href="{{ site.url }}/goals" {% if page.url == '/goals' %}class="current"{% endif %}>Self-mastery</a>
-		</li>
-		<li>
-			<a href="{{ site.url }}/about" class="{% if page.url == '/about' %}current{% endif %}">About</a>
-		</li>
-	</ul>
-	<div id="myNav" class="overlay">
-		<!-- Button to close the overlay navigation -->
-		<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-		<!-- Overlay content -->
-		<div class="overlay-content">
-			<a href="{{ site.url }}/essays">Essays</a>
-			<a href="{{ site.url }}/startup">Startup Journal</a>
-			<a href="{{ site.url }}/design">Personal Projects</a>
-			<a href="{{ site.url }}/goals">Self-mastery</a>
-			<a href="{{ site.url }}/about">About</a>
-		</div>
-	</div>
-	<span onclick="openNav()" class="mobile-menu-btn logo">&#9776;</span>
-</nav>
 <section class="">
 	<section class="grid page-header">
 		<div class="full-width">
