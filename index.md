@@ -1,9 +1,9 @@
 ---
 layout: full-width
 title: Taylor McKnight
-description: Everything around us was made up by people that were no smarter than us, and we can change it.
+description: I founded and lead the design team at Industry Dive, a high-growth business journalism publisher in Washington, DC
 og_title: Taylor McKnight
-og_description: Everything around us was made up by people that were no smarter than us, and we can change it.
+og_description: I founded and lead the design team at Industry Dive, a high-growth business journalism publisher in Washington, DC
 og_image: /media/img/about/mcknight_headshot.jpg
 og_type: website
 ---
