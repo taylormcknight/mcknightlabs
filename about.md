@@ -2,7 +2,7 @@
 layout: full-width
 title: About
 description: I founded and lead the design team at Industry Dive, a high-growth business journalism publisher in Washington, DC.
-og_title: R. Taylor McKnight, VP of Design
+og_title: Taylor McKnight, VP of Design
 og_description: I founded and lead the design team at Industry Dive, a high-growth business journalism publisher in Washington, DC.
 og_image: /media/img/about/headshot-2.jpg
 og_type: website
