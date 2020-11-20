@@ -17,7 +17,7 @@ Someone recently asked me how I seek to improve human wellbeing, a personal life
 
 Improving human wellbeing is not Industry Dive’s core mission.
 
-To be clear – Industry Dive does seek to improve the wellbeing of its staff and the broader community. We have a leadership team that acknowledges and cares about social issues, a strong Diversity, Inclusion, and Belonging team, and a quarterly charity donation program called “<a href="https://www.industrydive.com/dive-gives/">Dive Gives</a>.” Industry Dive was also recognized as a "Best Place to Work" in Washington, D.C. by the Washington Post the past four years in a row. But improving human wellbeing is not the core mission; it is not the reason the company exists.
+To be clear – Industry Dive does seek to improve the wellbeing of its staff and the broader community. We have a leadership team that acknowledges and cares about social issues, a strong Diversity, Inclusion, and Belonging team, and a quarterly charity donation program called “<a href="https://www.industrydive.com/dive-gives/">Dive Gives</a>.” Industry Dive was also recognized as a "Best Place to Work" in Washington, D.C. by The Washington Post the past four years in a row. But improving human wellbeing is not the core mission; it is not the reason the company exists.
 
 Industry Dive has two main goals. As a business journalism publisher, our mission is to provide unique and valuable insight to our target readers – industry leaders. As a business, our objective is to drive value for marketers by connecting them with our readers. That’s it. We want to do those two things really, really well.
 
