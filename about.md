@@ -1,9 +1,9 @@
 ---
 layout: full-width
 title: About
-description: I founded and lead the design team at Industry Dive, a high-growth business journalism publisher in Washington, DC
+description: Built and lead the design department at Industry Dive
 og_title: Taylor McKnight, VP of Design
-og_description: I founded and lead the design team at Industry Dive, a high-growth business journalism publisher in Washington, DC
+og_description: Built and lead the design department at Industry Dive
 og_image: /media/img/about/headshot-2.jpg
 og_type: website
 ---
@@ -14,18 +14,18 @@ og_type: website
 
 <img src="{{ site.url }}/media/img/about/headshot-2.jpg" class="headshot">
 
-<p><a href="https://waitbutwhy.com/2015/12/the-tail-end.html">Life is short</a>. <a href="http://paulgraham.com/vb.html">Life is short</a>. <a href="https://pbs.twimg.com/media/D0ozXWfXQAEwFtB.jpg:large">Life is short</a>. Given this reality, I am attempting to live the most meaningful and exciting adventure I can possibly imagine.</p>
+<p><a href="https://waitbutwhy.com/2015/12/the-tail-end.html">Life is short</a>. <a href="http://paulgraham.com/vb.html">Life is short</a>. <a href="https://pbs.twimg.com/media/D0ozXWfXQAEwFtB.jpg:large">Life is short</a>.</p>
 
-<p>For me, that means prioritizing my most important <a href="https://pbs.twimg.com/media/D0os5CVW0AABVFN.jpg:large">personal relationships</a>, seeking out <a href="{{ site.url }}/goals">novel challenges and opportunities for self-mastery</a>, and chasing longterm goals:</p>
+<p>Given that reality, I try to prioritize my most important <a href="https://pbs.twimg.com/media/D0os5CVW0AABVFN.jpg:large">personal relationships</a>, seek out <a href="{{ site.url }}/goals">novel challenges and opportunities for self-mastery</a>, and chase longterm goals:</p>
 
 <ol>
-	<li>Meaningfully improve <a href="https://twitter.com/rtaylormcknight/status/1125143833283584000">human wellbeing</a>, <a href="{{ site.baseurl }}{% link _projects/health/lyflynks.md %}">healthspan</a> and longevity</li>
+	<li>Meaningfully improve <a href="https://twitter.com/rtaylormcknight/status/1125143833283584000">human wellbeing</a>, <a href="{{ site.baseurl }}{% link _posts/essays/2018-07-03-lyflynks.md %}">healthspan</a> and longevity</li>
 	<li>Inspire next generation scientists and clinicians through hard science filmmaking (feature script in progress)</li>
 </ol>
 
 <p>If you are pursuing similar objectives, <a href="https://www.twitter.com/rtaylormcknight">drop me a line</a>.</p>
 
-<p>I am currently learning to scale a <a href="https://breakoutlist.com/why/">startup 🚀 </a> as VP of Design <a href="https://twitter.com/industrydive?lang=en">@IndustryDive</a>.</p>
+<p>I am currently learning to scale a bootstrapped media company as VP of Design <a href="https://twitter.com/industrydive?lang=en">@IndustryDive</a>.</p>
 
 <h2>Get in touch</h2>
 
@@ -46,8 +46,8 @@ og_type: website
 
 <h2>Awards</h2>
 <ul>
+	<li>2020 Folio "<a href="https://industrydive.design/corporate/2020/09/25/industry-dive-design-team-named-design-team-of-the-year-by-folio.html">Design Team of the Year</a>"</li>
 	<li>2019 MIT Hacking Medicine Grand Hack <a href="https://twitter.com/rtaylormcknight/status/1125143833283584000">award winner</a></li>
-	<li>2017 B2B media industry "<a href="http://www.siia.net/bims/SPECIAL-PROGRAMS/Emerging-Leader-Awards">Emerging Leader</a>" award winner</li>
 </ul>
 
 <h2>Professional Development</h2>

@@ -1,9 +1,9 @@
 ---
 layout: full-width
-title: Startup Journal
-description: Experiences and lessons I have learned
+title: Business
+description: Reflections on my startup and business experiences
 og_title: Startup Journal | Taylor McKnight
-og_description: Everything around us was made up by people that were no smarter than us, and we can change it.
+og_description: Reflections on my startup and business experiences
 og_image: /media/img/about/mcknight_headshot.jpg
 og_type: website
 ---
