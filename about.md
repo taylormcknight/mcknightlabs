@@ -33,7 +33,7 @@ og_type: website
 
 <h2>My story</h2>
 
-<p>While studying international technology policy at The London School of Economics in 2012, I decided to jump from the social sciences to a career in tech. After completing my MSc in Global Politics, I joined <a href="https://www.industrydive.com/">Industry Dive</a>, a business journalism startup, as <a href="{{ site.baseurl }}{% link _posts/startup/2018-02-05-startupjob.md %}"> employee #5</a> and taught myself the fundamentals of design and front-end development.</p>
+<p>While studying international technology policy at The London School of Economics in 2012, I decided to jump from the social sciences to the startup world. After completing my MSc in Global Politics, I joined <a href="https://www.industrydive.com/">Industry Dive</a>, an 11-month-old business journalism publisher, as <a href="{{ site.baseurl }}{% link _posts/startup/2018-02-05-startupjob.md %}"> employee #5</a> and taught myself the fundamentals of design and front-end development.</p>
 
 <p>I founded the following areas of design and multi-media at Industry Dive: <a href="https://industrydive.design/ux/2018/01/04/cms-audit-user-flows.html">UX design</a>, <a href="https://industrydive.design/product/2017/12/20/library-page.html">UI design</a>, <a href="https://industrydive.design/product/2018/03/29/flex-menu.html">(agile) front-end development</a>, <a href="https://industrydive.design/editorial/2018/03/08/dive-awards-2017.html">editorial graphics</a>, <a href="https://www.constructiondive.com/news/photos-of-new-smithsonian-african-american-museum/420671/">photo journalism</a> and <a href="https://industrydive.design/corporate/2018/05/09/logo-redesign.html">graphic design</a>.</p>
 
