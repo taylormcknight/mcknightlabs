@@ -11,7 +11,7 @@ tags:
 - tech
 ---
 
-Someone recently asked me how I seek to improve human wellbeing, a personal life goal, through my role as head of the design department at Industry Dive, a business journalism publisher.
+Someone recently asked me how I seek to improve human wellbeing, a personal life goal, through my role as head of the design department at <a href="https://www.industrydive.com/">Industry Dive</a>, a business journalism publisher.
 
 ## TLDR: At Industry Dive, I seek to improve the wellbeing of others through my role as a manager, not through design strategy.
 
