@@ -92,9 +92,3 @@ og_type: website
 	<li>Dove in the <a href="https://www.instagram.com/p/BhjlN3wjOvB/?taken-by=divegoals">Red Sea</a></li></li>
 	<li>Dove in the <a href="https://www.instagram.com/p/B63r722HG8J/">Arctic</a> with orcas</li>
 </ul>
-
-
-<!--I founded and lead the multi-disciplinary and <a href="https://www.industrydive.com/news/post/honoring-industry-dives-award-winning-design-leader/">award-winning</a> <a href="https://industrydive.com/">design team</a> at <a href="https://www.industrydive.com/">Industry Dive</a>, a rapidly growing business news company in Washington, DC. We were selected a "Best Place to Work" by the Washington Post in 2017 and 2018.
-In 2017, I was recognized as an "<a href="http://www.siia.net/bims/SPECIAL-PROGRAMS/Emerging-Leader-Awards">Emerging Leader</a>" in the B2B media industry for my work at Industry Dive.
-To get in touch, direct message me on <a href="https://www.twitter.com/mcknightlabs">Twitter</a>, <a href="https://www.instagram.com/mountainlogbook
-">Instagram</a> or <a href="https://www.linkedin.com/in/rtaylormcknight/">LinkedIn</a>.-->
