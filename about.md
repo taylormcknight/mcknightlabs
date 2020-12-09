@@ -85,9 +85,12 @@ og_type: website
 	<li>Summited <a href="http://summitgoals.com/ascents/2017/01/12/kilimanjaro.html">Mt. Kilimanjaro</a> and <a href="http://summitgoals.com/ascents/2018/06/21/rainier.html">Mt. Rainier</a></li>
 	<li>Trekked to <a href="http://summitgoals.com/ascents/2016/11/05/everest.html">Everest Base Camp</a></li>
 	<li>Completed The Alpine Institute's <a href="http://www.alpineinstitute.com/catalog/alpine-mountaineering-and-technical-leadership,-part-1/">Alpine Mountaineering and Technical Leadership course</a></li>
-	<li>Completed PADI Advanced Open Water and Freediver certifications</li>
 	<li>Completed ASA 101 Keelboat Sailing certification</li>
-	<li>Taught myself <a href="http://divegoals.com/uwp/2018/01/30/uwphotography.html">underwater photography</a> and documented marine life in the <a href="http://divegoals.com/dive/2018/01/29/galapagos.html">Galápagos</a> and <a href="https://www.instagram.com/p/BhjlN3wjOvB/?taken-by=divegoals">shipwrecks</a> in the Red Sea</li>
+	<li>Completed PADI Advanced Open Water and Freediver certifications</li>
+	<li>Taught myself <a href="https://www.youtube.com/watch?v=3zzmpjuzBCE&t=18s">underwater videography</a>
+	<li>Dove in the <a href="http://divegoals.com/dive/2018/01/29/galapagos.html">Galápagos Islands</a></li>
+	<li>Dove in the <a href="https://www.instagram.com/p/BhjlN3wjOvB/?taken-by=divegoals">Red Sea</a></li></li>
+	<li>Dove in the <a href="https://www.instagram.com/p/B63r722HG8J/">Arctic</a> with orcas</li>
 </ul>
 
 
