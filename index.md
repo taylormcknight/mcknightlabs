@@ -12,9 +12,9 @@ og_type: website
 		<div class="full-width">
 			<h1>{{ page.title }}
 			</h1>
-			<p>I am VP of Design at <a href="https://www.industrydive.com/">Industry Dive</a>, where I started in 2013 as <a href="{{ site.baseurl }}{% link _posts/startup/2018-02-05-startupjob.md %}">employee #5</a>.</p>
+			<p>I am VP of Design at <a href="https://www.industrydive.com/">Industry Dive</a>, a business media company with 27 publications and 12M readers.</p>
 			<p>View my team's work at <a href="https://industrydive.design/">IndustryDive.design</a>.</p>
-			<p>Get in touch <a href="https://twitter.com/rtaylormcknight">@rtaylormcknight</a>.</p>
+			<p>Get in touch with me on <a href="https://www.linkedin.com/in/rtaylormcknight/">LinkedIn</a> or <a href="https://twitter.com/rtaylormcknight">Twitter</a>.</p>
 		</div>
 	</section>
 </section>
